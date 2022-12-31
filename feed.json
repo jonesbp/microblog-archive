@@ -1,0 +1,1424 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Brian Jones",
+	"icon": "https://micro.blog/jonesbp/avatar.jpg",
+	"home_page_url": "https://micro.brianjon.es/",
+	"feed_url": "https://micro.brianjon.es/feed.json",
+	"items": [
+		
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/31/very-intrigued-by.html",
+				
+				"content_html": "<p>Very intrigued by Ben Brown’s <a href=\"https://shuttlecraft.net/\">Shuttlecraft</a> project, but have to resist the temptation to fiddle in order to stick with my pile of other unfinished personal projects.</p>\n",
+				"content_text": "Very intrigued by Ben Brown’s [Shuttlecraft](https://shuttlecraft.net/) project, but have to resist the temptation to fiddle in order to stick with my pile of other unfinished personal projects.\n",
+				"date_published": "2022-12-31T08:44:11-05:00",
+				"url": "https://micro.brianjon.es/2022/12/31/very-intrigued-by.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/25/lovely-feeling-to.html",
+				
+				"content_html": "<p>Lovely feeling to wake up to the first day of date-sensitive presentation code working as it should on its own.</p>\n",
+				"content_text": "Lovely feeling to wake up to the first day of date-sensitive presentation code working as it should on its own.\n",
+				"date_published": "2022-12-24T23:58:07-05:00",
+				"url": "https://micro.brianjon.es/2022/12/25/lovely-feeling-to.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/24/screensharing-on-my.html",
+				
+				"content_html": "<p>Screensharing on my basement server in Ohio from Belgium to confirm that the power is still on there, and that therefore we still have heat, and that therefore hopefully no pipes have frozen.</p>\n",
+				"content_text": "Screensharing on my basement server in Ohio from Belgium to confirm that the power is still on there, and that therefore we still have heat, and that therefore hopefully no pipes have frozen.\n",
+				"date_published": "2022-12-24T01:10:21-05:00",
+				"url": "https://micro.brianjon.es/2022/12/24/screensharing-on-my.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/22/went-to-the.html",
+				
+				"content_html": "<p>Went to the <a href=\"https://www.amsab.be/en/over-ons/nieuws/1085-expo-lucie-kamuswekera-geborduurd-verleden-verbeelde-toekomst\">exhibit</a> of Lucie Kamuswekera’s embroidery at the Ambsab social history museum in Gent yesterday. Got to see two of the pieces Sarah bought when she was last in Congo in the flesh for the first time and took a photo.</p>\n\n<p><img src=\"uploads/2022/419148f85b.jpg\" alt=\"Two pieces of embroidery on burlap hanging in a gallery space. One depicts Mobutu; the other Virunga National Park.\" title=\"kamuswekera.jpeg\" border=\"0\" width=\"599\" height=\"337\" /></p>\n",
+				"content_text": "Went to the [exhibit](https://www.amsab.be/en/over-ons/nieuws/1085-expo-lucie-kamuswekera-geborduurd-verleden-verbeelde-toekomst) of Lucie Kamuswekera’s embroidery at the Ambsab social history museum in Gent yesterday. Got to see two of the pieces Sarah bought when she was last in Congo in the flesh for the first time and took a photo.\n\n<img src=\"uploads/2022/419148f85b.jpg\" alt=\"Two pieces of embroidery on burlap hanging in a gallery space. One depicts Mobutu; the other Virunga National Park.\" title=\"kamuswekera.jpeg\" border=\"0\" width=\"599\" height=\"337\" />\n",
+				"date_published": "2022-12-22T03:24:44-05:00",
+				"url": "https://micro.brianjon.es/2022/12/22/went-to-the.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/19/sitting-in-the.html",
+				
+				"content_html": "<p>Sitting in the pithiness of Alan Jacobs’s notion of the past as “<a href=\"https://blog.ayjay.org/42391-2/\">our always-available counterculture</a>” all morning.</p>\n",
+				"content_text": "Sitting in the pithiness of Alan Jacobs’s notion of the past as “[our always-available counterculture](https://blog.ayjay.org/42391-2/)” all morning.\n",
+				"date_published": "2022-12-19T06:22:12-05:00",
+				"url": "https://micro.brianjon.es/2022/12/19/sitting-in-the.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/19/the-updates-on.html",
+				
+				"content_html": "<p>The updates on <a href=\"https://nova.app/\">Nova</a> keep coming just as I’ve become sick enough of a bug that I’m ready to submit a report myself. Perfect timing.</p>\n",
+				"content_text": "The updates on [Nova](https://nova.app/) keep coming just as I’ve become sick enough of a bug that I’m ready to submit a report myself. Perfect timing.\n",
+				"date_published": "2022-12-19T05:37:02-05:00",
+				"url": "https://micro.brianjon.es/2022/12/19/the-updates-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/18/covered-in-frozen.html",
+				
+				"content_html": "<p>Covered in frozen mist in Belgium and doing some digital housekeeping for the first time in a long time. Impressed by much DEVONthink has evolved since I last really pushed my understanding of it.</p>\n",
+				"content_text": "Covered in frozen mist in Belgium and doing some digital housekeeping for the first time in a long time. Impressed by much DEVONthink has evolved since I last really pushed my understanding of it.\n",
+				"date_published": "2022-12-18T07:00:43-05:00",
+				"url": "https://micro.brianjon.es/2022/12/18/covered-in-frozen.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/16/just-noticed-i.html",
+				
+				"content_html": "<p>Just noticed I posted over a year ago that I was working on redoing my personal site in Astro. I still am.</p>\n",
+				"content_text": "Just noticed I posted over a year ago that I was working on redoing my personal site in Astro. I still am.\n",
+				"date_published": "2022-12-16T10:36:46-05:00",
+				"url": "https://micro.brianjon.es/2022/12/16/just-noticed-i.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/14/found-felix-navidad.html",
+				
+				"content_html": "<p>Found ‘Feliz Navidad from Freddy Fender’ on vinyl at Twist and Shout in Denver a couple of years ago. It’s now in top holiday season rotation. <a href=\"https://m.youtube.com/watch?v=Q8Lhh2aZkf8\">m.youtube.com/watch</a></p>\n",
+				"content_text": "Found ‘Feliz Navidad from Freddy Fender’ on vinyl at Twist and Shout in Denver a couple of years ago. It’s now in top holiday season rotation. [m.youtube.com/watch](https://m.youtube.com/watch?v=Q8Lhh2aZkf8)\n",
+				"date_published": "2022-12-14T20:40:44-05:00",
+				"url": "https://micro.brianjon.es/2022/12/14/found-felix-navidad.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/14/taking-the-opportunity.html",
+				
+				"content_html": "<p>Taking the opportunity of a new laptop to get into using <a href=\"https://warp.dev\">Warp</a> as my terminal and am impressed with a lot of the new interface thinking. Little imperfections stand out strongly in the context of my experience with iTerm which is so rock-solid, but think the creativity may be worth the friction.</p>\n",
+				"content_text": "Taking the opportunity of a new laptop to get into using [Warp](https://warp.dev) as my terminal and am impressed with a lot of the new interface thinking. Little imperfections stand out strongly in the context of my experience with iTerm which is so rock-solid, but think the creativity may be worth the friction.\n",
+				"date_published": "2022-12-14T05:46:40-05:00",
+				"url": "https://micro.brianjon.es/2022/12/14/taking-the-opportunity.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/13/pretty-stoked-on.html",
+				
+				"content_html": "<p>Pretty stoked on the new <a href=\"https://publicdomainreview.org/explore/indexed\">index</a> we added to Public Domain Review today.</p>\n",
+				"content_text": "Pretty stoked on the new [index](https://publicdomainreview.org/explore/indexed) we added to Public Domain Review today.\n",
+				"date_published": "2022-12-13T12:52:23-05:00",
+				"url": "https://micro.brianjon.es/2022/12/13/pretty-stoked-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/12/04/visiting-state-college.html",
+				
+				"content_html": "<p>Visiting State College, PA this morning, getting ready for the Nittany Valley Half-Marathon, my first organized race in over three years after COVID closures and series of injuries.</p>\n",
+				"content_text": "Visiting State College, PA this morning, getting ready for the Nittany Valley Half-Marathon, my first organized race in over three years after COVID closures and series of injuries.\n",
+				"date_published": "2022-12-04T06:47:52-05:00",
+				"url": "https://micro.brianjon.es/2022/12/04/visiting-state-college.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/11/16/i-want-every.html",
+				
+				"content_html": "<p>I want every single pair of these vintage Patagonia baggies with bootleg logo and pattern embroidery <a href=\"https://petrifiedgood.org/\">petrifiedgood.org</a></p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2022/9bb0712d4a.jpg\" width=\"600\" height=\"600\" alt=\"Black shorts with rainbow colored dancing bears embroidery\"></p>\n",
+				"content_text": "I want every single pair of these vintage Patagonia baggies with bootleg logo and pattern embroidery [petrifiedgood.org](https://petrifiedgood.org/)\n\n<img src=\"https://micro.brianjon.es/uploads/2022/9bb0712d4a.jpg\" width=\"600\" height=\"600\" alt=\"Black shorts with rainbow colored dancing bears embroidery\">\n",
+				"date_published": "2022-11-16T09:06:44-05:00",
+				"url": "https://micro.brianjon.es/2022/11/16/i-want-every.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/05/23/have-really-been.html",
+				
+				"content_html": "<p>Have really been enjoying getting into <a href=\"https://github.com/vuejs/petite-vue\">petite-vue</a> for a little progressive enhancement on some client work this weekend. Nice to be able to use the reactivity mental model of Vue without a full app framework.</p>\n",
+				"content_text": "Have really been enjoying getting into [petite-vue](https://github.com/vuejs/petite-vue) for a little progressive enhancement on some client work this weekend. Nice to be able to use the reactivity mental model of Vue without a full app framework.\n",
+				"date_published": "2022-05-23T08:23:54-05:00",
+				"url": "https://micro.brianjon.es/2022/05/23/have-really-been.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/04/07/stoked-on-this.html",
+				
+				"content_html": "<p>Stoked on this Kerry Awn illustration we commissioned for <a href=\"https://local-memory.org\">Local Memory</a>, which I’ve finally gotten on the homepage.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2022/ae8083bd4f.jpg\" width=\"458\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Stoked on this Kerry Awn illustration we commissioned for [Local Memory](https://local-memory.org), which I’ve finally gotten on the homepage.\n\n<img src=\"https://micro.brianjon.es/uploads/2022/ae8083bd4f.jpg\" width=\"458\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-07T08:43:52-05:00",
+				"url": "https://micro.brianjon.es/2022/04/07/stoked-on-this.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/04/05/heartened-by-flickrs.html",
+				
+				"content_html": "<p>Heartened by <a href=\"https://www.flickr.com/help/forum/en-us/72157720510495566/#reply72157720613909345\">Flickr’s response</a> to the removal of the Internet Archive Book Images collection. Hope that the details all work out well, but the direction of the reaction is definitely encouraging. Well done.</p>\n",
+				"content_text": "Heartened by [Flickr’s response](https://www.flickr.com/help/forum/en-us/72157720510495566/#reply72157720613909345) to the removal of the Internet Archive Book Images collection. Hope that the details all work out well, but the direction of the reaction is definitely encouraging. Well done.\n",
+				"date_published": "2022-04-05T09:00:09-05:00",
+				"url": "https://micro.brianjon.es/2022/04/05/heartened-by-flickrs.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/04/04/flickr-has-deleted.html",
+				
+				"content_html": "<p>Flickr has deleted over 5 million book scan images associated with the Internet Archive Book Images collection and their related user-contributed metadata. <a href=\"https://publicdomainreview.org/blog/2022/04/5-million-book-illustrations-deleted-from-flickr\">Consider signing an open letter</a> asking that Flickr reconsider its decision.</p>\n",
+				"content_text": "Flickr has deleted over 5 million book scan images associated with the Internet Archive Book Images collection and their related user-contributed metadata. [Consider signing an open letter](https://publicdomainreview.org/blog/2022/04/5-million-book-illustrations-deleted-from-flickr) asking that Flickr reconsider its decision.\n",
+				"date_published": "2022-04-04T08:21:30-05:00",
+				"url": "https://micro.brianjon.es/2022/04/04/flickr-has-deleted.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/02/15/the-always-great.html",
+				
+				"content_html": "<p>The always great BBSP theorizes the <a href=\"https://www.blackbirdspyplane.com/p/un-grammable-hang-zone-manifesto\">U.G.H.Z. (Un-Grammable Hang Zone)</a>, an aesthetic fixation of mine I have always struggled to articulate. Kafé Kerouac is my favorite local U.G.H.Z. I’m always on the lookout in new towns, but they are harder and harder to find.</p>\n",
+				"content_text": "The always great BBSP theorizes the [U.G.H.Z. (Un-Grammable Hang Zone)](https://www.blackbirdspyplane.com/p/un-grammable-hang-zone-manifesto), an aesthetic fixation of mine I have always struggled to articulate. Kafé Kerouac is my favorite local U.G.H.Z. I’m always on the lookout in new towns, but they are harder and harder to find.\n",
+				"date_published": "2022-02-15T12:07:28-05:00",
+				"url": "https://micro.brianjon.es/2022/02/15/the-always-great.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2022/01/21/if-i-see.html",
+				
+				"content_html": "<p>If I see a cassette cover with a Bodys Isek Kingelez installation come through my email, you have my attention. If your promo copy then namechecks DJ Screw, I’m in. I had heard a bit of La Roche, but this <a href=\"https://nyegenyegetapes.bandcamp.com/album/liye-liye\">new one</a> from Nyege Nyege Tapes is revelatory.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2022/a02b1bdce2.jpg\" width=\"600\" height=\"600\" alt=\"Cassette cover art photo of Bodys Isek Kingelez cityscape installation with tracklisting\" /></p>\n",
+				"content_text": "If I see a cassette cover with a Bodys Isek Kingelez installation come through my email, you have my attention. If your promo copy then namechecks DJ Screw, I’m in. I had heard a bit of La Roche, but this [new one](https://nyegenyegetapes.bandcamp.com/album/liye-liye) from Nyege Nyege Tapes is revelatory.\n\n<img src=\"https://micro.brianjon.es/uploads/2022/a02b1bdce2.jpg\" width=\"600\" height=\"600\" alt=\"Cassette cover art photo of Bodys Isek Kingelez cityscape installation with tracklisting\" />\n",
+				"date_published": "2022-01-21T05:30:55-05:00",
+				"url": "https://micro.brianjon.es/2022/01/21/if-i-see.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/12/24/daily-meeting-with.html",
+				
+				"content_html": "<p>Daily meeting with the homies</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/1cceae2f4e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Daily meeting with the homies\n\n<img src=\"https://micro.brianjon.es/uploads/2021/1cceae2f4e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-24T10:32:53-05:00",
+				"url": "https://micro.brianjon.es/2021/12/24/daily-meeting-with.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/12/22/the-frost-on.html",
+				
+				"content_html": "<p>The frost on today’s morning walk was wild.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/2220d3735a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/19611aec95.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/4067e529e1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/5500212bed.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The frost on today’s morning walk was wild.\n\n<img src=\"https://micro.brianjon.es/uploads/2021/2220d3735a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/19611aec95.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/4067e529e1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/5500212bed.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-22T14:24:22-05:00",
+				"url": "https://micro.brianjon.es/2021/12/22/the-frost-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/12/05/started-experimenting-with.html",
+				
+				"content_html": "<p>Started experimenting with rebuilding my personal website (untouched through the COVID era) with <a href=\"https://astro.build/\">Astro</a>. Already excited to see much better it could be for some of the cases in which I reach for Gatsby.</p>\n",
+				"content_text": "Started experimenting with rebuilding my personal website (untouched through the COVID era) with [Astro](https://astro.build/). Already excited to see much better it could be for some of the cases in which I reach for Gatsby.\n",
+				"date_published": "2021-12-05T06:09:41-05:00",
+				"url": "https://micro.brianjon.es/2021/12/05/started-experimenting-with.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/12/04/made-an-adventstyle.html",
+				
+				"content_html": "<p>Made an advent-style <a href=\"https://publicdomainreview.org/features/entering-the-public-domain/2022/\">countdown calendar</a> to show off some notable work entering the public domain in 20\u001022.</p>\n",
+				"content_text": "Made an advent-style [countdown calendar](https://publicdomainreview.org/features/entering-the-public-domain/2022/) to show off some notable work entering the public domain in 20\u001022.\n",
+				"date_published": "2021-12-04T06:51:23-05:00",
+				"url": "https://micro.brianjon.es/2021/12/04/made-an-adventstyle.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/11/09/my-jadeite-keycaps.html",
+				
+				"content_html": "<p>My Jadeite keycaps have arrived after about 18 months of waiting, finally completing my COVID-extended build of the wireless Keychron K6 I use with my iPad.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/eb9e476b93.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My Jadeite keycaps have arrived after about 18 months of waiting, finally completing my COVID-extended build of the wireless Keychron K6 I use with my iPad.\n\n<img src=\"https://micro.brianjon.es/uploads/2021/eb9e476b93.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-09T10:19:47-05:00",
+				"url": "https://micro.brianjon.es/2021/11/09/my-jadeite-keycaps.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/11/03/lovely-review-of.html",
+				
+				"content_html": "<p><a href=\"https://www.the-tls.co.uk/articles/the-public-domain-review-adam-green-review-frances-wilson/\">Lovely review</a> of <em>The Public Domain Review</em> in new issue of the <em>Times Literary Supplement</em></p>\n",
+				"content_text": "[Lovely review](https://www.the-tls.co.uk/articles/the-public-domain-review-adam-green-review-frances-wilson/) of *The Public Domain Review* in new issue of the *Times Literary Supplement*\n",
+				"date_published": "2021-11-03T18:28:39-05:00",
+				"url": "https://micro.brianjon.es/2021/11/03/lovely-review-of.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/09/20/all-night-radio.html",
+				
+				"content_html": "<p>All Night Radio was absolutely one of my favorite SXSW live surprises (and records) of the early aughts. Raven Sings the Blues has a <a href=\"https://www.ravensingstheblues.com/all-night-radio-spirit-stereo-frequency/\">nice writeup</a> on the occasion of a small reissue.</p>\n",
+				"content_text": "All Night Radio was absolutely one of my favorite SXSW live surprises (and records) of the early aughts. Raven Sings the Blues has a [nice writeup](https://www.ravensingstheblues.com/all-night-radio-spirit-stereo-frequency/) on the occasion of a small reissue.\n",
+				"date_published": "2021-09-20T15:53:16-05:00",
+				"url": "https://micro.brianjon.es/2021/09/20/all-night-radio.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/08/18/the-desert-is.html",
+				
+				"content_html": "<p>“The Desert Is Paper Thin” by Corntuth is countrified ambient and probably my favorite thing I picked up on the last Bandcamp Friday. Now there’s a <a href=\"https://corntuth.bandcamp.com/campaign/the-desert-is-paper-thin\">crowdfund campaign for a vinyl release</a>.</p>\n",
+				"content_text": "“The Desert Is Paper Thin” by Corntuth is countrified ambient and probably my favorite thing I picked up on the last Bandcamp Friday. Now there’s a [crowdfund campaign for a vinyl release](https://corntuth.bandcamp.com/campaign/the-desert-is-paper-thin).\n",
+				"date_published": "2021-08-18T13:07:19-05:00",
+				"url": "https://micro.brianjon.es/2021/08/18/the-desert-is.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/08/11/last-morning-run.html",
+				
+				"content_html": "<p>Last morning run in the Kempen for the summer before heading back to Ohio for the school year.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/eca65fdc59.jpg\" width=\"600\" height=\"449\" alt=\"Small lock over creek with street sign in field\" /><img src=\"https://micro.brianjon.es/uploads/2021/536830d15f.jpg\" width=\"600\" height=\"450\" alt=\"Path through field at sunrise\" /><img src=\"https://micro.brianjon.es/uploads/2021/3b9672b3f4.jpg\" width=\"600\" height=\"450\" alt=\"Creek through heavy foliage\" /><img src=\"https://micro.brianjon.es/uploads/2021/b9b6546bf0.jpg\" width=\"600\" height=\"450\" alt=\"Farm road towards horizon at sunrise\" /></p>\n",
+				"content_text": "Last morning run in the Kempen for the summer before heading back to Ohio for the school year.\n\n\n\n<img src=\"https://micro.brianjon.es/uploads/2021/eca65fdc59.jpg\" width=\"600\" height=\"449\" alt=\"Small lock over creek with street sign in field\" /><img src=\"https://micro.brianjon.es/uploads/2021/536830d15f.jpg\" width=\"600\" height=\"450\" alt=\"Path through field at sunrise\" /><img src=\"https://micro.brianjon.es/uploads/2021/3b9672b3f4.jpg\" width=\"600\" height=\"450\" alt=\"Creek through heavy foliage\" /><img src=\"https://micro.brianjon.es/uploads/2021/b9b6546bf0.jpg\" width=\"600\" height=\"450\" alt=\"Farm road towards horizon at sunrise\" />\n",
+				"date_published": "2021-08-11T00:51:13-05:00",
+				"url": "https://micro.brianjon.es/2021/08/11/last-morning-run.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/08/04/one-step-closer.html",
+				
+				"content_html": "<p><a href=\"https://sixcolors.com/link/2021/08/magic-keyboard-with-touch-id-now-available-for-purchase/\">One step closer</a> to my dream of a standalone Touch ID button to put next to my Keyboardio Model 01.</p>\n",
+				"content_text": "[One step closer](https://sixcolors.com/link/2021/08/magic-keyboard-with-touch-id-now-available-for-purchase/) to my dream of a standalone Touch ID button to put next to my Keyboardio Model 01.\n",
+				"date_published": "2021-08-04T04:02:59-05:00",
+				"url": "https://micro.brianjon.es/2021/08/04/one-step-closer.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/08/04/really-excited-by.html",
+				
+				"content_html": "<p>Really excited by both the lovely presentation and the contents of Rob Weychert’s <a href=\"https://plusequals.art/\">Plus Equals</a> algorithmic art zine.</p>\n",
+				"content_text": "Really excited by both the lovely presentation and the contents of Rob Weychert’s [Plus Equals](https://plusequals.art/) algorithmic art zine.\n",
+				"date_published": "2021-08-04T03:35:58-05:00",
+				"url": "https://micro.brianjon.es/2021/08/04/really-excited-by.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/08/04/morning-fog-on.html",
+				
+				"content_html": "<p>Morning fog on the dunes in Hoge Rielen</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/b6570d2996.jpg\" width=\"600\" height=\"600\" alt=\"foggy landscape with sandy field and trees\" /></p>\n",
+				"content_text": "Morning fog on the dunes in Hoge Rielen\n\n<img src=\"https://micro.brianjon.es/uploads/2021/b6570d2996.jpg\" width=\"600\" height=\"600\" alt=\"foggy landscape with sandy field and trees\" />\n",
+				"date_published": "2021-08-03T23:40:19-05:00",
+				"url": "https://micro.brianjon.es/2021/08/04/morning-fog-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/08/01/sunday-morning-long.html",
+				
+				"content_html": "<p>Sunday morning long run for 16 miles through the Flemish farmland followed by some Dutch-Tex-Mex smoked mackerel and egg breakfast tacos on homemade tortillas (which I’d intended to photograph, but forgot).</p>\n",
+				"content_text": "Sunday morning long run for 16 miles through the Flemish farmland followed by some Dutch-Tex-Mex smoked mackerel and egg breakfast tacos on homemade tortillas (which I’d intended to photograph, but forgot).\n",
+				"date_published": "2021-08-01T01:52:55-05:00",
+				"url": "https://micro.brianjon.es/2021/08/01/sunday-morning-long.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/07/25/worked-out-a.html",
+				
+				"content_html": "<p>Worked out a new run to Gierle and back this morning</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/64bc2b2336.jpg\" width=\"600\" height=\"450\" alt=\"Small shrine in farm fields\" /><img src=\"https://micro.brianjon.es/uploads/2021/67d6e921fb.jpg\" width=\"600\" height=\"450\" alt=\"Downstream view from watermill\" /><img src=\"https://micro.brianjon.es/uploads/2021/0374e95e24.jpg\" width=\"600\" height=\"450\" alt=\"Footpath through the forest\" /><img src=\"https://micro.brianjon.es/uploads/2021/891d7f649b.jpg\" width=\"600\" height=\"450\" alt=\"First chapel in Tielen, from early 17th century\" /></p>\n",
+				"content_text": "Worked out a new run to Gierle and back this morning\n\n\n\n<img src=\"https://micro.brianjon.es/uploads/2021/64bc2b2336.jpg\" width=\"600\" height=\"450\" alt=\"Small shrine in farm fields\" /><img src=\"https://micro.brianjon.es/uploads/2021/67d6e921fb.jpg\" width=\"600\" height=\"450\" alt=\"Downstream view from watermill\" /><img src=\"https://micro.brianjon.es/uploads/2021/0374e95e24.jpg\" width=\"600\" height=\"450\" alt=\"Footpath through the forest\" /><img src=\"https://micro.brianjon.es/uploads/2021/891d7f649b.jpg\" width=\"600\" height=\"450\" alt=\"First chapel in Tielen, from early 17th century\" />\n",
+				"date_published": "2021-07-25T00:34:27-05:00",
+				"url": "https://micro.brianjon.es/2021/07/25/worked-out-a.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/07/24/ran-into-some.html",
+				
+				"content_html": "<p>Ran into some early-20s dudes walking back from town to their campsite while finishing up my sunrise run this morning. Got challenged to some head-to-head sprints. Beat all of them. Good signs for starting my proper marathon training regimen this week.</p>\n",
+				"content_text": "Ran into some early-20s dudes walking back from town to their campsite while finishing up my sunrise run this morning. Got challenged to some head-to-head sprints. Beat all of them. Good signs for starting my proper marathon training regimen this week.\n",
+				"date_published": "2021-07-24T00:54:36-05:00",
+				"url": "https://micro.brianjon.es/2021/07/24/ran-into-some.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2021/07/23/excited-about-the.html",
+				
+				"content_html": "<p>Excited about the new <a href=\"https://www.barebones.com/products/bbedit/bbedit14.html\">Notes</a> feature in BBEdit 14. The three things I use BBEdit for are opening multi-MB text files anything else would choke on, testing regex with Pattern Playgrounds, and opening dozens of ephemeral text files I never intend to save.</p>\n",
+				"content_text": "Excited about the new [Notes](https://www.barebones.com/products/bbedit/bbedit14.html) feature in BBEdit 14. The three things I use BBEdit for are opening multi-MB text files anything else would choke on, testing regex with Pattern Playgrounds, and opening dozens of ephemeral text files I never intend to save.\n",
+				"date_published": "2021-07-23T06:12:35-05:00",
+				"url": "https://micro.brianjon.es/2021/07/23/excited-about-the.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/12/28/our-installment-on.html",
+				
+				"content_html": "<p>Our 2020 installment on Local Memory, a public history project on music in Austin, is <a href=\"https://local-memory.org/the-rise-of-the-honky-tonks\">The Wild Side of Life: The Rise of the Honky Tonks, 1940-1950</a></p>\n",
+				"content_text": "Our 2020 installment on Local Memory, a public history project on music in Austin, is [The Wild Side of Life: The Rise of the Honky Tonks, 1940-1950](https://local-memory.org/the-rise-of-the-honky-tonks)\n",
+				"date_published": "2020-12-28T08:26:28-05:00",
+				"url": "https://micro.brianjon.es/2020/12/28/our-installment-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/06/16/wild-to-see.html",
+				
+				"content_html": "<p>Wild to see Khruangbin really <a href=\"https://www.nytimes.com/2020/06/15/arts/music/khruangbin-mordechai.html\">breaking out</a>. Good Houston.</p>\n",
+				"content_text": "Wild to see Khruangbin really [breaking out](https://www.nytimes.com/2020/06/15/arts/music/khruangbin-mordechai.html). Good Houston.\n",
+				"date_published": "2020-06-16T14:23:01-05:00",
+				"url": "https://micro.brianjon.es/2020/06/16/wild-to-see.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/05/31/thankful-to-take.html",
+				
+				"content_html": "<p>Thankful to take my son to see the protestors on High St. to give him something real in which to ground our conversations about this. Sorry it hasn’t felt safe to participate more. Hoping for justice for killer cops and peace for our Black neighbors.</p>\n",
+				"content_text": "Thankful to take my son to see the protestors on High St. to give him something real in which to ground our conversations about this. Sorry it hasn’t felt safe to participate more. Hoping for justice for killer cops and peace for our Black neighbors.\n",
+				"date_published": "2020-05-31T15:20:07-05:00",
+				"url": "https://micro.brianjon.es/2020/05/31/thankful-to-take.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/05/12/pretty-into-this.html",
+				
+				"content_html": "<p>Pretty into this little guy from a <a href=\"https://publicdomainreview.org/collection/erbario-15th-century-herbal\">15th century Italian herbal</a>, a collection of images from which we published today.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/6d67736e14.jpg\" width=\"464\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Pretty into this little guy from a [15th century Italian herbal](https://publicdomainreview.org/collection/erbario-15th-century-herbal), a collection of images from which we published today.\n\n\n<img src=\"https://micro.brianjon.es/uploads/2020/6d67736e14.jpg\" width=\"464\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-05-12T06:39:50-05:00",
+				"url": "https://micro.brianjon.es/2020/05/12/pretty-into-this.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/04/12/more-than-of.html",
+				
+				"content_html": "<p>More than 17% of the <a href=\"https://en.wikipedia.org/wiki/PrimeCo\">Wikipedia entry on PrimeCo</a>, once the largest wireless phone service in the U.S., addresses itself to the line “switched from Motorola to a PrimeCo phone” in Lil’ Troy’s “Wanna Be a Baller.” As it should.</p>\n",
+				"content_text": "More than 17% of the [Wikipedia entry on PrimeCo](https://en.wikipedia.org/wiki/PrimeCo), once the largest wireless phone service in the U.S., addresses itself to the line “switched from Motorola to a PrimeCo phone” in Lil’ Troy’s “Wanna Be a Baller.” As it should.\n",
+				"date_published": "2020-04-12T07:56:23-05:00",
+				"url": "https://micro.brianjon.es/2020/04/12/more-than-of.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/04/09/the-backlist-archive.html",
+				
+				"content_html": "<p>The Backlist archive is just small enough to make dead-stupid hand-formatted HTML (with some light automated templating) the simplest way to build it out. Old-fashioned and soothing.</p>\n",
+				"content_text": "The Backlist archive is just small enough to make dead-stupid hand-formatted HTML (with some light automated templating) the simplest way to build it out. Old-fashioned and soothing.\n",
+				"date_published": "2020-04-09T18:39:40-05:00",
+				"url": "https://micro.brianjon.es/2020/04/09/the-backlist-archive.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/04/04/finished-first-ragmask.html",
+				
+				"content_html": "<p>Finished first <a href=\"https://ragmask.com\">ragmask</a> from some of our wax print stockpile, some quilt batting, and a variation on the straps using paracord.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/8028fc7baf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Finished first [ragmask](https://ragmask.com) from some of our wax print stockpile, some quilt batting, and a variation on the straps using paracord.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/8028fc7baf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-04-04T07:24:37-05:00",
+				"url": "https://micro.brianjon.es/2020/04/04/finished-first-ragmask.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/04/02/sun-is-shining.html",
+				
+				"content_html": "<p>Sun is shining. Listening to Long Shadow Duo. Making my first <a href=\"https://ragmask.com\">ragmask</a>.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/5e4314684e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sun is shining. Listening to Long Shadow Duo. Making my first [ragmask](https://ragmask.com).\n\n<img src=\"https://micro.brianjon.es/uploads/2020/5e4314684e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-04-02T15:00:34-05:00",
+				"url": "https://micro.brianjon.es/2020/04/02/sun-is-shining.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/04/01/joshua-smith-makes.html",
+				
+				"content_html": "<p>Joshua Smith makes 1:20 scale miniatures of real buildings like this <a href=\"http://www.iknowjoshuasmith.com/work/discolandia/\">Discolandia storefront</a> in San Francisco.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/a69c470682.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "Joshua Smith makes 1:20 scale miniatures of real buildings like this [Discolandia storefront](http://www.iknowjoshuasmith.com/work/discolandia/) in San Francisco.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/a69c470682.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2020-04-01T08:45:16-05:00",
+				"url": "https://micro.brianjon.es/2020/04/01/joshua-smith-makes.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/04/01/gave-up-on.html",
+				
+				"content_html": "<p>Gave up on going back to sleep. Listening to Emily A. Sprague’s new <a href=\"https://mlesprg.bandcamp.com/album/hill-flower-fog\">Hill, Flower, Fog</a>. Very calming.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/4eb3bcc50e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Gave up on going back to sleep. Listening to Emily A. Sprague’s new [Hill, Flower, Fog](https://mlesprg.bandcamp.com/album/hill-flower-fog). Very calming.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/4eb3bcc50e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-04-01T03:22:47-05:00",
+				"url": "https://micro.brianjon.es/2020/04/01/gave-up-on.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/03/26/laurel-canyon-vibes.html",
+				
+				"content_html": "<p>Laurel Canyon vibes from this <a href=\"https://mapachesounds.bandcamp.com/album/from-liberty-street\">new Mapache record</a> are good for being stuck indoors.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/052fd9ecb0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Laurel Canyon vibes from this [new Mapache record](https://mapachesounds.bandcamp.com/album/from-liberty-street) are good for being stuck indoors.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/052fd9ecb0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-03-26T05:22:44-05:00",
+				"url": "https://micro.brianjon.es/2020/03/26/laurel-canyon-vibes.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/03/22/im-into-miniatures.html",
+				
+				"content_html": "<p>I&rsquo;m into miniatures, fiber art, and cooking, so these videos are right up my alley. <a href=\"https://www.youtube.com/watch?v=XTs63G7Wdj8\">www.youtube.com/watch</a></p>\n",
+				"content_text": "I'm into miniatures, fiber art, and cooking, so these videos are right up my alley. [www.youtube.com/watch](https://www.youtube.com/watch?v=XTs63G7Wdj8)\n",
+				"date_published": "2020-03-22T18:30:00-05:00",
+				"url": "https://micro.brianjon.es/2020/03/22/im-into-miniatures.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/03/19/tomorrow-friday-march.html",
+				
+				"content_html": "<p>Tomorrow, Friday March 20, <a href=\"https://daily.bandcamp.com/features/bandcamp-covid-19-fundraiser\">Bandcamp is waving their cut on all sales</a> to help support artists who are having to cancel performances.</p>\n",
+				"content_text": "Tomorrow, Friday March 20, [Bandcamp is waving their cut on all sales](https://daily.bandcamp.com/features/bandcamp-covid-19-fundraiser) to help support artists who are having to cancel performances.\n",
+				"date_published": "2020-03-19T06:23:11-05:00",
+				"url": "https://micro.brianjon.es/2020/03/19/tomorrow-friday-march.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/03/18/confronting-mortality-by.html",
+				
+				"content_html": "<p>Confronting mortality by finally cataloging and organizing all of the books I will never have time to read on the basement bookshelves.</p>\n",
+				"content_text": "Confronting mortality by finally cataloging and organizing all of the books I will never have time to read on the basement bookshelves.\n",
+				"date_published": "2020-03-18T11:04:51-05:00",
+				"url": "https://micro.brianjon.es/2020/03/18/confronting-mortality-by.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/03/17/very-happy-that.html",
+				
+				"content_html": "<p>Very happy that I don’t have to choose between voting and potentially bringing the infection into my house with my kid today. Also nervous about the potential for this precedent to be abused in the general election.</p>\n",
+				"content_text": "Very happy that I don’t have to choose between voting and potentially bringing the infection into my house with my kid today. Also nervous about the potential for this precedent to be abused in the general election.\n",
+				"date_published": "2020-03-17T05:02:31-05:00",
+				"url": "https://micro.brianjon.es/2020/03/17/very-happy-that.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/03/12/i-have-a.html",
+				
+				"content_html": "<p>I have a lot of <a href=\"https://daily.bandcamp.com/label-profile/astral-spirits-label-guide\">Astral Spirits</a> stuff. A lot of diverse, compelling material and great art direction on the packaging. Good Austin.</p>\n",
+				"content_text": "I have a lot of [Astral Spirits](https://daily.bandcamp.com/label-profile/astral-spirits-label-guide) stuff. A lot of diverse, compelling material and great art direction on the packaging. Good Austin.\n",
+				"date_published": "2020-03-12T13:29:03-05:00",
+				"url": "https://micro.brianjon.es/2020/03/12/i-have-a.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/03/02/binned-art-is.html",
+				
+				"content_html": "<p><a href=\"https://binnedart.com/\">Binned Art</a> is an interesting concept: anonymous sales allow artists to recoup costs and clear space while providing the opportunity to own original artworks to a broader audience.</p>\n",
+				"content_text": "[Binned Art](https://binnedart.com/) is an interesting concept: anonymous sales allow artists to recoup costs and clear space while providing the opportunity to own original artworks to a broader audience.\n",
+				"date_published": "2020-03-02T11:45:39-05:00",
+				"url": "https://micro.brianjon.es/2020/03/02/binned-art-is.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/02/14/i-miss-the.html",
+				
+				"content_html": "<p>I miss the in-store bakery <a href=\"https://www.bonappetit.com/story/heb-flour-tortillas\">flour tortillas from H-E-B</a> so much. (My homemade ones are only a little better, but/and so much more work…)</p>\n\n<p>Honorable mention to in-store bakery corn tortillas from Fiesta.</p>\n",
+				"content_text": "I miss the in-store bakery [flour tortillas from H-E-B](https://www.bonappetit.com/story/heb-flour-tortillas) so much. (My homemade ones are only a little better, but/and so much more work…)\n\nHonorable mention to in-store bakery corn tortillas from Fiesta.\n",
+				"date_published": "2020-02-14T06:18:41-05:00",
+				"url": "https://micro.brianjon.es/2020/02/14/i-miss-the.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/01/31/revisiting-harmony-korine.html",
+				
+				"content_html": "<p>Revisiting Harmony Korine. Had forgotten the opening to Mister Lonely.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/50ff6ecfb2.jpg\" width=\"600\" height=\"251\" alt=\"\" /></p>\n",
+				"content_text": "Revisiting Harmony Korine. Had forgotten the opening to Mister Lonely.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/50ff6ecfb2.jpg\" width=\"600\" height=\"251\" alt=\"\" />\n",
+				"date_published": "2020-01-31T14:30:45-05:00",
+				"url": "https://micro.brianjon.es/2020/01/31/revisiting-harmony-korine.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/01/31/austin-kleon-on.html",
+				
+				"content_html": "<p>Austin Kleon on using your books as <a href=\"https://austinkleon.com/2020/01/29/how-to-turn-your-books-into-time-capsules/\">time capsules</a>. I try to do a similar thing by using postcards, ticket stubs, restaurant cards, etc. as bookmarks and leaving them in the book when I finish.</p>\n",
+				"content_text": "Austin Kleon on using your books as [time capsules](https://austinkleon.com/2020/01/29/how-to-turn-your-books-into-time-capsules/). I try to do a similar thing by using postcards, ticket stubs, restaurant cards, etc. as bookmarks and leaving them in the book when I finish.\n",
+				"date_published": "2020-01-31T09:31:40-05:00",
+				"url": "https://micro.brianjon.es/2020/01/31/austin-kleon-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/01/28/michael-found-some.html",
+				
+				"content_html": "<p>Michael found some <a href=\"https://local-memory.org/notes/music-hub-ut/\">Billboard magazine surveys</a> that show UT-Austin as one of the most active destinations nationally for big band touring in the Swing era.</p>\n",
+				"content_text": "Michael found some [Billboard magazine surveys](https://local-memory.org/notes/music-hub-ut/) that show UT-Austin as one of the most active destinations nationally for big band touring in the Swing era.\n",
+				"date_published": "2020-01-28T09:44:54-05:00",
+				"url": "https://micro.brianjon.es/2020/01/28/michael-found-some.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/01/15/sahel-sounds-will.html",
+				
+				"content_html": "<p>Sahel Sounds will be releasing an EP each month in 2020 for a “Music from Saharan WhatsApp” series. Each one will be recorded on a cellphone and transmitted over WhatsApp to be available on Bandcamp for one month.</p>\n\n<p>The <a href=\"https://etrandelair.bandcamp.com/\">first installment</a> is from Agadez guitar band Etran de L’Aïr.</p>\n",
+				"content_text": "Sahel Sounds will be releasing an EP each month in 2020 for a “Music from Saharan WhatsApp” series. Each one will be recorded on a cellphone and transmitted over WhatsApp to be available on Bandcamp for one month.\n\nThe [first installment](https://etrandelair.bandcamp.com/) is from Agadez guitar band Etran de L’Aïr.\n",
+				"date_published": "2020-01-15T12:40:52-05:00",
+				"url": "https://micro.brianjon.es/2020/01/15/sahel-sounds-will.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/01/14/interesting-recent-episode.html",
+				
+				"content_html": "<p><a href=\"https://afropop.org/audio-programs/reissued-african-vinyl-in-the-21st-century\">Interesting recent episode</a> of Afropop Worldwide on the power dynamics involved in vinyl reissues of African music, particularly on the way that Western tastes shape what has been saved.</p>\n",
+				"content_text": "[Interesting recent episode](https://afropop.org/audio-programs/reissued-african-vinyl-in-the-21st-century) of Afropop Worldwide on the power dynamics involved in vinyl reissues of African music, particularly on the way that Western tastes shape what has been saved.\n",
+				"date_published": "2020-01-14T15:19:12-05:00",
+				"url": "https://micro.brianjon.es/2020/01/14/interesting-recent-episode.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/01/13/some-of-the.html",
+				
+				"content_html": "<p>Some of the “outsider pedal steel” <a href=\"https://www.npr.org/2020/01/07/793989801/the-endless-potential-of-the-pedal-steel-guitar-an-odd-duck-by-any-measure\">referenced here</a> is new to me and I’m interested to check it out. Drag that Ricky wasn’t named and given credit for a broader influence across the Phosphorescent output. Also, don’t sleep on Gary Newcomb playing with Lil’ Cap’n Travis.</p>\n",
+				"content_text": "Some of the “outsider pedal steel” [referenced here](https://www.npr.org/2020/01/07/793989801/the-endless-potential-of-the-pedal-steel-guitar-an-odd-duck-by-any-measure) is new to me and I’m interested to check it out. Drag that Ricky wasn’t named and given credit for a broader influence across the Phosphorescent output. Also, don’t sleep on Gary Newcomb playing with Lil’ Cap’n Travis.\n",
+				"date_published": "2020-01-13T15:01:31-05:00",
+				"url": "https://micro.brianjon.es/2020/01/13/some-of-the.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/01/09/looking-forward-to.html",
+				
+				"content_html": "<p>Looking forward to get the hardcopy of Issue #0 of new <a href=\"https://code-art.xyz/about/\">code::art</a> journal.</p>\n\n<p>PDF version is freely downloadable, and there’s some interesting stuff in here.</p>\n",
+				"content_text": "Looking forward to get the hardcopy of Issue #0 of new [code::art](https://code-art.xyz/about/) journal.\n\nPDF version is freely downloadable, and there’s some interesting stuff in here.\n",
+				"date_published": "2020-01-09T07:08:06-05:00",
+				"url": "https://micro.brianjon.es/2020/01/09/looking-forward-to.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2020/01/02/we-brought-this.html",
+				
+				"content_html": "<p>We brought this guy, Antonio, home yesterday to start the new year.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/d9586abffb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "We brought this guy, Antonio, home yesterday to start the new year.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/d9586abffb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-01-02T07:14:49-05:00",
+				"url": "https://micro.brianjon.es/2020/01/02/we-brought-this.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/12/31/i-love-this.html",
+				
+				"content_html": "<p>I love this colorful installation of felt pieces by <a href=\"http://www.masakomiki.com/2019-03.html\">Masako Miki</a>. I would love to learn how to felt things; I’d like to understand how to exert a little control over the magic that goes on between the initial construction and the felted product.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/b95e494162.jpg\" width=\"600\" height=\"399\" alt=\"\" /></p>\n",
+				"content_text": "I love this colorful installation of felt pieces by [Masako Miki](http://www.masakomiki.com/2019-03.html). I would love to learn how to felt things; I’d like to understand how to exert a little control over the magic that goes on between the initial construction and the felted product.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/b95e494162.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
+				"date_published": "2019-12-31T05:42:58-05:00",
+				"url": "https://micro.brianjon.es/2019/12/31/i-love-this.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/12/30/im-catching-up.html",
+				
+				"content_html": "<p>I’m catching up with reading I’ve socked away over the last month, and <a href=\"https://24ways.org/2019/its-time-to-get-personal/\">this from Laura Kalbag</a> on personal websites was very good.</p>\n",
+				"content_text": "I’m catching up with reading I’ve socked away over the last month, and [this from Laura Kalbag](https://24ways.org/2019/its-time-to-get-personal/) on personal websites was very good.\n",
+				"date_published": "2019-12-30T07:06:47-05:00",
+				"url": "https://micro.brianjon.es/2019/12/30/im-catching-up.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/12/13/back-on-belgium.html",
+				
+				"content_html": "<p>Back on Belgium time with most of the workday ahead of me before I expect to hear from U.S. collaborators. The best.</p>\n",
+				"content_text": "Back on Belgium time with most of the workday ahead of me before I expect to hear from U.S. collaborators. The best.\n",
+				"date_published": "2019-12-13T01:59:04-05:00",
+				"url": "https://micro.brianjon.es/2019/12/13/back-on-belgium.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/11/22/the-redesignreboot-of.html",
+				
+				"content_html": "<p>The redesign/reboot of the <a href=\"https://publicdomainreview.org\">Public Domain Review</a> that I’ve been working on is finally online.</p>\n",
+				"content_text": "The redesign/reboot of the [Public Domain Review](https://publicdomainreview.org) that I’ve been working on is finally online.\n",
+				"date_published": "2019-11-22T10:28:46-05:00",
+				"url": "https://micro.brianjon.es/2019/11/22/the-redesignreboot-of.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/11/11/in-the-final.html",
+				
+				"content_html": "<p>In the final week of a project I’ve been working on all summer and fall. Looking forward to being able to talk about it.</p>\n",
+				"content_text": "In the final week of a project I’ve been working on all summer and fall. Looking forward to being able to talk about it.\n",
+				"date_published": "2019-11-11T08:21:25-05:00",
+				"url": "https://micro.brianjon.es/2019/11/11/in-the-final.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/11/01/years-of-lateth.html",
+				
+				"content_html": "<p>20 years of late-20th century contemporary music journal <a href=\"https://www.contactjournal.gold.ac.uk/\">Contact</a> archived by Goldsmiths, University of London</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/11f48d7e5e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "20 years of late-20th century contemporary music journal [Contact](https://www.contactjournal.gold.ac.uk/) archived by Goldsmiths, University of London\n\n<img src=\"https://micro.brianjon.es/uploads/2019/11f48d7e5e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-11-01T14:01:34-05:00",
+				"url": "https://micro.brianjon.es/2019/11/01/years-of-lateth.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/10/31/the-public-domain.html",
+				
+				"content_html": "<p>_The Public Domain Review_’s <a href=\"https://publicdomainreview.org/product/the-public-domain-review-selected-essays-vol-vi\">Selected Essays Volume VI</a> is available for order today.</p>\n",
+				"content_text": "_The Public Domain Review_’s [Selected Essays Volume VI](https://publicdomainreview.org/product/the-public-domain-review-selected-essays-vol-vi) is available for order today.\n",
+				"date_published": "2019-10-31T09:47:06-05:00",
+				"url": "https://micro.brianjon.es/2019/10/31/the-public-domain.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/10/26/bless-the-nerd.html",
+				
+				"content_html": "<p>Bless the nerd who put this <a href=\"https://nl.wikipedia.org/wiki/Lijst_van_dvd%27s_van_De_Smurfen\">list</a> of Dutch-language Smurfs DVDs and their episode titles on Wikipedia.</p>\n",
+				"content_text": "Bless the nerd who put this [list](https://nl.wikipedia.org/wiki/Lijst_van_dvd%27s_van_De_Smurfen) of Dutch-language Smurfs DVDs and their episode titles on Wikipedia.\n",
+				"date_published": "2019-10-26T08:15:50-05:00",
+				"url": "https://micro.brianjon.es/2019/10/26/bless-the-nerd.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/10/24/i-have-the.html",
+				
+				"content_html": "<p>I have the Berlin/Kantstraße issue of Flaneur, but haven’t kept up with it. This <a href=\"https://www.itsnicethat.com/articles/flaneur-studio-yukiko-publication-250919\">new Taipei issue</a> looks like it has some amazing colors and typography.</p>\n",
+				"content_text": "I have the Berlin/Kantstraße issue of Flaneur, but haven’t kept up with it. This [new Taipei issue](https://www.itsnicethat.com/articles/flaneur-studio-yukiko-publication-250919) looks like it has some amazing colors and typography.\n",
+				"date_published": "2019-10-24T12:59:49-05:00",
+				"url": "https://micro.brianjon.es/2019/10/24/i-have-the.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/10/20/columbus-marathon-starting.html",
+				
+				"content_html": "<p>Columbus Marathon starting area</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/46ee0d71ac.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Columbus Marathon starting area\n\n<img src=\"https://micro.brianjon.es/uploads/2019/46ee0d71ac.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-10-20T06:22:07-05:00",
+				"url": "https://micro.brianjon.es/2019/10/20/columbus-marathon-starting.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/10/15/quality-time-with.html",
+				
+				"content_html": "<p>🎵 Quality time with the PayPal Subscriptions API and the Friends of Dean Martinez cover of “<a href=\"https://www.youtube.com/watch?v=Cf7Xhb3R83o\">Wichita Lineman</a>”</p>\n",
+				"content_text": "🎵 Quality time with the PayPal Subscriptions API and the Friends of Dean Martinez cover of “[Wichita Lineman](https://www.youtube.com/watch?v=Cf7Xhb3R83o)”\n",
+				"date_published": "2019-10-15T10:04:26-05:00",
+				"url": "https://micro.brianjon.es/2019/10/15/quality-time-with.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/10/14/this-episode-of.html",
+				
+				"content_html": "<p><a href=\"https://www.relay.fm/upgrade/267\">This episode</a> of Upgrade with James Thomson is interesting throughout, but particularly enjoyed the final third or so where a history of DragThing provided lots of 90s Mac shareware development nostalgia (ColdWarrior, Kagi, etc.)</p>\n",
+				"content_text": "[This episode](https://www.relay.fm/upgrade/267) of Upgrade with James Thomson is interesting throughout, but particularly enjoyed the final third or so where a history of DragThing provided lots of 90s Mac shareware development nostalgia (ColdWarrior, Kagi, etc.) \n",
+				"date_published": "2019-10-14T15:24:58-05:00",
+				"url": "https://micro.brianjon.es/2019/10/14/this-episode-of.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/10/12/so-stoked-on.html",
+				
+				"content_html": "<p>So stoked on Kipchoge’s sub-2-hour marathon yesterday in Vienna. Seems like it must be only a matter of time now that one will happen in proper race conditions. <a href=\"https://www.nytimes.com/2019/10/12/sports/eliud-kipchoge-marathon-record.html\">www.nytimes.com/2019/10/1&hellip;</a></p>\n",
+				"content_text": "So stoked on Kipchoge’s sub-2-hour marathon yesterday in Vienna. Seems like it must be only a matter of time now that one will happen in proper race conditions. [www.nytimes.com/2019/10/1...](https://www.nytimes.com/2019/10/12/sports/eliud-kipchoge-marathon-record.html)\n",
+				"date_published": "2019-10-12T14:12:29-05:00",
+				"url": "https://micro.brianjon.es/2019/10/12/so-stoked-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/10/08/when-trying-out.html",
+				
+				"content_html": "<p>When trying out a Chromebook a few years ago, I remember being impressed by the Markdown editor <a href=\"https://caret.io/\">Caret</a>, but more as a parlor trick than a reliable tool. Revisiting it at version 4.0, and it has come a very long way.</p>\n",
+				"content_text": "When trying out a Chromebook a few years ago, I remember being impressed by the Markdown editor [Caret](https://caret.io/), but more as a parlor trick than a reliable tool. Revisiting it at version 4.0, and it has come a very long way.\n",
+				"date_published": "2019-10-08T04:14:19-05:00",
+				"url": "https://micro.brianjon.es/2019/10/08/when-trying-out.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/10/07/i-miss-phinery.html",
+				
+				"content_html": "<p>I miss Phinery tapes. Always simple, beautiful packaging. Writing documentation and listening to <a href=\"https://phinery.bandcamp.com/album/tile\">this 2017 Vales release</a>.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/8fee72d2c2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I miss Phinery tapes. Always simple, beautiful packaging. Writing documentation and listening to [this 2017 Vales release](https://phinery.bandcamp.com/album/tile).\n\n<img src=\"https://micro.brianjon.es/uploads/2019/8fee72d2c2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-10-07T10:36:27-05:00",
+				"url": "https://micro.brianjon.es/2019/10/07/i-miss-phinery.html",
+				"tags": ["Music","Photos"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/10/07/presunrise-postrain-frog.html",
+				
+				"content_html": "<p>Pre-sunrise, post-rain frog song coming in through the window over the heavy drones from this <a href=\"https://oxtailrecordings.bandcamp.com/album/split-6\">Luciernaga/John Lindaman split</a> from Oxtail Recordings.</p>\n",
+				"content_text": "Pre-sunrise, post-rain frog song coming in through the window over the heavy drones from this [Luciernaga/John Lindaman split](https://oxtailrecordings.bandcamp.com/album/split-6) from Oxtail Recordings.\n",
+				"date_published": "2019-10-07T05:36:47-05:00",
+				"url": "https://micro.brianjon.es/2019/10/07/presunrise-postrain-frog.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/09/14/every-time-i.html",
+				
+				"content_html": "<p>Every time I revisit Ernest Haeckel’s <a href=\"https://publicdomainreview.org/collections/ernst-haeckels-jellyfish/\">natural illustrations</a> I get into a different set of his palettes. This is my current favorite.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/b96be95e13.jpg\" width=\"419\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Every time I revisit Ernest Haeckel’s [natural illustrations](https://publicdomainreview.org/collections/ernst-haeckels-jellyfish/) I get into a different set of his palettes. This is my current favorite.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/b96be95e13.jpg\" width=\"419\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-09-14T14:51:27-05:00",
+				"url": "https://micro.brianjon.es/2019/09/14/every-time-i.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/07/17/cool-use-of.html",
+				
+				"content_html": "<p>Cool use of double-paned glass: lettering on front pane with brushed backdrop on back pane creates depth effect.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/ba233c151c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Cool use of double-paned glass: lettering on front pane with brushed backdrop on back pane creates depth effect.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/ba233c151c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-07-17T03:02:19-05:00",
+				"url": "https://micro.brianjon.es/2019/07/17/cool-use-of.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/07/15/im-pretty-happy.html",
+				
+				"content_html": "<p>I’m pretty happy with these <a href=\"https://local-memory.org/notes/national-bands-in-austin/\">updated presentations</a> on our pieces connecting national touring bands to Austin and UT in the 1930s.</p>\n",
+				"content_text": "I’m pretty happy with these [updated presentations](https://local-memory.org/notes/national-bands-in-austin/) on our pieces connecting national touring bands to Austin and UT in the 1930s.\n",
+				"date_published": "2019-07-15T13:21:34-05:00",
+				"url": "https://micro.brianjon.es/2019/07/15/im-pretty-happy.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/07/14/ill-jump-on.html",
+				
+				"content_html": "<p>I’ll jump on anything about <em>Sail Away</em> or <em>Good Old Boys</em>, and <a href=\"http://revisionisthistory.com/episodes/34-good-old-boys\">this episode</a> of Malcolm Gladwell’s podcast gets into both. I am used to Gladwell answering his own questions emphatically. I think he thinks he answers his question here, if less emphatically. I’m not sure he does.</p>\n",
+				"content_text": "I’ll jump on anything about _Sail Away_ or _Good Old Boys_, and [this episode](http://revisionisthistory.com/episodes/34-good-old-boys) of Malcolm Gladwell’s podcast gets into both. I am used to Gladwell answering his own questions emphatically. I think he thinks he answers his question here, if less emphatically. I’m not sure he does.\n",
+				"date_published": "2019-07-14T08:41:47-05:00",
+				"url": "https://micro.brianjon.es/2019/07/14/ill-jump-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/07/09/glitch-in-vs.html",
+				
+				"content_html": "<p><a href=\"https://culture-zine.glitch.me/culture/announcing-glitch-for-visual-studio-code/\">Glitch in VS Code</a> is exciting. The online editor is impressive, but I‘ll be even more likely to use Glitch as a sandbox for experiments if I can use my normal tools.</p>\n",
+				"content_text": "[Glitch in VS Code](https://culture-zine.glitch.me/culture/announcing-glitch-for-visual-studio-code/) is exciting. The online editor is impressive, but I‘ll be even more likely to use Glitch as a sandbox for experiments if I can use my normal tools.\n",
+				"date_published": "2019-07-09T09:20:36-05:00",
+				"url": "https://micro.brianjon.es/2019/07/09/glitch-in-vs.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/07/02/sunrise-run-in.html",
+				
+				"content_html": "<p>Sunrise run in Savoy</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/9ee06bb808.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sunrise run in Savoy\n\n<img src=\"https://micro.brianjon.es/uploads/2019/9ee06bb808.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-07-01T23:25:59-05:00",
+				"url": "https://micro.brianjon.es/2019/07/02/sunrise-run-in.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/07/01/posted-an-interview.html",
+				
+				"content_html": "<p>Posted an <a href=\"https://local-memory.org/notes/interview-with-alvin-fielder/\">interview with the late Alvin Fielder</a>, a founding member of the Association for the Advancement of Creative Musicians, about his time as a student at Texas Southern in 1950s Houston and the influence of R&amp;B on jazz.</p>\n",
+				"content_text": "Posted an [interview with the late Alvin Fielder](https://local-memory.org/notes/interview-with-alvin-fielder/), a founding member of the Association for the Advancement of Creative Musicians, about his time as a student at Texas Southern in 1950s Houston and the influence of R&B on jazz.\n",
+				"date_published": "2019-07-01T00:21:28-05:00",
+				"url": "https://micro.brianjon.es/2019/07/01/posted-an-interview.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/06/19/juneteenth-seems-like.html",
+				
+				"content_html": "<p>Juneteenth seems like a good time to <a href=\"https://local-memory.org/athens-on-the-colorado/narratives/gene-ramey\">link to</a> these excerpts of Gene Ramey’s recollections of music performance in East Austin in the early twentieth century.</p>\n",
+				"content_text": "Juneteenth seems like a good time to [link to](https://local-memory.org/athens-on-the-colorado/narratives/gene-ramey) these excerpts of Gene Ramey’s recollections of music performance in East Austin in the early twentieth century.\n",
+				"date_published": "2019-06-19T02:41:09-05:00",
+				"url": "https://micro.brianjon.es/2019/06/19/juneteenth-seems-like.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/06/19/the-question-we.html",
+				
+				"content_html": "<blockquote>\n<p>“The question we need to ask is not whether our data is safe, but why there is suddenly so much of it that needs protecting. The problem with the dragon, after all, is not its stockpile stewardship, but its appetite.”</p>\n</blockquote>\n\n<p><a href=\"https://idlewords.com/2019/06/the_new_wilderness.htm\">https://idlewords.com/2019/06/the_new_wilderness.htm</a></p>\n",
+				"content_text": "> “The question we need to ask is not whether our data is safe, but why there is suddenly so much of it that needs protecting. The problem with the dragon, after all, is not its stockpile stewardship, but its appetite.”\n\nhttps://idlewords.com/2019/06/the_new_wilderness.htm\n",
+				"date_published": "2019-06-19T02:23:36-05:00",
+				"url": "https://micro.brianjon.es/2019/06/19/the-question-we.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/06/17/weve-published-several.html",
+				
+				"content_html": "<p>We’ve published several updates and a couple of new essays to the <a href=\"https://local-memory.org/notes/east-austin-swing-and-other-updates/\">Athens on the Colorado</a> exhibit on Local Memory, our website on the history of music in Austin</p>\n",
+				"content_text": "We’ve published several updates and a couple of new essays to the [Athens on the Colorado](https://local-memory.org/notes/east-austin-swing-and-other-updates/) exhibit on Local Memory, our website on the history of music in Austin\n",
+				"date_published": "2019-06-17T09:55:44-05:00",
+				"url": "https://micro.brianjon.es/2019/06/17/weve-published-several.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/06/17/the-midyear-fundraiser.html",
+				
+				"content_html": "<p>The <a href=\"https://publicdomainreview.org/support/\">mid-year fundraiser</a> for Public Domain Review ends Wednesday. Under 100 new supporters to reach the goal.</p>\n",
+				"content_text": "The [mid-year fundraiser](https://publicdomainreview.org/support/) for Public Domain Review ends Wednesday. Under 100 new supporters to reach the goal.\n",
+				"date_published": "2019-06-17T03:41:01-05:00",
+				"url": "https://micro.brianjon.es/2019/06/17/the-midyear-fundraiser.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/06/02/rheinruhrmarathon-starting-line.html",
+				
+				"content_html": "<p>Rhein-Ruhr-Marathon starting line in Duisburg for my last European marathon for our year in Gent and fourth of four in two months.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/12ee289e32.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Rhein-Ruhr-Marathon starting line in Duisburg for my last European marathon for our year in Gent and fourth of four in two months.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/12ee289e32.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-06-02T01:03:22-05:00",
+				"url": "https://micro.brianjon.es/2019/06/02/rheinruhrmarathon-starting-line.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/06/01/at-an-early.html",
+				
+				"content_html": "<p>At an early dinner on the Innenhafen and amazed at how little Duisburg has changed in the six years since we lived here.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/93202caed9.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/ffe95f4f64.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "At an early dinner on the Innenhafen and amazed at how little Duisburg has changed in the six years since we lived here.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/93202caed9.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/ffe95f4f64.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-06-01T10:14:12-05:00",
+				"url": "https://micro.brianjon.es/2019/06/01/at-an-early.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/06/01/the-inclusion-of.html",
+				
+				"content_html": "<p>The inclusion of tick repellent spray in my participant pack for the Rhein-Ruhr-Marathon is not comforting.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/c6e2a628c3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The inclusion of tick repellent spray in my participant pack for the Rhein-Ruhr-Marathon is not comforting.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/c6e2a628c3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-06-01T07:18:20-05:00",
+				"url": "https://micro.brianjon.es/2019/06/01/the-inclusion-of.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/06/01/woke-up-to.html",
+				
+				"content_html": "<p>Woke up to the news that <a href=\"https://www.austinchronicle.com/daily/music/2019-05-31/roky-erickson-ascends-to-the-13th-floor-1947-2019/\">Roky Erickson had died</a>. So much of my lifelong interest in seeking out challenging music can be traced back to memories of listening to Elevators records while doing the dishes with my dad as a kid.</p>\n",
+				"content_text": "Woke up to the news that [Roky Erickson had died](https://www.austinchronicle.com/daily/music/2019-05-31/roky-erickson-ascends-to-the-13th-floor-1947-2019/). So much of my lifelong interest in seeking out challenging music can be traced back to memories of listening to Elevators records while doing the dishes with my dad as a kid.\n",
+				"date_published": "2019-06-01T00:10:08-05:00",
+				"url": "https://micro.brianjon.es/2019/06/01/woke-up-to.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/06/01/ss-singleartwork-or.html",
+				
+				"content_html": "<p>1960s/1970s single-artwork or single-series spaces (e.g., Rothko Chapel) is probably my favorite architectural micro-genre. <a href=\"https://en.wikipedia.org/wiki/Tongerlo_Abbey\">Tongerlo Abbey’s</a> museum for their period Last Supper replica is very nice.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/4f61d26975.jpg\" alt=\"Museum facade with stained glass\" title=\"IMG_4431.jpeg\" border=\"0\" width=\"2016\" height=\"1512\" /></p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/8ac522fd19.jpg\" alt=\"Fresco display\" title=\"IMG_4432.jpeg\" border=\"0\" width=\"1200\" height=\"899\" /></p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/91d61b1b65.jpg\" alt=\"Interior with stained glass\" title=\"IMG_4434.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" /></p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/49abe395ed.jpg\" alt=\"Sign on front of museum\" title=\"IMG_4437.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" /></p>\n",
+				"content_text": "1960s/1970s single-artwork or single-series spaces (e.g., Rothko Chapel) is probably my favorite architectural micro-genre. [Tongerlo Abbey’s](https://en.wikipedia.org/wiki/Tongerlo_Abbey) museum for their period Last Supper replica is very nice.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/4f61d26975.jpg\" alt=\"Museum facade with stained glass\" title=\"IMG_4431.jpeg\" border=\"0\" width=\"2016\" height=\"1512\" />\n\n<img src=\"https://micro.brianjon.es/uploads/2019/8ac522fd19.jpg\" alt=\"Fresco display\" title=\"IMG_4432.jpeg\" border=\"0\" width=\"1200\" height=\"899\" />\n\n<img src=\"https://micro.brianjon.es/uploads/2019/91d61b1b65.jpg\" alt=\"Interior with stained glass\" title=\"IMG_4434.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" />\n\n<img src=\"https://micro.brianjon.es/uploads/2019/49abe395ed.jpg\" alt=\"Sign on front of museum\" title=\"IMG_4437.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" />\n",
+				"date_published": "2019-05-31T23:55:10-05:00",
+				"url": "https://micro.brianjon.es/2019/06/01/ss-singleartwork-or.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/05/30/this-episode-of.html",
+				
+				"content_html": "<p>This <a href=\"https://timetoeatthedogs.com/2019/05/27/space-science-and-the-arab-world/\">episode</a> of the Time to Eat the Dogs podcast on space science and the Arab world presented some interesting insights on the periodization of the history of science in the the Muslim world.</p>\n",
+				"content_text": "This [episode](https://timetoeatthedogs.com/2019/05/27/space-science-and-the-arab-world/) of the Time to Eat the Dogs podcast on space science and the Arab world presented some interesting insights on the periodization of the history of science in the the Muslim world.\n",
+				"date_published": "2019-05-30T08:32:05-05:00",
+				"url": "https://micro.brianjon.es/2019/05/30/this-episode-of.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/05/20/one-of-my.html",
+				
+				"content_html": "<p>One of my surprise favorite tour nights was one of the dates we did with them at a tiny basement show under a Wendy’s in State College, PA and watching them play a super-extended ”<a href=\"https://www.youtube.com/watch?v=daZHb6z5PQs\">Fields in Glass</a>.”</p>\n",
+				"content_text": "One of my surprise favorite tour nights was one of the dates we did with them at a tiny basement show under a Wendy’s in State College, PA and watching them play a super-extended ”[Fields in Glass](https://www.youtube.com/watch?v=daZHb6z5PQs).”\n",
+				"date_published": "2019-05-20T08:29:06-05:00",
+				"url": "https://micro.brianjon.es/2019/05/20/one-of-my.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/05/20/listening-to-the.html",
+				
+				"content_html": "<p>Listening to the High Dials‘ <em>War of the Wakening Phantoms</em> (with opening banger “<a href=\"https://www.youtube.com/watch?v=EeQOOzAtLLg\">Holy Ground</a>”) for the first time in a long time. Stoked they have something new coming out this summer.</p>\n",
+				"content_text": "Listening to the High Dials‘ _War of the Wakening Phantoms_ (with opening banger “[Holy Ground](https://www.youtube.com/watch?v=EeQOOzAtLLg)”) for the first time in a long time. Stoked they have something new coming out this summer.\n",
+				"date_published": "2019-05-20T08:24:32-05:00",
+				"url": "https://micro.brianjon.es/2019/05/20/listening-to-the.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/05/15/i-love-this.html",
+				
+				"content_html": "<p>I love this Paul Ford essay in WIRED on <a href=\"https://www.wired.com/story/why-we-love-tech-defense-difficult-industry/\">remaining enthusiastic about technology</a> in its hegemonic phase (and still wish I’d asked to join tilde.club while I watched him spinning it up on Twitter).</p>\n",
+				"content_text": "I love this Paul Ford essay in WIRED on [remaining enthusiastic about technology](https://www.wired.com/story/why-we-love-tech-defense-difficult-industry/) in its hegemonic phase (and still wish I’d asked to join tilde.club while I watched him spinning it up on Twitter).\n",
+				"date_published": "2019-05-15T02:52:51-05:00",
+				"url": "https://micro.brianjon.es/2019/05/15/i-love-this.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/05/12/finally-broke-through.html",
+				
+				"content_html": "<p>Finally broke through a long plateau with a 5 minute improvement on my personal best. The right marathon for celebrating.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/e5c7072bed.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/9e09b16680.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Finally broke through a long plateau with a 5 minute improvement on my personal best. The right marathon for celebrating.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/e5c7072bed.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/9e09b16680.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-05-12T06:59:49-05:00",
+				"url": "https://micro.brianjon.es/2019/05/12/finally-broke-through.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/05/12/at-the-moortgat.html",
+				
+				"content_html": "<p>At the Moortgat Duvel brewery for the start of the Great Breweries Marathon.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/383d5a910e.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/d305d71b32.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "At the Moortgat Duvel brewery for the start of the Great Breweries Marathon.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/383d5a910e.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/d305d71b32.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-05-12T01:35:12-05:00",
+				"url": "https://micro.brianjon.es/2019/05/12/at-the-moortgat.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/05/03/austin-abroad-on.html",
+				
+				"content_html": "<p><a href=\"https://local-memory.org/notes/austin-abroad-clarence-nemir-depression-era-tours/\">Austin Abroad</a> on the Clarence Nemir Orchestra, perhaps the first pop music band from Austin to tour globally.</p>\n",
+				"content_text": "[Austin Abroad](https://local-memory.org/notes/austin-abroad-clarence-nemir-depression-era-tours/) on the Clarence Nemir Orchestra, perhaps the first pop music band from Austin to tour globally.\n",
+				"date_published": "2019-05-03T07:37:48-05:00",
+				"url": "https://micro.brianjon.es/2019/05/03/austin-abroad-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/04/28/starting-line-at.html",
+				
+				"content_html": "<p>Starting line at Antwerp marathon</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/58162b77d6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Starting line at Antwerp marathon\n\n<img src=\"https://micro.brianjon.es/uploads/2019/58162b77d6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-04-28T01:52:52-05:00",
+				"url": "https://micro.brianjon.es/2019/04/28/starting-line-at.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/04/27/ill-be-running.html",
+				
+				"content_html": "<p>I&rsquo;ll be running through the 2km-long <a href=\"https://nl.m.wikipedia.org/wiki/Waaslandtunnel\">Waaslandtunnel</a> in the Antwerp marathon tomorrow. It goes a long, long way down.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/c13a5bfcae.jpg\" width=\"600\" height=\"389\" alt=\"\" /></p>\n",
+				"content_text": "I'll be running through the 2km-long [Waaslandtunnel](https://nl.m.wikipedia.org/wiki/Waaslandtunnel) in the Antwerp marathon tomorrow. It goes a long, long way down.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/c13a5bfcae.jpg\" width=\"600\" height=\"389\" alt=\"\" />\n",
+				"date_published": "2019-04-27T08:41:18-05:00",
+				"url": "https://micro.brianjon.es/2019/04/27/ill-be-running.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/04/19/json-data-grooming.html",
+				
+				"content_html": "<p>JSON data grooming is a little less grim from the Vooruit terrace on a springtime morning.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/94536f04cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "JSON data grooming is a little less grim from the Vooruit terrace on a springtime morning.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/94536f04cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-04-19T03:33:19-05:00",
+				"url": "https://micro.brianjon.es/2019/04/19/json-data-grooming.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/04/16/good-improvisation.html",
+				
+				"content_html": "<p>Good improvisation</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/7fcc5d573c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Good improvisation \n\n<img src=\"https://micro.brianjon.es/uploads/2019/7fcc5d573c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-04-16T03:41:35-05:00",
+				"url": "https://micro.brianjon.es/2019/04/16/good-improvisation.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/04/15/two-good-newtome.html",
+				
+				"content_html": "<p>Two good new-to-me Scarpulla murals in Dampoort. Really like the Resto collaboration on the submarine.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/e666da688a.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/5af38cad1c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Two good new-to-me Scarpulla murals in Dampoort. Really like the Resto collaboration on the submarine.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/e666da688a.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/5af38cad1c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-04-15T07:43:09-05:00",
+				"url": "https://micro.brianjon.es/2019/04/15/two-good-newtome.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/04/12/good-for-amy.html",
+				
+				"content_html": "<p>Good for Amy for <a href=\"https://www.washingtonpost.com/outlook/2019/04/12/how-historians-got-nike-pull-an-ad-campaign-under-six-hours/?utm_term=.1bc1291492f3\">bothering to say something</a> about the Nike “Lost Cause” campaign and making something happen.</p>\n",
+				"content_text": "Good for Amy for [bothering to say something](https://www.washingtonpost.com/outlook/2019/04/12/how-historians-got-nike-pull-an-ad-campaign-under-six-hours/?utm_term=.1bc1291492f3) about the Nike “Lost Cause” campaign and making something happen.\n",
+				"date_published": "2019-04-12T09:01:58-05:00",
+				"url": "https://micro.brianjon.es/2019/04/12/good-for-amy.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/04/10/stop-what-youre.html",
+				
+				"content_html": "<p>Stop what you’re doing, open the windows, and listen to <a href=\"https://en.wikipedia.org/wiki/Musik_von_Harmonia\">Musik von Harmonia</a>.</p>\n",
+				"content_text": "Stop what you’re doing, open the windows, and listen to [Musik von Harmonia](https://en.wikipedia.org/wiki/Musik_von_Harmonia).\n",
+				"date_published": "2019-04-10T08:02:36-05:00",
+				"url": "https://micro.brianjon.es/2019/04/10/stop-what-youre.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/04/05/very-good-houseboat.html",
+				
+				"content_html": "<p>Very good houseboat scene here.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/1db8f71dd7.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/6e22859e15.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2019/c93b1b8dca.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Very good houseboat scene here.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/1db8f71dd7.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/6e22859e15.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2019/c93b1b8dca.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-04-05T10:16:52-05:00",
+				"url": "https://micro.brianjon.es/2019/04/05/very-good-houseboat.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/04/05/settled-into-our.html",
+				
+				"content_html": "<p>Settled into our city camping spot in Rotterdam for the marathon on Sunday.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/e5e167e86a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Settled into our city camping spot in Rotterdam for the marathon on Sunday.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/e5e167e86a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-04-05T10:05:14-05:00",
+				"url": "https://micro.brianjon.es/2019/04/05/settled-into-our.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/04/01/wills-crazy-love.html",
+				
+				"content_html": "<p>Will‘s “<a href=\"https://willcourtneymusic.com/album/869301/crazy-love-full-resolution\">Crazy Love</a>” album from last year has me missing being in Austin.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/9526afdd2e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Will‘s “[Crazy Love](https://willcourtneymusic.com/album/869301/crazy-love-full-resolution)” album from last year has me missing being in Austin.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/9526afdd2e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-04-01T07:44:37-05:00",
+				"url": "https://micro.brianjon.es/2019/04/01/wills-crazy-love.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/04/01/in-addition-to.html",
+				
+				"content_html": "<p>In addition to being a GOAT track title candidate, “<a href=\"https://karlrecords.bandcamp.com/track/jajouka-pipe-dream\">Jajouka Pipe Dream</a>” is an exceptional spacey blend of synths, flutes, and percussion from Ghazi Barakat and Paul LeBrecque. The other side has more of LeBrecque‘s guitar, and is great as well.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/67b59a61bd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "In addition to being a GOAT track title candidate, “[Jajouka Pipe Dream](https://karlrecords.bandcamp.com/track/jajouka-pipe-dream)” is an exceptional spacey blend of synths, flutes, and percussion from Ghazi Barakat and Paul LeBrecque. The other side has more of LeBrecque‘s guitar, and is great as well.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/67b59a61bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-04-01T05:08:46-05:00",
+				"url": "https://micro.brianjon.es/2019/04/01/in-addition-to.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/03/31/im-finally-listening.html",
+				
+				"content_html": "<p>I’m finally listening to the <a href=\"https://www.popmatters.com/mdou-moctar-ilana-the-creator-2632239582.html\">new Mdou Moctar</a> and it has been well worth the wait. The vinyl is waiting for me when we get back to the States at the end of the summer.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/19eaf7c4c9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I’m finally listening to the [new Mdou Moctar](https://www.popmatters.com/mdou-moctar-ilana-the-creator-2632239582.html) and it has been well worth the wait. The vinyl is waiting for me when we get back to the States at the end of the summer.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/19eaf7c4c9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-03-31T08:02:00-05:00",
+				"url": "https://micro.brianjon.es/2019/03/31/im-finally-listening.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/03/28/im-always-trying.html",
+				
+				"content_html": "<p>I’m always trying to be <a href=\"https://tinaja.computer/2019/03/28/just-use-a-database.html\">too clever for a database</a>.</p>\n",
+				"content_text": "I’m always trying to be [too clever for a database](https://tinaja.computer/2019/03/28/just-use-a-database.html).\n",
+				"date_published": "2019-03-28T04:09:00-05:00",
+				"url": "https://micro.brianjon.es/2019/03/28/im-always-trying.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/03/26/doing-a-cdrs.html",
+				
+				"content_html": "<p>Doing a “CD-Rs I was given while packing the trailer in college town parking lots between 2004-2007” listening session today. Clear winner is <a href=\"https://www.discogs.com/artist/641979-Art-Lessing\">Art Lessing</a> from Davis, CA with strong Jandek vibes.</p>\n",
+				"content_text": "Doing a “CD-Rs I was given while packing the trailer in college town parking lots between 2004-2007” listening session today. Clear winner is [Art Lessing](https://www.discogs.com/artist/641979-Art-Lessing) from Davis, CA with strong Jandek vibes.\n",
+				"date_published": "2019-03-26T08:02:28-05:00",
+				"url": "https://micro.brianjon.es/2019/03/26/doing-a-cdrs.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/03/19/revisiting-the-gorilla.html",
+				
+				"content_html": "<p>Revisiting the Gorilla Vs. Bear <a href=\"http://www.gorillavsbear.net/gorilla-vs-bears-austin-mixtape/\">Austin Mixtape</a> from 2006. Good era.</p>\n",
+				"content_text": "Revisiting the Gorilla Vs. Bear [Austin Mixtape](http://www.gorillavsbear.net/gorilla-vs-bears-austin-mixtape/) from 2006. Good era.\n",
+				"date_published": "2019-03-19T08:40:41-05:00",
+				"url": "https://micro.brianjon.es/2019/03/19/revisiting-the-gorilla.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/03/11/the-last-time.html",
+				
+				"content_html": "<p>The last time I spent a really silly amount of time wondering why a CSS rule wasn‘t being applied because I had forgotten I needed to interpolate my Sass variables inside of calc(), I wrote <a href=\"https://tinaja.computer/2017/12/02/sass-interpolation.html\">this blog post</a> about it so I wouldn‘t forget again. Didn’t work.</p>\n",
+				"content_text": "The last time I spent a really silly amount of time wondering why a CSS rule wasn‘t being applied because I had forgotten I needed to interpolate my Sass variables inside of calc(), I wrote [this blog post](https://tinaja.computer/2017/12/02/sass-interpolation.html) about it so I wouldn‘t forget again. Didn’t work.\n",
+				"date_published": "2019-03-11T00:32:14-05:00",
+				"url": "https://micro.brianjon.es/2019/03/11/the-last-time.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/03/05/need-to-get.html",
+				
+				"content_html": "<p>Need to get back in a Python frame of mind. Spent 10 minutes starting to write a slap-dash CSV parser before it occurred to me to <code>import csv</code>…</p>\n",
+				"content_text": "Need to get back in a Python frame of mind. Spent 10 minutes starting to write a slap-dash CSV parser before it occurred to me to `import csv`…\n",
+				"date_published": "2019-03-05T08:17:18-05:00",
+				"url": "https://micro.brianjon.es/2019/03/05/need-to-get.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/03/05/ordered-a-set.html",
+				
+				"content_html": "<p>Ordered a set of three Rabit screw tapes off Boomkat the other day. Listening to <a href=\"https://gangstalkers.bandcamp.com/track/full-mixx\">CRY ALONE DIE ALONE</a> on Bandcamp while I wait. Great soundtrack for exploring 7500 row CSV files with Python.</p>\n",
+				"content_text": "Ordered a set of three Rabit screw tapes off Boomkat the other day. Listening to [CRY ALONE DIE ALONE](https://gangstalkers.bandcamp.com/track/full-mixx) on Bandcamp while I wait. Great soundtrack for exploring 7500 row CSV files with Python.\n",
+				"date_published": "2019-03-05T08:15:59-05:00",
+				"url": "https://micro.brianjon.es/2019/03/05/ordered-a-set.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/03/04/listening-to-our.html",
+				
+				"content_html": "<p>Listening to “<a href=\"https://www.youtube.com/watch?v=_R8j9D8mcXg\">Our Love Will Change the World</a>” and dwelling one more time on Matthew Smith‘s founding role in not one but two under-appreciated great bands in Outrageous Cherry and the Volebeats.</p>\n",
+				"content_text": "Listening to “[Our Love Will Change the World](https://www.youtube.com/watch?v=_R8j9D8mcXg)” and dwelling one more time on Matthew Smith‘s founding role in not one but two under-appreciated great bands in Outrageous Cherry and the Volebeats.\n",
+				"date_published": "2019-03-04T09:18:02-05:00",
+				"url": "https://micro.brianjon.es/2019/03/04/listening-to-our.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/02/23/natural-sciences-museum.html",
+				
+				"content_html": "<p>Natural Sciences Museum in Brussels</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/c0cf9bd84d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Natural Sciences Museum in Brussels\n\n<img src=\"http://micro.brianjon.es/uploads/2019/c0cf9bd84d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-02-23T08:08:55-05:00",
+				"url": "https://micro.brianjon.es/2019/02/23/natural-sciences-museum.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/02/21/again-a-less.html",
+				
+				"content_html": "<p>“Again, a less confusing solution would have been to just allow an extra argument to be passed to exec, but confusion is an essential feature of JavaScript’s regular expression interface.” From Marijn Haverbeke’s <a href=\"https://eloquentjavascript.net/09_regexp.html#p_Ld5Vcdy0jB\">Eloquent JavaScript</a></p>\n",
+				"content_text": "“Again, a less confusing solution would have been to just allow an extra argument to be passed to exec, but confusion is an essential feature of JavaScript’s regular expression interface.” From Marijn Haverbeke’s [Eloquent JavaScript](https://eloquentjavascript.net/09_regexp.html#p_Ld5Vcdy0jB)\n",
+				"date_published": "2019-02-21T07:37:42-05:00",
+				"url": "https://micro.brianjon.es/2019/02/21/again-a-less.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/02/21/the-views-are.html",
+				
+				"content_html": "<p>The views are better when the run happens after the sun’s up.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/a2e2c3206f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "The views are better when the run happens after the sun’s up.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/a2e2c3206f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2019-02-21T07:20:12-05:00",
+				"url": "https://micro.brianjon.es/2019/02/21/the-views-are.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/02/18/taking-a-break.html",
+				
+				"content_html": "<p>Taking a break from work with a short walk in Patershol.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/2edb23b3cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Taking a break from work with a short walk in Patershol.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/2edb23b3cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-02-18T09:08:03-05:00",
+				"url": "https://micro.brianjon.es/2019/02/18/taking-a-break.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/02/16/spring-has-sprung.html",
+				
+				"content_html": "<p>Spring has sprung.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/47a5c0ac0a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Spring has sprung.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/47a5c0ac0a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-02-16T05:52:09-05:00",
+				"url": "https://micro.brianjon.es/2019/02/16/spring-has-sprung.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/02/13/this-trilingual-volume.html",
+				
+				"content_html": "<p>This <a href=\"https://www.kroneckerwallis.com/product/illustrating-nature-world-eyes-alexander-von-humboldt/\">trilingual volume</a> of Humboldt‘s specimen renderings and maps from Kronecker Wallis looks absolutely beautiful.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/de347ad811.jpg\" alt=\"Book Cover\" title=\"Untitled-1.jpg\" border=\"0\" width=\"487\" height=\"366\" />\n<img src=\"http://micro.brianjon.es/uploads/2019/2056eecae6.jpg\" alt=\"Type Example\" title=\"Untitled-2.jpg\" border=\"0\" width=\"339\" height=\"226\" />\n<img src=\"http://micro.brianjon.es/uploads/2019/4e50cf3dcb.jpg\" alt=\"Illustration Example\" title=\"Untitled-3.jpg\" border=\"0\" width=\"340\" height=\"255\" /></p>\n",
+				"content_text": "This [trilingual volume](https://www.kroneckerwallis.com/product/illustrating-nature-world-eyes-alexander-von-humboldt/) of Humboldt‘s specimen renderings and maps from Kronecker Wallis looks absolutely beautiful.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/de347ad811.jpg\" alt=\"Book Cover\" title=\"Untitled-1.jpg\" border=\"0\" width=\"487\" height=\"366\" />\n<img src=\"http://micro.brianjon.es/uploads/2019/2056eecae6.jpg\" alt=\"Type Example\" title=\"Untitled-2.jpg\" border=\"0\" width=\"339\" height=\"226\" />\n<img src=\"http://micro.brianjon.es/uploads/2019/4e50cf3dcb.jpg\" alt=\"Illustration Example\" title=\"Untitled-3.jpg\" border=\"0\" width=\"340\" height=\"255\" />\n",
+				"date_published": "2019-02-13T09:47:25-05:00",
+				"url": "https://micro.brianjon.es/2019/02/13/this-trilingual-volume.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/02/04/sun-rising-behind.html",
+				
+				"content_html": "<p>Sun rising behind Sint-Jacobskerk over Vrijdagmarkt</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/f96fc27fef.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sun rising behind Sint-Jacobskerk over Vrijdagmarkt\n\n<img src=\"http://micro.brianjon.es/uploads/2019/f96fc27fef.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-02-04T02:10:03-05:00",
+				"url": "https://micro.brianjon.es/2019/02/04/sun-rising-behind.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/30/working-at-de.html",
+				
+				"content_html": "<p>Working at De Krook on a snow day with Sint-Baafskathedral in the background.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/9713d68a28.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Working at De Krook on a snow day with Sint-Baafskathedral in the background.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/9713d68a28.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-01-30T04:24:19-05:00",
+				"url": "https://micro.brianjon.es/2019/01/30/working-at-de.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/29/on-thanksgiving-day.html",
+				
+				"content_html": "<p>On Thanksgiving Day in 1972, Jerry Garcia and Phil Lesh joined Doug Sahm, Leon Russell, and members of the Elevators and Shiva‘s Headband at Armadillo World Headquarters in Austin. <a href=\"https://aquariumdrunkard.com/2013/11/27/happy-thanksgiving-doug-sahm-and-friends-austin-tx-1972/\">It was really great</a>.</p>\n",
+				"content_text": "On Thanksgiving Day in 1972, Jerry Garcia and Phil Lesh joined Doug Sahm, Leon Russell, and members of the Elevators and Shiva‘s Headband at Armadillo World Headquarters in Austin. [It was really great](https://aquariumdrunkard.com/2013/11/27/happy-thanksgiving-doug-sahm-and-friends-austin-tx-1972/).\n",
+				"date_published": "2019-01-29T08:28:27-05:00",
+				"url": "https://micro.brianjon.es/2019/01/29/on-thanksgiving-day.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/28/collaborative-mural-by.html",
+				
+				"content_html": "<p>Collaborative mural by Bué the Warrior, ROA, and others on Kraankindersstraat</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/fd16590bbd.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/65c5005784.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/688e54c505.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/9fc054d05f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Collaborative mural by Bué the Warrior, ROA, and others on Kraankindersstraat \n\n<img src=\"http://micro.brianjon.es/uploads/2019/fd16590bbd.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/65c5005784.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/688e54c505.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/9fc054d05f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2019-01-28T08:57:49-05:00",
+				"url": "https://micro.brianjon.es/2019/01/28/collaborative-mural-by.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/27/messing-around-on.html",
+				
+				"content_html": "<p>Messing around on Glitch with some generative color palettes and a riff on Tim Holman‘s Vera Molnar homage <a href=\"https://vera-memphis.glitch.me\">vera-memphis.glitch.me</a></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/af166cd079.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/c656393baa.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/a4198a67d7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/41f2d9743e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Messing around on Glitch with some generative color palettes and a riff on Tim Holman‘s Vera Molnar homage [vera-memphis.glitch.me](https://vera-memphis.glitch.me)\n\n<img src=\"http://micro.brianjon.es/uploads/2019/af166cd079.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/c656393baa.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/a4198a67d7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/41f2d9743e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-01-27T02:28:55-05:00",
+				"url": "https://micro.brianjon.es/2019/01/27/messing-around-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/24/sunrise-in-the.html",
+				
+				"content_html": "<p>Sunrise in the begijnhof</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/81d340f2ad.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sunrise in the begijnhof\n\n<img src=\"http://micro.brianjon.es/uploads/2019/81d340f2ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-01-24T02:56:18-05:00",
+				"url": "https://micro.brianjon.es/2019/01/24/sunrise-in-the.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/22/vrijdagmarkt-in-the.html",
+				
+				"content_html": "<p>Vrijdagmarkt in the snow</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/77df66cede.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Vrijdagmarkt in the snow\n\n<img src=\"http://micro.brianjon.es/uploads/2019/77df66cede.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-01-22T05:29:25-05:00",
+				"url": "https://micro.brianjon.es/2019/01/22/vrijdagmarkt-in-the.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/22/this-could-be.html",
+				
+				"content_html": "<p>This could be our only snow day of the winter, but it will be nice while it lasts.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/82c2cef48c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This could be our only snow day of the winter, but it will be nice while it lasts.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/82c2cef48c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-01-22T04:00:01-05:00",
+				"url": "https://micro.brianjon.es/2019/01/22/this-could-be.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/18/reading-about-mummies.html",
+				
+				"content_html": "<p>Reading about mummies, looking out at the Zuivelbrug, and listening to the <a href=\"https://www.norelcomori.com/podcast/episode75\">Dinzu Artefacts episode</a> of the Norelco Mori podcast. One of my favorite labels of the last couple of years.</p>\n",
+				"content_text": "Reading about mummies, looking out at the Zuivelbrug, and listening to the [Dinzu Artefacts episode](https://www.norelcomori.com/podcast/episode75) of the Norelco Mori podcast. One of my favorite labels of the last couple of years.\n",
+				"date_published": "2019-01-18T03:11:24-05:00",
+				"url": "https://micro.brianjon.es/2019/01/18/reading-about-mummies.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/15/writing-an-awful.html",
+				
+				"content_html": "<p>Writing an awful lot of stuff about mummies this morning given how little I really know about them…</p>\n",
+				"content_text": "Writing an awful lot of stuff about mummies this morning given how little I really know about them…\n",
+				"date_published": "2019-01-15T05:26:45-05:00",
+				"url": "https://micro.brianjon.es/2019/01/15/writing-an-awful.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/10/my-friend-michael.html",
+				
+				"content_html": "<p>My friend Michael and I have been working on <a href=\"https://local-memory.org\">Local Memory: A History of Music in Austin</a> for a couple years now. Work is ongoing, but today we made it public.</p>\n",
+				"content_text": "My friend Michael and I have been working on [Local Memory: A History of Music in Austin](https://local-memory.org) for a couple years now. Work is ongoing, but today we made it public.\n",
+				"date_published": "2019-01-10T08:02:54-05:00",
+				"url": "https://micro.brianjon.es/2019/01/10/my-friend-michael.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/10/yacht-harbor-sculpture.html",
+				
+				"content_html": "<p>Yacht harbor sculpture on a lunchtime walk</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/27e099e7f6.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/e3ab5a12c7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Yacht harbor sculpture on a lunchtime walk\n\n<img src=\"http://micro.brianjon.es/uploads/2019/27e099e7f6.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/e3ab5a12c7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-01-10T06:32:04-05:00",
+				"url": "https://micro.brianjon.es/2019/01/10/yacht-harbor-sculpture.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2019/01/08/a-day-behind.html",
+				
+				"content_html": "<p>A day behind our projected soft launch date and still deep in that last 90% of tasks that shows up after you’ve done the first 90%.</p>\n",
+				"content_text": "A day behind our projected soft launch date and still deep in that last 90% of tasks that shows up after you’ve done the first 90%.\n",
+				"date_published": "2019-01-08T08:41:52-05:00",
+				"url": "https://micro.brianjon.es/2019/01/08/a-day-behind.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/26/morning-frost-on.html",
+				
+				"content_html": "<p>Morning frost on the fields</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/4d292ff945.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Morning frost on the fields\n\n<img src=\"http://micro.brianjon.es/uploads/2018/4d292ff945.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2018-12-26T03:19:51-05:00",
+				"url": "https://micro.brianjon.es/2018/12/26/morning-frost-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/25/christmas-afternoon-walk.html",
+				
+				"content_html": "<p>Christmas afternoon walk in the Kempen</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/b5eede55a7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Christmas afternoon walk in the Kempen\n\n<img src=\"http://micro.brianjon.es/uploads/2018/b5eede55a7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2018-12-25T10:21:23-05:00",
+				"url": "https://micro.brianjon.es/2018/12/25/christmas-afternoon-walk.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/21/listening-to-the.html",
+				
+				"content_html": "<p>Listening to the <a href=\"https://open.spotify.com/album/0ybUMi0SERu1UqtTivSSFb?si=3zAvt4CqRSWuhq63bj9QgA\">John Denver Christmas album with The Muppets</a>. The best.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/a0f5cf5ead.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Listening to the [John Denver Christmas album with The Muppets](https://open.spotify.com/album/0ybUMi0SERu1UqtTivSSFb?si=3zAvt4CqRSWuhq63bj9QgA). The best.\n\n\n\n<img src=\"http://micro.brianjon.es/uploads/2018/a0f5cf5ead.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2018-12-21T12:17:04-05:00",
+				"url": "https://micro.brianjon.es/2018/12/21/listening-to-the.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/21/firefox-color-is.html",
+				
+				"content_html": "<p>Firefox Color is a fun browser theming tool if you need a trivial reason to give Firefox a try. Here’s <a href=\"https://color.firefox.com/?theme=XQAAAAIWAQAAAAAAAABBqYhm849SCia2CaaEGccwS-xNKliFvd9NTr6hepO9IbWy7Zw6Y-C1-KAbPyYYOL4e09ge9NRsuJkWmxmd0Xx9dTUmHyBh0i09-68bYh01qJhpAYSFliutb_EErSqxVSnmU2ikI9R26zNjWD1dQw6-uAySvPBH5218zk53Ps04M0QBF64SQCqWGuc0cLH2CNULaNbcqh53c_tYZmajWdWdXSjbmNHjMqT0d4LicAIpiBQuwcWCG7RNS4Pxrsj_5nC4AA\">mine</a>.</p>\n",
+				"content_text": "Firefox Color is a fun browser theming tool if you need a trivial reason to give Firefox a try. Here’s [mine](https://color.firefox.com/?theme=XQAAAAIWAQAAAAAAAABBqYhm849SCia2CaaEGccwS-xNKliFvd9NTr6hepO9IbWy7Zw6Y-C1-KAbPyYYOL4e09ge9NRsuJkWmxmd0Xx9dTUmHyBh0i09-68bYh01qJhpAYSFliutb_EErSqxVSnmU2ikI9R26zNjWD1dQw6-uAySvPBH5218zk53Ps04M0QBF64SQCqWGuc0cLH2CNULaNbcqh53c_tYZmajWdWdXSjbmNHjMqT0d4LicAIpiBQuwcWCG7RNS4Pxrsj_5nC4AA).\n",
+				"date_published": "2018-12-21T09:23:15-05:00",
+				"url": "https://micro.brianjon.es/2018/12/21/firefox-color-is.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/19/this-morning-im.html",
+				
+				"content_html": "<p>This morning I’m officially a legal resident in Belgium.</p>\n",
+				"content_text": "This morning I’m officially a legal resident in Belgium.\n",
+				"date_published": "2018-12-19T06:19:18-05:00",
+				"url": "https://micro.brianjon.es/2018/12/19/this-morning-im.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/16/predawn-sunday-morning.html",
+				
+				"content_html": "<p>Pre-dawn Sunday morning documentation writing for a project that needed this months ago.</p>\n",
+				"content_text": "Pre-dawn Sunday morning documentation writing for a project that needed this months ago.\n",
+				"date_published": "2018-12-16T01:10:25-05:00",
+				"url": "https://micro.brianjon.es/2018/12/16/predawn-sunday-morning.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/07/the-mellotron-is.html",
+				
+				"content_html": "<p>The <a href=\"http://www.openculture.com/2018/12/introducing-the-mellotron.html\">Mellotron</a> is right up my alley in its inherent tension between mechanized reproducibility and analog serendipity.</p>\n\n<p>An impromptu recording of “Boat Song” with a real Mellotron one late night in L.A. remains one of my favorite touring memories.</p>\n",
+				"content_text": "The [Mellotron](http://www.openculture.com/2018/12/introducing-the-mellotron.html) is right up my alley in its inherent tension between mechanized reproducibility and analog serendipity.\r\n\r\nAn impromptu recording of “Boat Song” with a real Mellotron one late night in L.A. remains one of my favorite touring memories.\n",
+				"date_published": "2018-12-07T00:40:16-05:00",
+				"url": "https://micro.brianjon.es/2018/12/07/the-mellotron-is.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/06/101048.html",
+				
+				"content_html": "<p>The Public Domain Review is doing their <a href=\"https://publicdomainreview.org/support/\">end-of-year fundraiser</a>. It’s a great resource, and if you sign up in time, you’ll get a thematic set of postcards. I’ve helped with a couple rounds of reward fulfillments in the past and can vouch for the effort and care that Adam puts into the project.</p>\n",
+				"content_text": "The Public Domain Review is doing their [end-of-year fundraiser](https://publicdomainreview.org/support/). It’s a great resource, and if you sign up in time, you’ll get a thematic set of postcards. I’ve helped with a couple rounds of reward fulfillments in the past and can vouch for the effort and care that Adam puts into the project. \n",
+				"date_published": "2018-12-06T05:10:48-05:00",
+				"url": "https://micro.brianjon.es/2018/12/06/101048.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/05/i-would-love.html",
+				
+				"content_html": "<p>I would love to try to recreate how <a href=\"http://www.shiringallery.com/exhibitions/scenery-play\">Hiva Alizadeh</a> layers these threads in ways that work both sculpturally and as images.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/9822610508.jpg\" alt=\"899fd317ab47258a3327a311aab6cf42\" title=\"899fd317ab47258a3327a311aab6cf42.jpeg\" border=\"0\" width=\"480\" height=\"640\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/f67f45796d.jpg\" alt=\"28e0393788116c4eb924dd7e6503e221\" title=\"28e0393788116c4eb924dd7e6503e221.jpeg\" border=\"0\" width=\"640\" height=\"572\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/41e44480d3.jpg\" alt=\"C7ba7af563f0da11cd76f2a436879aad\" title=\"c7ba7af563f0da11cd76f2a436879aad.jpeg\" border=\"0\" width=\"225\" height=\"300\" /></p>\n",
+				"content_text": "I would love to try to recreate how [Hiva Alizadeh](http://www.shiringallery.com/exhibitions/scenery-play) layers these threads in ways that work both sculpturally and as images.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/9822610508.jpg\" alt=\"899fd317ab47258a3327a311aab6cf42\" title=\"899fd317ab47258a3327a311aab6cf42.jpeg\" border=\"0\" width=\"480\" height=\"640\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/f67f45796d.jpg\" alt=\"28e0393788116c4eb924dd7e6503e221\" title=\"28e0393788116c4eb924dd7e6503e221.jpeg\" border=\"0\" width=\"640\" height=\"572\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/41e44480d3.jpg\" alt=\"C7ba7af563f0da11cd76f2a436879aad\" title=\"c7ba7af563f0da11cd76f2a436879aad.jpeg\" border=\"0\" width=\"225\" height=\"300\" />\n",
+				"date_published": "2018-12-05T10:46:59-05:00",
+				"url": "https://micro.brianjon.es/2018/12/05/i-would-love.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/04/just-listened-to.html",
+				
+				"content_html": "<p>🎙️ Just listened to the first episode of the <a href=\"https://artistinthearchive.podbean.com/e/episode-1-in-the-house-of-avram/\">Artist in the Archive podcast</a> with Jer Thorp, currently ‘innovator-in-residence’ at Library of Congress. Looking forward to catching up on the rest of the catalog.</p>\n",
+				"content_text": "🎙️ Just listened to the first episode of the [Artist in the Archive podcast](https://artistinthearchive.podbean.com/e/episode-1-in-the-house-of-avram/) with Jer Thorp, currently ‘innovator-in-residence’ at Library of Congress. Looking forward to catching up on the rest of the catalog.\n",
+				"date_published": "2018-12-04T10:05:10-05:00",
+				"url": "https://micro.brianjon.es/2018/12/04/just-listened-to.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/03/these-handkerchiefs-from.html",
+				
+				"content_html": "<p>These handkerchiefs from the new Dries Van Noten line featuring <a href=\"https://www.robertbeattyart.com/Dries-Van-Noten-Men-A-W-2018-2019\">art from Robert Beatty</a>…</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/abead72247.jpg\" alt=\"RB DriesVanNoten 02 8 1600 c\" title=\"RB_DriesVanNoten_02_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/0810ddbbf0.jpg\" alt=\"RB DriesVanNoten 01 8 1600 c\" title=\"RB_DriesVanNoten_01_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" /></p>\n",
+				"content_text": "These handkerchiefs from the new Dries Van Noten line featuring [art from Robert Beatty](https://www.robertbeattyart.com/Dries-Van-Noten-Men-A-W-2018-2019)…\n\n<img src=\"http://micro.brianjon.es/uploads/2018/abead72247.jpg\" alt=\"RB DriesVanNoten 02 8 1600 c\" title=\"RB_DriesVanNoten_02_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/0810ddbbf0.jpg\" alt=\"RB DriesVanNoten 01 8 1600 c\" title=\"RB_DriesVanNoten_01_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" />\n",
+				"date_published": "2018-12-03T12:21:05-05:00",
+				"url": "https://micro.brianjon.es/2018/12/03/these-handkerchiefs-from.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/02/i-love-all.html",
+				
+				"content_html": "<p>I love all the work the negative space does in these <a href=\"http://www.christophniemann.com/portfolio/sketchbook-los-angeles/\">ink drawings of L.A. scenes by Christoph Niemann</a></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/347eac411c.jpg\" alt=\"Griffith Park I 498x660\" title=\"Griffith-Park-I-498x660.jpg\" border=\"0\" width=\"498\" height=\"660\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/c533451896.jpg\" alt=\"Highway II 498x658\" title=\"Highway-II-498x658.jpg\" border=\"0\" width=\"498\" height=\"658\" /></p>\n",
+				"content_text": "I love all the work the negative space does in these [ink drawings of L.A. scenes by Christoph Niemann](http://www.christophniemann.com/portfolio/sketchbook-los-angeles/)\n\n<img src=\"http://micro.brianjon.es/uploads/2018/347eac411c.jpg\" alt=\"Griffith Park I 498x660\" title=\"Griffith-Park-I-498x660.jpg\" border=\"0\" width=\"498\" height=\"660\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/c533451896.jpg\" alt=\"Highway II 498x658\" title=\"Highway-II-498x658.jpg\" border=\"0\" width=\"498\" height=\"658\" />\n",
+				"date_published": "2018-12-02T11:03:11-05:00",
+				"url": "https://micro.brianjon.es/2018/12/02/i-love-all.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/02/grim-grains-is.html",
+				
+				"content_html": "<p><a href=\"http://grimgrains.com\">Grim Grains</a> is an online collection of vegan recipes by Rekka Bellum. I love the specificity and intentionality of every element.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/b3e80af6bf.jpg\" alt=\"Ingredients\" title=\"grimgrains1.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/c622387211.jpg\" alt=\"A Single Ingredient Page\" title=\"grimgrains2.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/9a56a404c6.jpg\" alt=\"Recipes Listing\" title=\"grimgrains3.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/644950e44b.jpg\" alt=\"Recipe\" title=\"grimgrains4.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n",
+				"content_text": "[Grim Grains](http://grimgrains.com) is an online collection of vegan recipes by Rekka Bellum. I love the specificity and intentionality of every element.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/b3e80af6bf.jpg\" alt=\"Ingredients\" title=\"grimgrains1.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/c622387211.jpg\" alt=\"A Single Ingredient Page\" title=\"grimgrains2.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/9a56a404c6.jpg\" alt=\"Recipes Listing\" title=\"grimgrains3.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/644950e44b.jpg\" alt=\"Recipe\" title=\"grimgrains4.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n",
+				"date_published": "2018-12-02T08:40:09-05:00",
+				"url": "https://micro.brianjon.es/2018/12/02/grim-grains-is.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/12/01/sarah-is-in.html",
+				
+				"content_html": "<p>Sarah is in <em>Le Monde</em> on <a href=\"https://www.lemonde.fr/idees/article/2018/11/30/la-restitution-doit-etre-un-point-de-depart_5391051_3232.html\">the reopening of the Tervuren museum</a> in the context of the debates of recent weeks sparked by the report on cultural restitution submitted to Macron.</p>\n",
+				"content_text": "Sarah is in _Le Monde_ on [the reopening of the Tervuren museum](https://www.lemonde.fr/idees/article/2018/11/30/la-restitution-doit-etre-un-point-de-depart_5391051_3232.html) in the context of the debates of recent weeks sparked by the report on cultural restitution submitted to Macron.\n",
+				"date_published": "2018-12-01T06:33:55-05:00",
+				"url": "https://micro.brianjon.es/2018/12/01/sarah-is-in.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/30/111027.html",
+				
+				"content_html": "<p>I’ve been using <a href=\"https://www.sourcenoteapp.com/\">SourceNote</a> for a couple of days now and have found it helpful. It’s invisible until you need it. Great low friction way to save ephemeral or scratch text without losing momentum in your work.</p>\n",
+				"content_text": "I’ve been using [SourceNote](https://www.sourcenoteapp.com/) for a couple of days now and have found it helpful. It’s invisible until you need it. Great low friction way to save ephemeral or scratch text without losing momentum in your work.\n",
+				"date_published": "2018-11-30T06:10:27-05:00",
+				"url": "https://micro.brianjon.es/2018/11/30/111027.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/30/ive-been-using.html",
+				
+				"content_html": "<p>I’ve been using <a href=\"https://red-sweater.com/marsedit/\">MarsEdit</a> as a drafts drawer for microblogging posts—a place to drop links to things I’d like to post later. It has me posting more things that I’d otherwise forget to return to.</p>\n",
+				"content_text": "I’ve been using [MarsEdit](https://red-sweater.com/marsedit/) as a drafts drawer for microblogging posts—a place to drop links to things I’d like to post later. It has me posting more things that I’d otherwise forget to return to.\n",
+				"date_published": "2018-11-30T06:08:40-05:00",
+				"url": "https://micro.brianjon.es/2018/11/30/ive-been-using.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/29/these-orange-banded.html",
+				
+				"content_html": "<p>These orange banded quarter-cylinder tiles make for one of my favorite doorways on the morning commute.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/8ed09ea389.jpg\" alt=\"IMG 3402\" title=\"IMG_3402.jpeg\" border=\"0\" width=\"300\" height=\"300\" /></p>\n",
+				"content_text": "These orange banded quarter-cylinder tiles make for one of my favorite doorways on the morning commute.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/8ed09ea389.jpg\" alt=\"IMG 3402\" title=\"IMG_3402.jpeg\" border=\"0\" width=\"300\" height=\"300\" />\n",
+				"date_published": "2018-11-29T10:28:01-05:00",
+				"url": "https://micro.brianjon.es/2018/11/29/these-orange-banded.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/29/love-this-peekaboo.html",
+				
+				"content_html": "<p>Love this peekaboo window over the water in the little café by our house.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/30affe574c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Love this peekaboo window over the water in the little café by our house.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/30affe574c.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-11-29T04:28:33-05:00",
+				"url": "https://micro.brianjon.es/2018/11/29/love-this-peekaboo.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/28/rainy-afternoon-bike.html",
+				
+				"content_html": "<p>Rainy afternoon bike ride</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/27c204a318.jpg\" width=\"600\" height=\"599\" /></p>\n",
+				"content_text": "Rainy afternoon bike ride\n\n<img src=\"http://micro.brianjon.es/uploads/2018/27c204a318.jpg\" width=\"600\" height=\"599\" />\n",
+				"date_published": "2018-11-28T09:19:26-05:00",
+				"url": "https://micro.brianjon.es/2018/11/28/rainy-afternoon-bike.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/28/aquarium-drunkard-has.html",
+				
+				"content_html": "<p>Aquarium Drunkard has <a href=\"https://aquariumdrunkard.com/2018/11/25/welcome-to-aquarium-drunkard-past-present-future/\">launched a new format</a>. It’s exciting to see a small online publisher growing rather than packing it in.</p>\n",
+				"content_text": "Aquarium Drunkard has [launched a new format](https://aquariumdrunkard.com/2018/11/25/welcome-to-aquarium-drunkard-past-present-future/). It’s exciting to see a small online publisher growing rather than packing it in.\n",
+				"date_published": "2018-11-28T00:27:35-05:00",
+				"url": "https://micro.brianjon.es/2018/11/28/aquarium-drunkard-has.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/28/there-are-some.html",
+				
+				"content_html": "<p>There are some great looking 5.25&rdquo; floppy sleeves <a href=\"http://disksleeves.com\">archived here</a>, but I’m partial to this cornball exclamation point made from the hole in the diskette.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/c0850d43a4.jpg\" alt=\"Software excitement\" title=\"software-excitement.jpg\" border=\"0\" width=\"399\" height=\"337\" /></p>\n",
+				"content_text": "There are some great looking 5.25\" floppy sleeves [archived here](http://disksleeves.com), but I’m partial to this cornball exclamation point made from the hole in the diskette.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/c0850d43a4.jpg\" alt=\"Software excitement\" title=\"software-excitement.jpg\" border=\"0\" width=\"399\" height=\"337\" />\n",
+				"date_published": "2018-11-27T23:52:29-05:00",
+				"url": "https://micro.brianjon.es/2018/11/28/there-are-some.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/27/warren-ellis-on.html",
+				
+				"content_html": "<p>Warren Ellis on what he would want from a <a href=\"http://morning.computer/2018/11/the-status-page/\">status page</a> has me thinking again about one of those back-burner projects that has been hanging around too too long.</p>\n",
+				"content_text": "Warren Ellis on what he would want from a [status page](http://morning.computer/2018/11/the-status-page/) has me thinking again about one of those back-burner projects that has been hanging around too too long.\n",
+				"date_published": "2018-11-27T09:27:30-05:00",
+				"url": "https://micro.brianjon.es/2018/11/27/warren-ellis-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/27/listening-to-willies.html",
+				
+				"content_html": "<p>🎵 Listening to Willie’s ’<a href=\"https://www.youtube.com/watch?v=0h7SvJd1_y8\">Local Memory</a>’ a few times today trying to conjure a thing into being.</p>\n",
+				"content_text": "🎵 Listening to Willie’s ’[Local Memory](https://www.youtube.com/watch?v=0h7SvJd1_y8)’ a few times today trying to conjure a thing into being.\n",
+				"date_published": "2018-11-27T08:07:00-05:00",
+				"url": "https://micro.brianjon.es/2018/11/27/listening-to-willies.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/22/taking-time-away.html",
+				
+				"content_html": "<p>Taking time away from client work to do some personal organizing at a cafe by the Zuivelbrug.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/c453f9ff44.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Taking time away from client work to do some personal organizing at a cafe by the Zuivelbrug.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/c453f9ff44.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-11-22T03:16:51-05:00",
+				"url": "https://micro.brianjon.es/2018/11/22/taking-time-away.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/20/playing-with-some.html",
+				
+				"content_html": "<p>Playing with some procedural distortions of landscape photos from the Farm Security Administration collection at Library of Congress</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/f1581439ee.jpg\" width=\"600\" height=\"404\" /></p>\n",
+				"content_text": "Playing with some procedural distortions of landscape photos from the Farm Security Administration collection at Library of Congress\n\n<img src=\"http://micro.brianjon.es/uploads/2018/f1581439ee.jpg\" width=\"600\" height=\"404\" />\n",
+				"date_published": "2018-11-20T09:12:34-05:00",
+				"url": "https://micro.brianjon.es/2018/11/20/playing-with-some.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/20/the-metropolitan-museum.html",
+				
+				"content_html": "<p>The Metropolitan Museum of Art has made over 500 art and art history books <a href=\"https://www.metmuseum.org/art/metpublications/titles-with-full-text-online\">available for free</a>.</p>\n\n<p>I wish the PDF downloads were OCR’ed, but at least the Google Books editions are searchable.</p>\n",
+				"content_text": "The Metropolitan Museum of Art has made over 500 art and art history books [available for free](https://www.metmuseum.org/art/metpublications/titles-with-full-text-online).\n\nI wish the PDF downloads were OCR’ed, but at least the Google Books editions are searchable.\n",
+				"date_published": "2018-11-20T08:03:03-05:00",
+				"url": "https://micro.brianjon.es/2018/11/20/the-metropolitan-museum.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/19/too-much-troubleshooting.html",
+				
+				"content_html": "<p>Too much troubleshooting of my Mastodon instance; not enough working.</p>\n",
+				"content_text": "Too much troubleshooting of my Mastodon instance; not enough working.\n",
+				"date_published": "2018-11-19T09:56:01-05:00",
+				"url": "https://micro.brianjon.es/2018/11/19/too-much-troubleshooting.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/19/todays-gentarea-library.html",
+				
+				"content_html": "<p>Today’s Gent-area library workspace is at the café at De Krook</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/b3ba92d3a1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Today’s Gent-area library workspace is at the café at De Krook\n\n<img src=\"http://micro.brianjon.es/uploads/2018/b3ba92d3a1.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-11-19T05:34:34-05:00",
+				"url": "https://micro.brianjon.es/2018/11/19/todays-gentarea-library.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/18/a-leffe-and.html",
+				
+				"content_html": "<p>A Leffe and a bucket of spaghetti after the race</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/b6ab734ee5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "A Leffe and a bucket of spaghetti after the race\n\n<img src=\"http://micro.brianjon.es/uploads/2018/b6ab734ee5.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-11-18T08:35:41-05:00",
+				"url": "https://micro.brianjon.es/2018/11/18/a-leffe-and.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/18/kasterlee-marathon-starting.html",
+				
+				"content_html": "<p>Kasterlee Marathon starting line</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/2e6ad4433a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Kasterlee Marathon starting line\n\n<img src=\"http://micro.brianjon.es/uploads/2018/2e6ad4433a.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-11-18T03:52:10-05:00",
+				"url": "https://micro.brianjon.es/2018/11/18/kasterlee-marathon-starting.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/18/some-new-cities.html",
+				
+				"content_html": "<p><a href=\"https://twitter.com/some_new_cities\">Some New Cities</a> is my new favorite Twitter bot, but it also makes me realize I increasingly wish I could follow these things on the fediverse or via RSS instead of on Twitter.</p>\n",
+				"content_text": "[Some New Cities](https://twitter.com/some_new_cities) is my new favorite Twitter bot, but it also makes me realize I increasingly wish I could follow these things on the fediverse or via RSS instead of on Twitter.\n",
+				"date_published": "2018-11-18T02:01:00-05:00",
+				"url": "https://micro.brianjon.es/2018/11/18/some-new-cities.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/18/kasterlee-marathon-this.html",
+				
+				"content_html": "<p>Kasterlee Marathon this morning will be my second in three weeks. Will be mostly through the woods in mud and in the low 40s.</p>\n\n<p>Killing time until the late start is the hardest part.</p>\n",
+				"content_text": "Kasterlee Marathon this morning will be my second in three weeks. Will be mostly through the woods in mud and in the low 40s.\n\nKilling time until the late start is the hardest part.\n",
+				"date_published": "2018-11-18T01:55:28-05:00",
+				"url": "https://micro.brianjon.es/2018/11/18/kasterlee-marathon-this.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/13/i-wish-this.html",
+				
+				"content_html": "<p>I wish <a href=\"https://breakermag.com/mat-dryhurst-musician-iconoclast-on-helping-artists-with-blockchain/\">this interview</a> with Mat Dryhurst deeper on the power crypto could artists to control their creative assets but I‘m intrigued to follow up on his work more elsewhere.</p>\n",
+				"content_text": "I wish [this interview](https://breakermag.com/mat-dryhurst-musician-iconoclast-on-helping-artists-with-blockchain/) with Mat Dryhurst deeper on the power crypto could artists to control their creative assets but I‘m intrigued to follow up on his work more elsewhere.\n",
+				"date_published": "2018-11-13T07:28:51-05:00",
+				"url": "https://micro.brianjon.es/2018/11/13/i-wish-this.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/11/nice-concept-website.html",
+				
+				"content_html": "<p>Nice concept: Website for Emily Cockayne‘s upcoming history of re-use collects essays on material that didn’t make the book (good use of the .work TLD as well) <a href=\"https://www.rummage.work/\">www.rummage.work</a></p>\n",
+				"content_text": "Nice concept: Website for Emily Cockayne‘s upcoming history of re-use collects essays on material that didn’t make the book (good use of the .work TLD as well) [www.rummage.work](https://www.rummage.work/)\n",
+				"date_published": "2018-11-11T09:31:42-05:00",
+				"url": "https://micro.brianjon.es/2018/11/11/nice-concept-website.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/10/todays-ghentarea-library.html",
+				
+				"content_html": "<p>Today’s Ghent-area library workspace is at De Krook.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/dfe9c45341.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Today’s Ghent-area library workspace is at De Krook.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/dfe9c45341.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-11-10T07:34:42-05:00",
+				"url": "https://micro.brianjon.es/2018/11/10/todays-ghentarea-library.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/10/tiny-art-as.html",
+				
+				"content_html": "<p>Tiny art as pastime <a href=\"http://garciabuxton.com/2018/11/tiny-art\">garciabuxton.com/2018/11/t&hellip;</a></p>\n",
+				"content_text": "Tiny art as pastime [garciabuxton.com/2018/11/t...](http://garciabuxton.com/2018/11/tiny-art)\n",
+				"date_published": "2018-11-10T06:51:09-05:00",
+				"url": "https://micro.brianjon.es/2018/11/10/tiny-art-as.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2018/11/10/i-had-not.html",
+				
+				"content_html": "<p>I had not considered the idea that Rockstar‘s corpus is largely historical, but Robert Whitaker’s <a href=\"https://www.eurogamer.net/articles/2018-11-05-rockstars-history-of-america\">exploration</a> for Eurogamer is interesting.</p>\n",
+				"content_text": "I had not considered the idea that Rockstar‘s corpus is largely historical, but Robert Whitaker’s [exploration](https://www.eurogamer.net/articles/2018-11-05-rockstars-history-of-america) for Eurogamer is interesting.\n",
+				"date_published": "2018-11-10T01:07:40-05:00",
+				"url": "https://micro.brianjon.es/2018/11/10/i-had-not.html"
+			}
+	]
+}
