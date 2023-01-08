@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jonesbp.micro.blog/2023/01/08/back-in-ohio.html",
+				
+				"content_html": "<p>Back in Ohio after several weeks away in Belgium and North Carolina. Kid back in school tomorrow. There’s lots of client work to catch up on, but I can feel the space for returning to personal projects approaching.</p>\n",
+				"content_text": "Back in Ohio after several weeks away in Belgium and North Carolina. Kid back in school tomorrow. There’s lots of client work to catch up on, but I can feel the space for returning to personal projects approaching.\n",
+				"date_published": "2023-01-08T06:23:19-05:00",
+				"url": "https://micro.brianjon.es/2023/01/08/back-in-ohio.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2023/01/04/pulled-out-jesse.html",
+				
+				"content_html": "<p>Pulled out Jesse Grosjean’s <a href=\"https://www.hogbaysoftware.com/bike/\">Bike Outliner</a> this morning to untangle a cascade of feature feedback/questions and to organize my answers.</p>\n",
+				"content_text": "Pulled out Jesse Grosjean’s [Bike Outliner](https://www.hogbaysoftware.com/bike/) this morning to untangle a cascade of feature feedback/questions and to organize my answers.\n",
+				"date_published": "2023-01-04T07:32:59-05:00",
+				"url": "https://micro.brianjon.es/2023/01/04/pulled-out-jesse.html"
+			},
+			{
 				"id": "http://jonesbp.micro.blog/2022/12/31/very-intrigued-by.html",
 				
 				"content_html": "<p>Very intrigued by Ben Brown’s <a href=\"https://shuttlecraft.net/\">Shuttlecraft</a> project, but have to resist the temptation to fiddle in order to stick with my pile of other unfinished personal projects.</p>\n",
@@ -33,8 +49,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2022/12/22/went-to-the.html",
 				
-				"content_html": "<p>Went to the <a href=\"https://www.amsab.be/en/over-ons/nieuws/1085-expo-lucie-kamuswekera-geborduurd-verleden-verbeelde-toekomst\">exhibit</a> of Lucie Kamuswekera’s embroidery at the Ambsab social history museum in Gent yesterday. Got to see two of the pieces Sarah bought when she was last in Congo in the flesh for the first time and took a photo.</p>\n\n<p><img src=\"uploads/2022/419148f85b.jpg\" alt=\"Two pieces of embroidery on burlap hanging in a gallery space. One depicts Mobutu; the other Virunga National Park.\" title=\"kamuswekera.jpeg\" border=\"0\" width=\"599\" height=\"337\" /></p>\n",
-				"content_text": "Went to the [exhibit](https://www.amsab.be/en/over-ons/nieuws/1085-expo-lucie-kamuswekera-geborduurd-verleden-verbeelde-toekomst) of Lucie Kamuswekera’s embroidery at the Ambsab social history museum in Gent yesterday. Got to see two of the pieces Sarah bought when she was last in Congo in the flesh for the first time and took a photo.\n\n<img src=\"uploads/2022/419148f85b.jpg\" alt=\"Two pieces of embroidery on burlap hanging in a gallery space. One depicts Mobutu; the other Virunga National Park.\" title=\"kamuswekera.jpeg\" border=\"0\" width=\"599\" height=\"337\" />\n",
+				"content_html": "<p>Went to the <a href=\"https://www.amsab.be/en/over-ons/nieuws/1085-expo-lucie-kamuswekera-geborduurd-verleden-verbeelde-toekomst\">exhibit</a> of Lucie Kamuswekera’s embroidery at the Ambsab social history museum in Gent yesterday. Got to see two of the pieces Sarah bought when she was last in Congo in the flesh for the first time and took a photo.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2022/419148f85b.jpg\" alt=\"Two pieces of embroidery on burlap hanging in a gallery space. One depicts Mobutu; the other Virunga National Park.\" title=\"kamuswekera.jpeg\" border=\"0\" width=\"599\" height=\"337\" /></p>\n",
+				"content_text": "Went to the [exhibit](https://www.amsab.be/en/over-ons/nieuws/1085-expo-lucie-kamuswekera-geborduurd-verleden-verbeelde-toekomst) of Lucie Kamuswekera’s embroidery at the Ambsab social history museum in Gent yesterday. Got to see two of the pieces Sarah bought when she was last in Congo in the flesh for the first time and took a photo.\n\n<img src=\"https://micro.brianjon.es/uploads/2022/419148f85b.jpg\" alt=\"Two pieces of embroidery on burlap hanging in a gallery space. One depicts Mobutu; the other Virunga National Park.\" title=\"kamuswekera.jpeg\" border=\"0\" width=\"599\" height=\"337\" />\n",
 				"date_published": "2022-12-22T03:24:44-05:00",
 				"url": "https://micro.brianjon.es/2022/12/22/went-to-the.html",
 				"tags": ["Photos"]
