@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jonesbp.micro.blog/2023/01/13/i-pause-for.html",
+				
+				"content_html": "<p>I pause for a moment while setting up annual Todoist billing in January for fear that future me will be disappointed that this was related to some lame New Year’s Resolution. I swear to him it’s not.</p>\n",
+				"content_text": "I pause for a moment while setting up annual Todoist billing in January for fear that future me will be disappointed that this was related to some lame New Year’s Resolution. I swear to him it’s not.\n",
+				"date_published": "2023-01-13T10:50:54-05:00",
+				"url": "https://micro.brianjon.es/2023/01/13/i-pause-for.html"
+			},
+			{
 				"id": "http://jonesbp.micro.blog/2023/01/08/back-in-ohio.html",
 				
 				"content_html": "<p>Back in Ohio after several weeks away in Belgium and North Carolina. Kid back in school tomorrow. There’s lots of client work to catch up on, but I can feel the space for returning to personal projects approaching.</p>\n",
@@ -49,8 +57,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2022/12/22/went-to-the.html",
 				
-				"content_html": "<p>Went to the <a href=\"https://www.amsab.be/en/over-ons/nieuws/1085-expo-lucie-kamuswekera-geborduurd-verleden-verbeelde-toekomst\">exhibit</a> of Lucie Kamuswekera’s embroidery at the Ambsab social history museum in Gent yesterday. Got to see two of the pieces Sarah bought when she was last in Congo in the flesh for the first time and took a photo.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2022/419148f85b.jpg\" alt=\"Two pieces of embroidery on burlap hanging in a gallery space. One depicts Mobutu; the other Virunga National Park.\" title=\"kamuswekera.jpeg\" border=\"0\" width=\"599\" height=\"337\" /></p>\n",
-				"content_text": "Went to the [exhibit](https://www.amsab.be/en/over-ons/nieuws/1085-expo-lucie-kamuswekera-geborduurd-verleden-verbeelde-toekomst) of Lucie Kamuswekera’s embroidery at the Ambsab social history museum in Gent yesterday. Got to see two of the pieces Sarah bought when she was last in Congo in the flesh for the first time and took a photo.\n\n<img src=\"https://micro.brianjon.es/uploads/2022/419148f85b.jpg\" alt=\"Two pieces of embroidery on burlap hanging in a gallery space. One depicts Mobutu; the other Virunga National Park.\" title=\"kamuswekera.jpeg\" border=\"0\" width=\"599\" height=\"337\" />\n",
+				"content_html": "<p>Went to the <a href=\"https://www.amsab.be/en/over-ons/nieuws/1085-expo-lucie-kamuswekera-geborduurd-verleden-verbeelde-toekomst\">exhibit</a> of Lucie Kamuswekera’s embroidery at the Ambsab social history museum in Gent yesterday. Got to see two of the pieces Sarah bought when she was last in Congo in the flesh for the first time and took a photo.</p>\n\n<p><img src=\"uploads/2022/419148f85b.jpg\" alt=\"Two pieces of embroidery on burlap hanging in a gallery space. One depicts Mobutu; the other Virunga National Park.\" title=\"kamuswekera.jpeg\" border=\"0\" width=\"599\" height=\"337\" /></p>\n",
+				"content_text": "Went to the [exhibit](https://www.amsab.be/en/over-ons/nieuws/1085-expo-lucie-kamuswekera-geborduurd-verleden-verbeelde-toekomst) of Lucie Kamuswekera’s embroidery at the Ambsab social history museum in Gent yesterday. Got to see two of the pieces Sarah bought when she was last in Congo in the flesh for the first time and took a photo.\n\n<img src=\"uploads/2022/419148f85b.jpg\" alt=\"Two pieces of embroidery on burlap hanging in a gallery space. One depicts Mobutu; the other Virunga National Park.\" title=\"kamuswekera.jpeg\" border=\"0\" width=\"599\" height=\"337\" />\n",
 				"date_published": "2022-12-22T03:24:44-05:00",
 				"url": "https://micro.brianjon.es/2022/12/22/went-to-the.html",
 				"tags": ["Photos"]
@@ -123,8 +131,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2022/11/16/i-want-every.html",
 				
-				"content_html": "<p>I want every single pair of these vintage Patagonia baggies with bootleg logo and pattern embroidery <a href=\"https://petrifiedgood.org/\">petrifiedgood.org</a></p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2022/9bb0712d4a.jpg\" width=\"600\" height=\"600\" alt=\"Black shorts with rainbow colored dancing bears embroidery\"></p>\n",
-				"content_text": "I want every single pair of these vintage Patagonia baggies with bootleg logo and pattern embroidery [petrifiedgood.org](https://petrifiedgood.org/)\n\n<img src=\"https://micro.brianjon.es/uploads/2022/9bb0712d4a.jpg\" width=\"600\" height=\"600\" alt=\"Black shorts with rainbow colored dancing bears embroidery\">\n",
+				"content_html": "<p>I want every single pair of these vintage Patagonia baggies with bootleg logo and pattern embroidery <a href=\"https://petrifiedgood.org/\">petrifiedgood.org</a></p>\n\n<p><img src=\"uploads/2022/9bb0712d4a.jpg\" width=\"600\" height=\"600\" alt=\"Black shorts with rainbow colored dancing bears embroidery\"></p>\n",
+				"content_text": "I want every single pair of these vintage Patagonia baggies with bootleg logo and pattern embroidery [petrifiedgood.org](https://petrifiedgood.org/)\n\n<img src=\"uploads/2022/9bb0712d4a.jpg\" width=\"600\" height=\"600\" alt=\"Black shorts with rainbow colored dancing bears embroidery\">\n",
 				"date_published": "2022-11-16T09:06:44-05:00",
 				"url": "https://micro.brianjon.es/2022/11/16/i-want-every.html"
 			},
@@ -139,8 +147,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2022/04/07/stoked-on-this.html",
 				
-				"content_html": "<p>Stoked on this Kerry Awn illustration we commissioned for <a href=\"https://local-memory.org\">Local Memory</a>, which I’ve finally gotten on the homepage.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2022/ae8083bd4f.jpg\" width=\"458\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Stoked on this Kerry Awn illustration we commissioned for [Local Memory](https://local-memory.org), which I’ve finally gotten on the homepage.\n\n<img src=\"https://micro.brianjon.es/uploads/2022/ae8083bd4f.jpg\" width=\"458\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Stoked on this Kerry Awn illustration we commissioned for <a href=\"https://local-memory.org\">Local Memory</a>, which I’ve finally gotten on the homepage.</p>\n\n<p><img src=\"uploads/2022/ae8083bd4f.jpg\" width=\"458\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Stoked on this Kerry Awn illustration we commissioned for [Local Memory](https://local-memory.org), which I’ve finally gotten on the homepage.\n\n<img src=\"uploads/2022/ae8083bd4f.jpg\" width=\"458\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-07T08:43:52-05:00",
 				"url": "https://micro.brianjon.es/2022/04/07/stoked-on-this.html"
 			},
@@ -171,24 +179,24 @@
 			{
 				"id": "http://jonesbp.micro.blog/2022/01/21/if-i-see.html",
 				
-				"content_html": "<p>If I see a cassette cover with a Bodys Isek Kingelez installation come through my email, you have my attention. If your promo copy then namechecks DJ Screw, I’m in. I had heard a bit of La Roche, but this <a href=\"https://nyegenyegetapes.bandcamp.com/album/liye-liye\">new one</a> from Nyege Nyege Tapes is revelatory.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2022/a02b1bdce2.jpg\" width=\"600\" height=\"600\" alt=\"Cassette cover art photo of Bodys Isek Kingelez cityscape installation with tracklisting\" /></p>\n",
-				"content_text": "If I see a cassette cover with a Bodys Isek Kingelez installation come through my email, you have my attention. If your promo copy then namechecks DJ Screw, I’m in. I had heard a bit of La Roche, but this [new one](https://nyegenyegetapes.bandcamp.com/album/liye-liye) from Nyege Nyege Tapes is revelatory.\n\n<img src=\"https://micro.brianjon.es/uploads/2022/a02b1bdce2.jpg\" width=\"600\" height=\"600\" alt=\"Cassette cover art photo of Bodys Isek Kingelez cityscape installation with tracklisting\" />\n",
+				"content_html": "<p>If I see a cassette cover with a Bodys Isek Kingelez installation come through my email, you have my attention. If your promo copy then namechecks DJ Screw, I’m in. I had heard a bit of La Roche, but this <a href=\"https://nyegenyegetapes.bandcamp.com/album/liye-liye\">new one</a> from Nyege Nyege Tapes is revelatory.</p>\n\n<p><img src=\"uploads/2022/a02b1bdce2.jpg\" width=\"600\" height=\"600\" alt=\"Cassette cover art photo of Bodys Isek Kingelez cityscape installation with tracklisting\" /></p>\n",
+				"content_text": "If I see a cassette cover with a Bodys Isek Kingelez installation come through my email, you have my attention. If your promo copy then namechecks DJ Screw, I’m in. I had heard a bit of La Roche, but this [new one](https://nyegenyegetapes.bandcamp.com/album/liye-liye) from Nyege Nyege Tapes is revelatory.\n\n<img src=\"uploads/2022/a02b1bdce2.jpg\" width=\"600\" height=\"600\" alt=\"Cassette cover art photo of Bodys Isek Kingelez cityscape installation with tracklisting\" />\n",
 				"date_published": "2022-01-21T05:30:55-05:00",
 				"url": "https://micro.brianjon.es/2022/01/21/if-i-see.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2021/12/24/daily-meeting-with.html",
 				
-				"content_html": "<p>Daily meeting with the homies</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/1cceae2f4e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Daily meeting with the homies\n\n<img src=\"https://micro.brianjon.es/uploads/2021/1cceae2f4e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Daily meeting with the homies</p>\n\n<p><img src=\"uploads/2021/1cceae2f4e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Daily meeting with the homies\n\n<img src=\"uploads/2021/1cceae2f4e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-24T10:32:53-05:00",
 				"url": "https://micro.brianjon.es/2021/12/24/daily-meeting-with.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2021/12/22/the-frost-on.html",
 				
-				"content_html": "<p>The frost on today’s morning walk was wild.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/2220d3735a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/19611aec95.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/4067e529e1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/5500212bed.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The frost on today’s morning walk was wild.\n\n<img src=\"https://micro.brianjon.es/uploads/2021/2220d3735a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/19611aec95.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/4067e529e1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2021/5500212bed.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The frost on today’s morning walk was wild.</p>\n\n<p><img src=\"uploads/2021/2220d3735a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/19611aec95.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/4067e529e1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/5500212bed.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The frost on today’s morning walk was wild.\n\n<img src=\"uploads/2021/2220d3735a.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/19611aec95.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/4067e529e1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/5500212bed.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-22T14:24:22-05:00",
 				"url": "https://micro.brianjon.es/2021/12/22/the-frost-on.html"
 			},
@@ -211,8 +219,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2021/11/09/my-jadeite-keycaps.html",
 				
-				"content_html": "<p>My Jadeite keycaps have arrived after about 18 months of waiting, finally completing my COVID-extended build of the wireless Keychron K6 I use with my iPad.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/eb9e476b93.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My Jadeite keycaps have arrived after about 18 months of waiting, finally completing my COVID-extended build of the wireless Keychron K6 I use with my iPad.\n\n<img src=\"https://micro.brianjon.es/uploads/2021/eb9e476b93.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My Jadeite keycaps have arrived after about 18 months of waiting, finally completing my COVID-extended build of the wireless Keychron K6 I use with my iPad.</p>\n\n<p><img src=\"uploads/2021/eb9e476b93.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My Jadeite keycaps have arrived after about 18 months of waiting, finally completing my COVID-extended build of the wireless Keychron K6 I use with my iPad.\n\n<img src=\"uploads/2021/eb9e476b93.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-09T10:19:47-05:00",
 				"url": "https://micro.brianjon.es/2021/11/09/my-jadeite-keycaps.html"
 			},
@@ -243,8 +251,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2021/08/11/last-morning-run.html",
 				
-				"content_html": "<p>Last morning run in the Kempen for the summer before heading back to Ohio for the school year.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/eca65fdc59.jpg\" width=\"600\" height=\"449\" alt=\"Small lock over creek with street sign in field\" /><img src=\"https://micro.brianjon.es/uploads/2021/536830d15f.jpg\" width=\"600\" height=\"450\" alt=\"Path through field at sunrise\" /><img src=\"https://micro.brianjon.es/uploads/2021/3b9672b3f4.jpg\" width=\"600\" height=\"450\" alt=\"Creek through heavy foliage\" /><img src=\"https://micro.brianjon.es/uploads/2021/b9b6546bf0.jpg\" width=\"600\" height=\"450\" alt=\"Farm road towards horizon at sunrise\" /></p>\n",
-				"content_text": "Last morning run in the Kempen for the summer before heading back to Ohio for the school year.\n\n\n\n<img src=\"https://micro.brianjon.es/uploads/2021/eca65fdc59.jpg\" width=\"600\" height=\"449\" alt=\"Small lock over creek with street sign in field\" /><img src=\"https://micro.brianjon.es/uploads/2021/536830d15f.jpg\" width=\"600\" height=\"450\" alt=\"Path through field at sunrise\" /><img src=\"https://micro.brianjon.es/uploads/2021/3b9672b3f4.jpg\" width=\"600\" height=\"450\" alt=\"Creek through heavy foliage\" /><img src=\"https://micro.brianjon.es/uploads/2021/b9b6546bf0.jpg\" width=\"600\" height=\"450\" alt=\"Farm road towards horizon at sunrise\" />\n",
+				"content_html": "<p>Last morning run in the Kempen for the summer before heading back to Ohio for the school year.</p>\n\n<p><img src=\"uploads/2021/eca65fdc59.jpg\" width=\"600\" height=\"449\" alt=\"Small lock over creek with street sign in field\" /><img src=\"uploads/2021/536830d15f.jpg\" width=\"600\" height=\"450\" alt=\"Path through field at sunrise\" /><img src=\"uploads/2021/3b9672b3f4.jpg\" width=\"600\" height=\"450\" alt=\"Creek through heavy foliage\" /><img src=\"uploads/2021/b9b6546bf0.jpg\" width=\"600\" height=\"450\" alt=\"Farm road towards horizon at sunrise\" /></p>\n",
+				"content_text": "Last morning run in the Kempen for the summer before heading back to Ohio for the school year.\n\n\n\n<img src=\"uploads/2021/eca65fdc59.jpg\" width=\"600\" height=\"449\" alt=\"Small lock over creek with street sign in field\" /><img src=\"uploads/2021/536830d15f.jpg\" width=\"600\" height=\"450\" alt=\"Path through field at sunrise\" /><img src=\"uploads/2021/3b9672b3f4.jpg\" width=\"600\" height=\"450\" alt=\"Creek through heavy foliage\" /><img src=\"uploads/2021/b9b6546bf0.jpg\" width=\"600\" height=\"450\" alt=\"Farm road towards horizon at sunrise\" />\n",
 				"date_published": "2021-08-11T00:51:13-05:00",
 				"url": "https://micro.brianjon.es/2021/08/11/last-morning-run.html"
 			},
@@ -267,8 +275,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2021/08/04/morning-fog-on.html",
 				
-				"content_html": "<p>Morning fog on the dunes in Hoge Rielen</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/b6570d2996.jpg\" width=\"600\" height=\"600\" alt=\"foggy landscape with sandy field and trees\" /></p>\n",
-				"content_text": "Morning fog on the dunes in Hoge Rielen\n\n<img src=\"https://micro.brianjon.es/uploads/2021/b6570d2996.jpg\" width=\"600\" height=\"600\" alt=\"foggy landscape with sandy field and trees\" />\n",
+				"content_html": "<p>Morning fog on the dunes in Hoge Rielen</p>\n\n<p><img src=\"uploads/2021/b6570d2996.jpg\" width=\"600\" height=\"600\" alt=\"foggy landscape with sandy field and trees\" /></p>\n",
+				"content_text": "Morning fog on the dunes in Hoge Rielen\n\n<img src=\"uploads/2021/b6570d2996.jpg\" width=\"600\" height=\"600\" alt=\"foggy landscape with sandy field and trees\" />\n",
 				"date_published": "2021-08-03T23:40:19-05:00",
 				"url": "https://micro.brianjon.es/2021/08/04/morning-fog-on.html"
 			},
@@ -283,8 +291,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2021/07/25/worked-out-a.html",
 				
-				"content_html": "<p>Worked out a new run to Gierle and back this morning</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2021/64bc2b2336.jpg\" width=\"600\" height=\"450\" alt=\"Small shrine in farm fields\" /><img src=\"https://micro.brianjon.es/uploads/2021/67d6e921fb.jpg\" width=\"600\" height=\"450\" alt=\"Downstream view from watermill\" /><img src=\"https://micro.brianjon.es/uploads/2021/0374e95e24.jpg\" width=\"600\" height=\"450\" alt=\"Footpath through the forest\" /><img src=\"https://micro.brianjon.es/uploads/2021/891d7f649b.jpg\" width=\"600\" height=\"450\" alt=\"First chapel in Tielen, from early 17th century\" /></p>\n",
-				"content_text": "Worked out a new run to Gierle and back this morning\n\n\n\n<img src=\"https://micro.brianjon.es/uploads/2021/64bc2b2336.jpg\" width=\"600\" height=\"450\" alt=\"Small shrine in farm fields\" /><img src=\"https://micro.brianjon.es/uploads/2021/67d6e921fb.jpg\" width=\"600\" height=\"450\" alt=\"Downstream view from watermill\" /><img src=\"https://micro.brianjon.es/uploads/2021/0374e95e24.jpg\" width=\"600\" height=\"450\" alt=\"Footpath through the forest\" /><img src=\"https://micro.brianjon.es/uploads/2021/891d7f649b.jpg\" width=\"600\" height=\"450\" alt=\"First chapel in Tielen, from early 17th century\" />\n",
+				"content_html": "<p>Worked out a new run to Gierle and back this morning</p>\n\n<p><img src=\"uploads/2021/64bc2b2336.jpg\" width=\"600\" height=\"450\" alt=\"Small shrine in farm fields\" /><img src=\"uploads/2021/67d6e921fb.jpg\" width=\"600\" height=\"450\" alt=\"Downstream view from watermill\" /><img src=\"uploads/2021/0374e95e24.jpg\" width=\"600\" height=\"450\" alt=\"Footpath through the forest\" /><img src=\"uploads/2021/891d7f649b.jpg\" width=\"600\" height=\"450\" alt=\"First chapel in Tielen, from early 17th century\" /></p>\n",
+				"content_text": "Worked out a new run to Gierle and back this morning\n\n\n\n<img src=\"uploads/2021/64bc2b2336.jpg\" width=\"600\" height=\"450\" alt=\"Small shrine in farm fields\" /><img src=\"uploads/2021/67d6e921fb.jpg\" width=\"600\" height=\"450\" alt=\"Downstream view from watermill\" /><img src=\"uploads/2021/0374e95e24.jpg\" width=\"600\" height=\"450\" alt=\"Footpath through the forest\" /><img src=\"uploads/2021/891d7f649b.jpg\" width=\"600\" height=\"450\" alt=\"First chapel in Tielen, from early 17th century\" />\n",
 				"date_published": "2021-07-25T00:34:27-05:00",
 				"url": "https://micro.brianjon.es/2021/07/25/worked-out-a.html"
 			},
@@ -331,8 +339,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2020/05/12/pretty-into-this.html",
 				
-				"content_html": "<p>Pretty into this little guy from a <a href=\"https://publicdomainreview.org/collection/erbario-15th-century-herbal\">15th century Italian herbal</a>, a collection of images from which we published today.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/6d67736e14.jpg\" width=\"464\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Pretty into this little guy from a [15th century Italian herbal](https://publicdomainreview.org/collection/erbario-15th-century-herbal), a collection of images from which we published today.\n\n\n<img src=\"https://micro.brianjon.es/uploads/2020/6d67736e14.jpg\" width=\"464\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Pretty into this little guy from a <a href=\"https://publicdomainreview.org/collection/erbario-15th-century-herbal\">15th century Italian herbal</a>, a collection of images from which we published today.</p>\n\n<p><img src=\"uploads/2020/6d67736e14.jpg\" width=\"464\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Pretty into this little guy from a [15th century Italian herbal](https://publicdomainreview.org/collection/erbario-15th-century-herbal), a collection of images from which we published today.\n\n\n<img src=\"uploads/2020/6d67736e14.jpg\" width=\"464\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-12T06:39:50-05:00",
 				"url": "https://micro.brianjon.es/2020/05/12/pretty-into-this.html"
 			},
@@ -355,32 +363,32 @@
 			{
 				"id": "http://jonesbp.micro.blog/2020/04/04/finished-first-ragmask.html",
 				
-				"content_html": "<p>Finished first <a href=\"https://ragmask.com\">ragmask</a> from some of our wax print stockpile, some quilt batting, and a variation on the straps using paracord.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/8028fc7baf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Finished first [ragmask](https://ragmask.com) from some of our wax print stockpile, some quilt batting, and a variation on the straps using paracord.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/8028fc7baf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Finished first <a href=\"https://ragmask.com\">ragmask</a> from some of our wax print stockpile, some quilt batting, and a variation on the straps using paracord.</p>\n\n<p><img src=\"uploads/2020/8028fc7baf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Finished first [ragmask](https://ragmask.com) from some of our wax print stockpile, some quilt batting, and a variation on the straps using paracord.\n\n<img src=\"uploads/2020/8028fc7baf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-04T07:24:37-05:00",
 				"url": "https://micro.brianjon.es/2020/04/04/finished-first-ragmask.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2020/04/02/sun-is-shining.html",
 				
-				"content_html": "<p>Sun is shining. Listening to Long Shadow Duo. Making my first <a href=\"https://ragmask.com\">ragmask</a>.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/5e4314684e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sun is shining. Listening to Long Shadow Duo. Making my first [ragmask](https://ragmask.com).\n\n<img src=\"https://micro.brianjon.es/uploads/2020/5e4314684e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sun is shining. Listening to Long Shadow Duo. Making my first <a href=\"https://ragmask.com\">ragmask</a>.</p>\n\n<p><img src=\"uploads/2020/5e4314684e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sun is shining. Listening to Long Shadow Duo. Making my first [ragmask](https://ragmask.com).\n\n<img src=\"uploads/2020/5e4314684e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-02T15:00:34-05:00",
 				"url": "https://micro.brianjon.es/2020/04/02/sun-is-shining.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2020/04/01/joshua-smith-makes.html",
 				
-				"content_html": "<p>Joshua Smith makes 1:20 scale miniatures of real buildings like this <a href=\"http://www.iknowjoshuasmith.com/work/discolandia/\">Discolandia storefront</a> in San Francisco.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/a69c470682.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
-				"content_text": "Joshua Smith makes 1:20 scale miniatures of real buildings like this [Discolandia storefront](http://www.iknowjoshuasmith.com/work/discolandia/) in San Francisco.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/a69c470682.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_html": "<p>Joshua Smith makes 1:20 scale miniatures of real buildings like this <a href=\"http://www.iknowjoshuasmith.com/work/discolandia/\">Discolandia storefront</a> in San Francisco.</p>\n\n<p><img src=\"uploads/2020/a69c470682.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "Joshua Smith makes 1:20 scale miniatures of real buildings like this [Discolandia storefront](http://www.iknowjoshuasmith.com/work/discolandia/) in San Francisco.\n\n<img src=\"uploads/2020/a69c470682.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2020-04-01T08:45:16-05:00",
 				"url": "https://micro.brianjon.es/2020/04/01/joshua-smith-makes.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2020/04/01/gave-up-on.html",
 				
-				"content_html": "<p>Gave up on going back to sleep. Listening to Emily A. Sprague’s new <a href=\"https://mlesprg.bandcamp.com/album/hill-flower-fog\">Hill, Flower, Fog</a>. Very calming.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/4eb3bcc50e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Gave up on going back to sleep. Listening to Emily A. Sprague’s new [Hill, Flower, Fog](https://mlesprg.bandcamp.com/album/hill-flower-fog). Very calming.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/4eb3bcc50e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Gave up on going back to sleep. Listening to Emily A. Sprague’s new <a href=\"https://mlesprg.bandcamp.com/album/hill-flower-fog\">Hill, Flower, Fog</a>. Very calming.</p>\n\n<p><img src=\"uploads/2020/4eb3bcc50e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Gave up on going back to sleep. Listening to Emily A. Sprague’s new [Hill, Flower, Fog](https://mlesprg.bandcamp.com/album/hill-flower-fog). Very calming.\n\n<img src=\"uploads/2020/4eb3bcc50e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-01T03:22:47-05:00",
 				"url": "https://micro.brianjon.es/2020/04/01/gave-up-on.html",
 				"tags": ["Music"]
@@ -388,8 +396,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2020/03/26/laurel-canyon-vibes.html",
 				
-				"content_html": "<p>Laurel Canyon vibes from this <a href=\"https://mapachesounds.bandcamp.com/album/from-liberty-street\">new Mapache record</a> are good for being stuck indoors.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/052fd9ecb0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Laurel Canyon vibes from this [new Mapache record](https://mapachesounds.bandcamp.com/album/from-liberty-street) are good for being stuck indoors.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/052fd9ecb0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Laurel Canyon vibes from this <a href=\"https://mapachesounds.bandcamp.com/album/from-liberty-street\">new Mapache record</a> are good for being stuck indoors.</p>\n\n<p><img src=\"uploads/2020/052fd9ecb0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Laurel Canyon vibes from this [new Mapache record](https://mapachesounds.bandcamp.com/album/from-liberty-street) are good for being stuck indoors.\n\n<img src=\"uploads/2020/052fd9ecb0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-03-26T05:22:44-05:00",
 				"url": "https://micro.brianjon.es/2020/03/26/laurel-canyon-vibes.html",
 				"tags": ["Music"]
@@ -453,8 +461,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2020/01/31/revisiting-harmony-korine.html",
 				
-				"content_html": "<p>Revisiting Harmony Korine. Had forgotten the opening to Mister Lonely.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/50ff6ecfb2.jpg\" width=\"600\" height=\"251\" alt=\"\" /></p>\n",
-				"content_text": "Revisiting Harmony Korine. Had forgotten the opening to Mister Lonely.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/50ff6ecfb2.jpg\" width=\"600\" height=\"251\" alt=\"\" />\n",
+				"content_html": "<p>Revisiting Harmony Korine. Had forgotten the opening to Mister Lonely.</p>\n\n<p><img src=\"uploads/2020/50ff6ecfb2.jpg\" width=\"600\" height=\"251\" alt=\"\" /></p>\n",
+				"content_text": "Revisiting Harmony Korine. Had forgotten the opening to Mister Lonely.\n\n<img src=\"uploads/2020/50ff6ecfb2.jpg\" width=\"600\" height=\"251\" alt=\"\" />\n",
 				"date_published": "2020-01-31T14:30:45-05:00",
 				"url": "https://micro.brianjon.es/2020/01/31/revisiting-harmony-korine.html"
 			},
@@ -509,8 +517,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2020/01/02/we-brought-this.html",
 				
-				"content_html": "<p>We brought this guy, Antonio, home yesterday to start the new year.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2020/d9586abffb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "We brought this guy, Antonio, home yesterday to start the new year.\n\n<img src=\"https://micro.brianjon.es/uploads/2020/d9586abffb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>We brought this guy, Antonio, home yesterday to start the new year.</p>\n\n<p><img src=\"uploads/2020/d9586abffb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "We brought this guy, Antonio, home yesterday to start the new year.\n\n<img src=\"uploads/2020/d9586abffb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-01-02T07:14:49-05:00",
 				"url": "https://micro.brianjon.es/2020/01/02/we-brought-this.html",
 				"tags": ["Photos"]
@@ -518,8 +526,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/12/31/i-love-this.html",
 				
-				"content_html": "<p>I love this colorful installation of felt pieces by <a href=\"http://www.masakomiki.com/2019-03.html\">Masako Miki</a>. I would love to learn how to felt things; I’d like to understand how to exert a little control over the magic that goes on between the initial construction and the felted product.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/b95e494162.jpg\" width=\"600\" height=\"399\" alt=\"\" /></p>\n",
-				"content_text": "I love this colorful installation of felt pieces by [Masako Miki](http://www.masakomiki.com/2019-03.html). I would love to learn how to felt things; I’d like to understand how to exert a little control over the magic that goes on between the initial construction and the felted product.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/b95e494162.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
+				"content_html": "<p>I love this colorful installation of felt pieces by <a href=\"http://www.masakomiki.com/2019-03.html\">Masako Miki</a>. I would love to learn how to felt things; I’d like to understand how to exert a little control over the magic that goes on between the initial construction and the felted product.</p>\n\n<p><img src=\"uploads/2019/b95e494162.jpg\" width=\"600\" height=\"399\" alt=\"\" /></p>\n",
+				"content_text": "I love this colorful installation of felt pieces by [Masako Miki](http://www.masakomiki.com/2019-03.html). I would love to learn how to felt things; I’d like to understand how to exert a little control over the magic that goes on between the initial construction and the felted product.\n\n<img src=\"uploads/2019/b95e494162.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
 				"date_published": "2019-12-31T05:42:58-05:00",
 				"url": "https://micro.brianjon.es/2019/12/31/i-love-this.html"
 			},
@@ -558,8 +566,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/11/01/years-of-lateth.html",
 				
-				"content_html": "<p>20 years of late-20th century contemporary music journal <a href=\"https://www.contactjournal.gold.ac.uk/\">Contact</a> archived by Goldsmiths, University of London</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/11f48d7e5e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "20 years of late-20th century contemporary music journal [Contact](https://www.contactjournal.gold.ac.uk/) archived by Goldsmiths, University of London\n\n<img src=\"https://micro.brianjon.es/uploads/2019/11f48d7e5e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>20 years of late-20th century contemporary music journal <a href=\"https://www.contactjournal.gold.ac.uk/\">Contact</a> archived by Goldsmiths, University of London</p>\n\n<p><img src=\"uploads/2019/11f48d7e5e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "20 years of late-20th century contemporary music journal [Contact](https://www.contactjournal.gold.ac.uk/) archived by Goldsmiths, University of London\n\n<img src=\"uploads/2019/11f48d7e5e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-01T14:01:34-05:00",
 				"url": "https://micro.brianjon.es/2019/11/01/years-of-lateth.html"
 			},
@@ -590,8 +598,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/10/20/columbus-marathon-starting.html",
 				
-				"content_html": "<p>Columbus Marathon starting area</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/46ee0d71ac.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Columbus Marathon starting area\n\n<img src=\"https://micro.brianjon.es/uploads/2019/46ee0d71ac.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Columbus Marathon starting area</p>\n\n<p><img src=\"uploads/2019/46ee0d71ac.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Columbus Marathon starting area\n\n<img src=\"uploads/2019/46ee0d71ac.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-20T06:22:07-05:00",
 				"url": "https://micro.brianjon.es/2019/10/20/columbus-marathon-starting.html"
 			},
@@ -630,8 +638,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/10/07/i-miss-phinery.html",
 				
-				"content_html": "<p>I miss Phinery tapes. Always simple, beautiful packaging. Writing documentation and listening to <a href=\"https://phinery.bandcamp.com/album/tile\">this 2017 Vales release</a>.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/8fee72d2c2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I miss Phinery tapes. Always simple, beautiful packaging. Writing documentation and listening to [this 2017 Vales release](https://phinery.bandcamp.com/album/tile).\n\n<img src=\"https://micro.brianjon.es/uploads/2019/8fee72d2c2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I miss Phinery tapes. Always simple, beautiful packaging. Writing documentation and listening to <a href=\"https://phinery.bandcamp.com/album/tile\">this 2017 Vales release</a>.</p>\n\n<p><img src=\"uploads/2019/8fee72d2c2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I miss Phinery tapes. Always simple, beautiful packaging. Writing documentation and listening to [this 2017 Vales release](https://phinery.bandcamp.com/album/tile).\n\n<img src=\"uploads/2019/8fee72d2c2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-07T10:36:27-05:00",
 				"url": "https://micro.brianjon.es/2019/10/07/i-miss-phinery.html",
 				"tags": ["Music","Photos"]
@@ -648,16 +656,16 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/09/14/every-time-i.html",
 				
-				"content_html": "<p>Every time I revisit Ernest Haeckel’s <a href=\"https://publicdomainreview.org/collections/ernst-haeckels-jellyfish/\">natural illustrations</a> I get into a different set of his palettes. This is my current favorite.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/b96be95e13.jpg\" width=\"419\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Every time I revisit Ernest Haeckel’s [natural illustrations](https://publicdomainreview.org/collections/ernst-haeckels-jellyfish/) I get into a different set of his palettes. This is my current favorite.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/b96be95e13.jpg\" width=\"419\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Every time I revisit Ernest Haeckel’s <a href=\"https://publicdomainreview.org/collections/ernst-haeckels-jellyfish/\">natural illustrations</a> I get into a different set of his palettes. This is my current favorite.</p>\n\n<p><img src=\"uploads/2019/b96be95e13.jpg\" width=\"419\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Every time I revisit Ernest Haeckel’s [natural illustrations](https://publicdomainreview.org/collections/ernst-haeckels-jellyfish/) I get into a different set of his palettes. This is my current favorite.\n\n<img src=\"uploads/2019/b96be95e13.jpg\" width=\"419\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-14T14:51:27-05:00",
 				"url": "https://micro.brianjon.es/2019/09/14/every-time-i.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/07/17/cool-use-of.html",
 				
-				"content_html": "<p>Cool use of double-paned glass: lettering on front pane with brushed backdrop on back pane creates depth effect.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/ba233c151c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Cool use of double-paned glass: lettering on front pane with brushed backdrop on back pane creates depth effect.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/ba233c151c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Cool use of double-paned glass: lettering on front pane with brushed backdrop on back pane creates depth effect.</p>\n\n<p><img src=\"uploads/2019/ba233c151c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Cool use of double-paned glass: lettering on front pane with brushed backdrop on back pane creates depth effect.\n\n<img src=\"uploads/2019/ba233c151c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-17T03:02:19-05:00",
 				"url": "https://micro.brianjon.es/2019/07/17/cool-use-of.html"
 			},
@@ -688,8 +696,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/07/02/sunrise-run-in.html",
 				
-				"content_html": "<p>Sunrise run in Savoy</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/9ee06bb808.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sunrise run in Savoy\n\n<img src=\"https://micro.brianjon.es/uploads/2019/9ee06bb808.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sunrise run in Savoy</p>\n\n<p><img src=\"uploads/2019/9ee06bb808.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sunrise run in Savoy\n\n<img src=\"uploads/2019/9ee06bb808.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-01T23:25:59-05:00",
 				"url": "https://micro.brianjon.es/2019/07/02/sunrise-run-in.html"
 			},
@@ -736,24 +744,24 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/06/02/rheinruhrmarathon-starting-line.html",
 				
-				"content_html": "<p>Rhein-Ruhr-Marathon starting line in Duisburg for my last European marathon for our year in Gent and fourth of four in two months.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/12ee289e32.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Rhein-Ruhr-Marathon starting line in Duisburg for my last European marathon for our year in Gent and fourth of four in two months.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/12ee289e32.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Rhein-Ruhr-Marathon starting line in Duisburg for my last European marathon for our year in Gent and fourth of four in two months.</p>\n\n<p><img src=\"uploads/2019/12ee289e32.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Rhein-Ruhr-Marathon starting line in Duisburg for my last European marathon for our year in Gent and fourth of four in two months.\n\n<img src=\"uploads/2019/12ee289e32.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-06-02T01:03:22-05:00",
 				"url": "https://micro.brianjon.es/2019/06/02/rheinruhrmarathon-starting-line.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/06/01/at-an-early.html",
 				
-				"content_html": "<p>At an early dinner on the Innenhafen and amazed at how little Duisburg has changed in the six years since we lived here.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/93202caed9.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/ffe95f4f64.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "At an early dinner on the Innenhafen and amazed at how little Duisburg has changed in the six years since we lived here.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/93202caed9.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/ffe95f4f64.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>At an early dinner on the Innenhafen and amazed at how little Duisburg has changed in the six years since we lived here.</p>\n\n<p><img src=\"uploads/2019/93202caed9.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/ffe95f4f64.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "At an early dinner on the Innenhafen and amazed at how little Duisburg has changed in the six years since we lived here.\n\n<img src=\"uploads/2019/93202caed9.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/ffe95f4f64.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-06-01T10:14:12-05:00",
 				"url": "https://micro.brianjon.es/2019/06/01/at-an-early.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/06/01/the-inclusion-of.html",
 				
-				"content_html": "<p>The inclusion of tick repellent spray in my participant pack for the Rhein-Ruhr-Marathon is not comforting.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/c6e2a628c3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The inclusion of tick repellent spray in my participant pack for the Rhein-Ruhr-Marathon is not comforting.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/c6e2a628c3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The inclusion of tick repellent spray in my participant pack for the Rhein-Ruhr-Marathon is not comforting.</p>\n\n<p><img src=\"uploads/2019/c6e2a628c3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The inclusion of tick repellent spray in my participant pack for the Rhein-Ruhr-Marathon is not comforting.\n\n<img src=\"uploads/2019/c6e2a628c3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-06-01T07:18:20-05:00",
 				"url": "https://micro.brianjon.es/2019/06/01/the-inclusion-of.html"
 			},
@@ -768,8 +776,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/06/01/ss-singleartwork-or.html",
 				
-				"content_html": "<p>1960s/1970s single-artwork or single-series spaces (e.g., Rothko Chapel) is probably my favorite architectural micro-genre. <a href=\"https://en.wikipedia.org/wiki/Tongerlo_Abbey\">Tongerlo Abbey’s</a> museum for their period Last Supper replica is very nice.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/4f61d26975.jpg\" alt=\"Museum facade with stained glass\" title=\"IMG_4431.jpeg\" border=\"0\" width=\"2016\" height=\"1512\" /></p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/8ac522fd19.jpg\" alt=\"Fresco display\" title=\"IMG_4432.jpeg\" border=\"0\" width=\"1200\" height=\"899\" /></p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/91d61b1b65.jpg\" alt=\"Interior with stained glass\" title=\"IMG_4434.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" /></p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/49abe395ed.jpg\" alt=\"Sign on front of museum\" title=\"IMG_4437.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" /></p>\n",
-				"content_text": "1960s/1970s single-artwork or single-series spaces (e.g., Rothko Chapel) is probably my favorite architectural micro-genre. [Tongerlo Abbey’s](https://en.wikipedia.org/wiki/Tongerlo_Abbey) museum for their period Last Supper replica is very nice.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/4f61d26975.jpg\" alt=\"Museum facade with stained glass\" title=\"IMG_4431.jpeg\" border=\"0\" width=\"2016\" height=\"1512\" />\n\n<img src=\"https://micro.brianjon.es/uploads/2019/8ac522fd19.jpg\" alt=\"Fresco display\" title=\"IMG_4432.jpeg\" border=\"0\" width=\"1200\" height=\"899\" />\n\n<img src=\"https://micro.brianjon.es/uploads/2019/91d61b1b65.jpg\" alt=\"Interior with stained glass\" title=\"IMG_4434.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" />\n\n<img src=\"https://micro.brianjon.es/uploads/2019/49abe395ed.jpg\" alt=\"Sign on front of museum\" title=\"IMG_4437.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" />\n",
+				"content_html": "<p>1960s/1970s single-artwork or single-series spaces (e.g., Rothko Chapel) is probably my favorite architectural micro-genre. <a href=\"https://en.wikipedia.org/wiki/Tongerlo_Abbey\">Tongerlo Abbey’s</a> museum for their period Last Supper replica is very nice.</p>\n\n<p><img src=\"uploads/2019/4f61d26975.jpg\" alt=\"Museum facade with stained glass\" title=\"IMG_4431.jpeg\" border=\"0\" width=\"2016\" height=\"1512\" /></p>\n\n<p><img src=\"uploads/2019/8ac522fd19.jpg\" alt=\"Fresco display\" title=\"IMG_4432.jpeg\" border=\"0\" width=\"1200\" height=\"899\" /></p>\n\n<p><img src=\"uploads/2019/91d61b1b65.jpg\" alt=\"Interior with stained glass\" title=\"IMG_4434.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" /></p>\n\n<p><img src=\"uploads/2019/49abe395ed.jpg\" alt=\"Sign on front of museum\" title=\"IMG_4437.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" /></p>\n",
+				"content_text": "1960s/1970s single-artwork or single-series spaces (e.g., Rothko Chapel) is probably my favorite architectural micro-genre. [Tongerlo Abbey’s](https://en.wikipedia.org/wiki/Tongerlo_Abbey) museum for their period Last Supper replica is very nice.\n\n<img src=\"uploads/2019/4f61d26975.jpg\" alt=\"Museum facade with stained glass\" title=\"IMG_4431.jpeg\" border=\"0\" width=\"2016\" height=\"1512\" />\n\n<img src=\"uploads/2019/8ac522fd19.jpg\" alt=\"Fresco display\" title=\"IMG_4432.jpeg\" border=\"0\" width=\"1200\" height=\"899\" />\n\n<img src=\"uploads/2019/91d61b1b65.jpg\" alt=\"Interior with stained glass\" title=\"IMG_4434.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" />\n\n<img src=\"uploads/2019/49abe395ed.jpg\" alt=\"Sign on front of museum\" title=\"IMG_4437.jpeg\" border=\"0\" width=\"1200\" height=\"1200\" />\n",
 				"date_published": "2019-05-31T23:55:10-05:00",
 				"url": "https://micro.brianjon.es/2019/06/01/ss-singleartwork-or.html"
 			},
@@ -810,16 +818,16 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/05/12/finally-broke-through.html",
 				
-				"content_html": "<p>Finally broke through a long plateau with a 5 minute improvement on my personal best. The right marathon for celebrating.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/e5c7072bed.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/9e09b16680.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Finally broke through a long plateau with a 5 minute improvement on my personal best. The right marathon for celebrating.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/e5c7072bed.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/9e09b16680.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Finally broke through a long plateau with a 5 minute improvement on my personal best. The right marathon for celebrating.</p>\n\n<p><img src=\"uploads/2019/e5c7072bed.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/9e09b16680.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Finally broke through a long plateau with a 5 minute improvement on my personal best. The right marathon for celebrating.\n\n<img src=\"uploads/2019/e5c7072bed.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/9e09b16680.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-05-12T06:59:49-05:00",
 				"url": "https://micro.brianjon.es/2019/05/12/finally-broke-through.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/05/12/at-the-moortgat.html",
 				
-				"content_html": "<p>At the Moortgat Duvel brewery for the start of the Great Breweries Marathon.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/383d5a910e.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/d305d71b32.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "At the Moortgat Duvel brewery for the start of the Great Breweries Marathon.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/383d5a910e.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/d305d71b32.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>At the Moortgat Duvel brewery for the start of the Great Breweries Marathon.</p>\n\n<p><img src=\"uploads/2019/383d5a910e.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/d305d71b32.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "At the Moortgat Duvel brewery for the start of the Great Breweries Marathon.\n\n<img src=\"uploads/2019/383d5a910e.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/d305d71b32.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-05-12T01:35:12-05:00",
 				"url": "https://micro.brianjon.es/2019/05/12/at-the-moortgat.html"
 			},
@@ -834,32 +842,32 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/04/28/starting-line-at.html",
 				
-				"content_html": "<p>Starting line at Antwerp marathon</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/58162b77d6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Starting line at Antwerp marathon\n\n<img src=\"https://micro.brianjon.es/uploads/2019/58162b77d6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Starting line at Antwerp marathon</p>\n\n<p><img src=\"uploads/2019/58162b77d6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Starting line at Antwerp marathon\n\n<img src=\"uploads/2019/58162b77d6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-28T01:52:52-05:00",
 				"url": "https://micro.brianjon.es/2019/04/28/starting-line-at.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/04/27/ill-be-running.html",
 				
-				"content_html": "<p>I&rsquo;ll be running through the 2km-long <a href=\"https://nl.m.wikipedia.org/wiki/Waaslandtunnel\">Waaslandtunnel</a> in the Antwerp marathon tomorrow. It goes a long, long way down.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/c13a5bfcae.jpg\" width=\"600\" height=\"389\" alt=\"\" /></p>\n",
-				"content_text": "I'll be running through the 2km-long [Waaslandtunnel](https://nl.m.wikipedia.org/wiki/Waaslandtunnel) in the Antwerp marathon tomorrow. It goes a long, long way down.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/c13a5bfcae.jpg\" width=\"600\" height=\"389\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;ll be running through the 2km-long <a href=\"https://nl.m.wikipedia.org/wiki/Waaslandtunnel\">Waaslandtunnel</a> in the Antwerp marathon tomorrow. It goes a long, long way down.</p>\n\n<p><img src=\"uploads/2019/c13a5bfcae.jpg\" width=\"600\" height=\"389\" alt=\"\" /></p>\n",
+				"content_text": "I'll be running through the 2km-long [Waaslandtunnel](https://nl.m.wikipedia.org/wiki/Waaslandtunnel) in the Antwerp marathon tomorrow. It goes a long, long way down.\n\n<img src=\"uploads/2019/c13a5bfcae.jpg\" width=\"600\" height=\"389\" alt=\"\" />\n",
 				"date_published": "2019-04-27T08:41:18-05:00",
 				"url": "https://micro.brianjon.es/2019/04/27/ill-be-running.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/04/19/json-data-grooming.html",
 				
-				"content_html": "<p>JSON data grooming is a little less grim from the Vooruit terrace on a springtime morning.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/94536f04cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "JSON data grooming is a little less grim from the Vooruit terrace on a springtime morning.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/94536f04cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>JSON data grooming is a little less grim from the Vooruit terrace on a springtime morning.</p>\n\n<p><img src=\"uploads/2019/94536f04cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "JSON data grooming is a little less grim from the Vooruit terrace on a springtime morning.\n\n<img src=\"uploads/2019/94536f04cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-19T03:33:19-05:00",
 				"url": "https://micro.brianjon.es/2019/04/19/json-data-grooming.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/04/16/good-improvisation.html",
 				
-				"content_html": "<p>Good improvisation</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/7fcc5d573c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Good improvisation \n\n<img src=\"https://micro.brianjon.es/uploads/2019/7fcc5d573c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Good improvisation</p>\n\n<p><img src=\"uploads/2019/7fcc5d573c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Good improvisation \n\n<img src=\"uploads/2019/7fcc5d573c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-16T03:41:35-05:00",
 				"url": "https://micro.brianjon.es/2019/04/16/good-improvisation.html",
 				"tags": ["Photos"]
@@ -867,8 +875,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/04/15/two-good-newtome.html",
 				
-				"content_html": "<p>Two good new-to-me Scarpulla murals in Dampoort. Really like the Resto collaboration on the submarine.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/e666da688a.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/5af38cad1c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Two good new-to-me Scarpulla murals in Dampoort. Really like the Resto collaboration on the submarine.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/e666da688a.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/5af38cad1c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Two good new-to-me Scarpulla murals in Dampoort. Really like the Resto collaboration on the submarine.</p>\n\n<p><img src=\"uploads/2019/e666da688a.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/5af38cad1c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Two good new-to-me Scarpulla murals in Dampoort. Really like the Resto collaboration on the submarine.\n\n<img src=\"uploads/2019/e666da688a.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/5af38cad1c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-15T07:43:09-05:00",
 				"url": "https://micro.brianjon.es/2019/04/15/two-good-newtome.html",
 				"tags": ["Photos"]
@@ -892,24 +900,24 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/04/05/very-good-houseboat.html",
 				
-				"content_html": "<p>Very good houseboat scene here.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/1db8f71dd7.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/6e22859e15.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2019/c93b1b8dca.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Very good houseboat scene here.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/1db8f71dd7.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"https://micro.brianjon.es/uploads/2019/6e22859e15.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.brianjon.es/uploads/2019/c93b1b8dca.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Very good houseboat scene here.</p>\n\n<p><img src=\"uploads/2019/1db8f71dd7.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"uploads/2019/6e22859e15.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/c93b1b8dca.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Very good houseboat scene here.\n\n<img src=\"uploads/2019/1db8f71dd7.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"uploads/2019/6e22859e15.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/c93b1b8dca.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-05T10:16:52-05:00",
 				"url": "https://micro.brianjon.es/2019/04/05/very-good-houseboat.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/04/05/settled-into-our.html",
 				
-				"content_html": "<p>Settled into our city camping spot in Rotterdam for the marathon on Sunday.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/e5e167e86a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Settled into our city camping spot in Rotterdam for the marathon on Sunday.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/e5e167e86a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Settled into our city camping spot in Rotterdam for the marathon on Sunday.</p>\n\n<p><img src=\"uploads/2019/e5e167e86a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Settled into our city camping spot in Rotterdam for the marathon on Sunday.\n\n<img src=\"uploads/2019/e5e167e86a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-05T10:05:14-05:00",
 				"url": "https://micro.brianjon.es/2019/04/05/settled-into-our.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/04/01/wills-crazy-love.html",
 				
-				"content_html": "<p>Will‘s “<a href=\"https://willcourtneymusic.com/album/869301/crazy-love-full-resolution\">Crazy Love</a>” album from last year has me missing being in Austin.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/9526afdd2e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Will‘s “[Crazy Love](https://willcourtneymusic.com/album/869301/crazy-love-full-resolution)” album from last year has me missing being in Austin.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/9526afdd2e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Will‘s “<a href=\"https://willcourtneymusic.com/album/869301/crazy-love-full-resolution\">Crazy Love</a>” album from last year has me missing being in Austin.</p>\n\n<p><img src=\"uploads/2019/9526afdd2e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Will‘s “[Crazy Love](https://willcourtneymusic.com/album/869301/crazy-love-full-resolution)” album from last year has me missing being in Austin.\n\n<img src=\"uploads/2019/9526afdd2e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-01T07:44:37-05:00",
 				"url": "https://micro.brianjon.es/2019/04/01/wills-crazy-love.html",
 				"tags": ["Music"]
@@ -917,8 +925,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/04/01/in-addition-to.html",
 				
-				"content_html": "<p>In addition to being a GOAT track title candidate, “<a href=\"https://karlrecords.bandcamp.com/track/jajouka-pipe-dream\">Jajouka Pipe Dream</a>” is an exceptional spacey blend of synths, flutes, and percussion from Ghazi Barakat and Paul LeBrecque. The other side has more of LeBrecque‘s guitar, and is great as well.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/67b59a61bd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "In addition to being a GOAT track title candidate, “[Jajouka Pipe Dream](https://karlrecords.bandcamp.com/track/jajouka-pipe-dream)” is an exceptional spacey blend of synths, flutes, and percussion from Ghazi Barakat and Paul LeBrecque. The other side has more of LeBrecque‘s guitar, and is great as well.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/67b59a61bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>In addition to being a GOAT track title candidate, “<a href=\"https://karlrecords.bandcamp.com/track/jajouka-pipe-dream\">Jajouka Pipe Dream</a>” is an exceptional spacey blend of synths, flutes, and percussion from Ghazi Barakat and Paul LeBrecque. The other side has more of LeBrecque‘s guitar, and is great as well.</p>\n\n<p><img src=\"uploads/2019/67b59a61bd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "In addition to being a GOAT track title candidate, “[Jajouka Pipe Dream](https://karlrecords.bandcamp.com/track/jajouka-pipe-dream)” is an exceptional spacey blend of synths, flutes, and percussion from Ghazi Barakat and Paul LeBrecque. The other side has more of LeBrecque‘s guitar, and is great as well.\n\n<img src=\"uploads/2019/67b59a61bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-01T05:08:46-05:00",
 				"url": "https://micro.brianjon.es/2019/04/01/in-addition-to.html",
 				"tags": ["Music"]
@@ -926,8 +934,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/03/31/im-finally-listening.html",
 				
-				"content_html": "<p>I’m finally listening to the <a href=\"https://www.popmatters.com/mdou-moctar-ilana-the-creator-2632239582.html\">new Mdou Moctar</a> and it has been well worth the wait. The vinyl is waiting for me when we get back to the States at the end of the summer.</p>\n\n<p><img src=\"https://micro.brianjon.es/uploads/2019/19eaf7c4c9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I’m finally listening to the [new Mdou Moctar](https://www.popmatters.com/mdou-moctar-ilana-the-creator-2632239582.html) and it has been well worth the wait. The vinyl is waiting for me when we get back to the States at the end of the summer.\n\n<img src=\"https://micro.brianjon.es/uploads/2019/19eaf7c4c9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I’m finally listening to the <a href=\"https://www.popmatters.com/mdou-moctar-ilana-the-creator-2632239582.html\">new Mdou Moctar</a> and it has been well worth the wait. The vinyl is waiting for me when we get back to the States at the end of the summer.</p>\n\n<p><img src=\"uploads/2019/19eaf7c4c9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I’m finally listening to the [new Mdou Moctar](https://www.popmatters.com/mdou-moctar-ilana-the-creator-2632239582.html) and it has been well worth the wait. The vinyl is waiting for me when we get back to the States at the end of the summer.\n\n<img src=\"uploads/2019/19eaf7c4c9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-31T08:02:00-05:00",
 				"url": "https://micro.brianjon.es/2019/03/31/im-finally-listening.html",
 				"tags": ["Music"]
@@ -991,8 +999,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/02/23/natural-sciences-museum.html",
 				
-				"content_html": "<p>Natural Sciences Museum in Brussels</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/c0cf9bd84d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Natural Sciences Museum in Brussels\n\n<img src=\"http://micro.brianjon.es/uploads/2019/c0cf9bd84d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Natural Sciences Museum in Brussels</p>\n\n<p><img src=\"uploads/2019/c0cf9bd84d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Natural Sciences Museum in Brussels\n\n<img src=\"uploads/2019/c0cf9bd84d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-02-23T08:08:55-05:00",
 				"url": "https://micro.brianjon.es/2019/02/23/natural-sciences-museum.html"
 			},
@@ -1007,48 +1015,48 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/02/21/the-views-are.html",
 				
-				"content_html": "<p>The views are better when the run happens after the sun’s up.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/a2e2c3206f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "The views are better when the run happens after the sun’s up.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/a2e2c3206f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>The views are better when the run happens after the sun’s up.</p>\n\n<p><img src=\"uploads/2019/a2e2c3206f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "The views are better when the run happens after the sun’s up.\n\n<img src=\"uploads/2019/a2e2c3206f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-02-21T07:20:12-05:00",
 				"url": "https://micro.brianjon.es/2019/02/21/the-views-are.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/02/18/taking-a-break.html",
 				
-				"content_html": "<p>Taking a break from work with a short walk in Patershol.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/2edb23b3cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Taking a break from work with a short walk in Patershol.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/2edb23b3cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Taking a break from work with a short walk in Patershol.</p>\n\n<p><img src=\"uploads/2019/2edb23b3cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Taking a break from work with a short walk in Patershol.\n\n<img src=\"uploads/2019/2edb23b3cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-02-18T09:08:03-05:00",
 				"url": "https://micro.brianjon.es/2019/02/18/taking-a-break.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/02/16/spring-has-sprung.html",
 				
-				"content_html": "<p>Spring has sprung.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/47a5c0ac0a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Spring has sprung.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/47a5c0ac0a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Spring has sprung.</p>\n\n<p><img src=\"uploads/2019/47a5c0ac0a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Spring has sprung.\n\n<img src=\"uploads/2019/47a5c0ac0a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-02-16T05:52:09-05:00",
 				"url": "https://micro.brianjon.es/2019/02/16/spring-has-sprung.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/02/13/this-trilingual-volume.html",
 				
-				"content_html": "<p>This <a href=\"https://www.kroneckerwallis.com/product/illustrating-nature-world-eyes-alexander-von-humboldt/\">trilingual volume</a> of Humboldt‘s specimen renderings and maps from Kronecker Wallis looks absolutely beautiful.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/de347ad811.jpg\" alt=\"Book Cover\" title=\"Untitled-1.jpg\" border=\"0\" width=\"487\" height=\"366\" />\n<img src=\"http://micro.brianjon.es/uploads/2019/2056eecae6.jpg\" alt=\"Type Example\" title=\"Untitled-2.jpg\" border=\"0\" width=\"339\" height=\"226\" />\n<img src=\"http://micro.brianjon.es/uploads/2019/4e50cf3dcb.jpg\" alt=\"Illustration Example\" title=\"Untitled-3.jpg\" border=\"0\" width=\"340\" height=\"255\" /></p>\n",
-				"content_text": "This [trilingual volume](https://www.kroneckerwallis.com/product/illustrating-nature-world-eyes-alexander-von-humboldt/) of Humboldt‘s specimen renderings and maps from Kronecker Wallis looks absolutely beautiful.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/de347ad811.jpg\" alt=\"Book Cover\" title=\"Untitled-1.jpg\" border=\"0\" width=\"487\" height=\"366\" />\n<img src=\"http://micro.brianjon.es/uploads/2019/2056eecae6.jpg\" alt=\"Type Example\" title=\"Untitled-2.jpg\" border=\"0\" width=\"339\" height=\"226\" />\n<img src=\"http://micro.brianjon.es/uploads/2019/4e50cf3dcb.jpg\" alt=\"Illustration Example\" title=\"Untitled-3.jpg\" border=\"0\" width=\"340\" height=\"255\" />\n",
+				"content_html": "<p>This <a href=\"https://www.kroneckerwallis.com/product/illustrating-nature-world-eyes-alexander-von-humboldt/\">trilingual volume</a> of Humboldt‘s specimen renderings and maps from Kronecker Wallis looks absolutely beautiful.</p>\n\n<p><img src=\"uploads/2019/de347ad811.jpg\" alt=\"Book Cover\" title=\"Untitled-1.jpg\" border=\"0\" width=\"487\" height=\"366\" />\n<img src=\"uploads/2019/2056eecae6.jpg\" alt=\"Type Example\" title=\"Untitled-2.jpg\" border=\"0\" width=\"339\" height=\"226\" />\n<img src=\"uploads/2019/4e50cf3dcb.jpg\" alt=\"Illustration Example\" title=\"Untitled-3.jpg\" border=\"0\" width=\"340\" height=\"255\" /></p>\n",
+				"content_text": "This [trilingual volume](https://www.kroneckerwallis.com/product/illustrating-nature-world-eyes-alexander-von-humboldt/) of Humboldt‘s specimen renderings and maps from Kronecker Wallis looks absolutely beautiful.\n\n<img src=\"uploads/2019/de347ad811.jpg\" alt=\"Book Cover\" title=\"Untitled-1.jpg\" border=\"0\" width=\"487\" height=\"366\" />\n<img src=\"uploads/2019/2056eecae6.jpg\" alt=\"Type Example\" title=\"Untitled-2.jpg\" border=\"0\" width=\"339\" height=\"226\" />\n<img src=\"uploads/2019/4e50cf3dcb.jpg\" alt=\"Illustration Example\" title=\"Untitled-3.jpg\" border=\"0\" width=\"340\" height=\"255\" />\n",
 				"date_published": "2019-02-13T09:47:25-05:00",
 				"url": "https://micro.brianjon.es/2019/02/13/this-trilingual-volume.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/02/04/sun-rising-behind.html",
 				
-				"content_html": "<p>Sun rising behind Sint-Jacobskerk over Vrijdagmarkt</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/f96fc27fef.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sun rising behind Sint-Jacobskerk over Vrijdagmarkt\n\n<img src=\"http://micro.brianjon.es/uploads/2019/f96fc27fef.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sun rising behind Sint-Jacobskerk over Vrijdagmarkt</p>\n\n<p><img src=\"uploads/2019/f96fc27fef.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sun rising behind Sint-Jacobskerk over Vrijdagmarkt\n\n<img src=\"uploads/2019/f96fc27fef.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-02-04T02:10:03-05:00",
 				"url": "https://micro.brianjon.es/2019/02/04/sun-rising-behind.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/01/30/working-at-de.html",
 				
-				"content_html": "<p>Working at De Krook on a snow day with Sint-Baafskathedral in the background.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/9713d68a28.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Working at De Krook on a snow day with Sint-Baafskathedral in the background.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/9713d68a28.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Working at De Krook on a snow day with Sint-Baafskathedral in the background.</p>\n\n<p><img src=\"uploads/2019/9713d68a28.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Working at De Krook on a snow day with Sint-Baafskathedral in the background.\n\n<img src=\"uploads/2019/9713d68a28.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-30T04:24:19-05:00",
 				"url": "https://micro.brianjon.es/2019/01/30/working-at-de.html"
 			},
@@ -1063,40 +1071,40 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/01/28/collaborative-mural-by.html",
 				
-				"content_html": "<p>Collaborative mural by Bué the Warrior, ROA, and others on Kraankindersstraat</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/fd16590bbd.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/65c5005784.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/688e54c505.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/9fc054d05f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Collaborative mural by Bué the Warrior, ROA, and others on Kraankindersstraat \n\n<img src=\"http://micro.brianjon.es/uploads/2019/fd16590bbd.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/65c5005784.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/688e54c505.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/9fc054d05f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Collaborative mural by Bué the Warrior, ROA, and others on Kraankindersstraat</p>\n\n<p><img src=\"uploads/2019/fd16590bbd.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"uploads/2019/65c5005784.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2019/688e54c505.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"uploads/2019/9fc054d05f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Collaborative mural by Bué the Warrior, ROA, and others on Kraankindersstraat \n\n<img src=\"uploads/2019/fd16590bbd.jpg\" width=\"600\" height=\"450\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"uploads/2019/65c5005784.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2019/688e54c505.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"uploads/2019/9fc054d05f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-01-28T08:57:49-05:00",
 				"url": "https://micro.brianjon.es/2019/01/28/collaborative-mural-by.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/01/27/messing-around-on.html",
 				
-				"content_html": "<p>Messing around on Glitch with some generative color palettes and a riff on Tim Holman‘s Vera Molnar homage <a href=\"https://vera-memphis.glitch.me\">vera-memphis.glitch.me</a></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/af166cd079.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/c656393baa.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/a4198a67d7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/41f2d9743e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Messing around on Glitch with some generative color palettes and a riff on Tim Holman‘s Vera Molnar homage [vera-memphis.glitch.me](https://vera-memphis.glitch.me)\n\n<img src=\"http://micro.brianjon.es/uploads/2019/af166cd079.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/c656393baa.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/a4198a67d7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.brianjon.es/uploads/2019/41f2d9743e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Messing around on Glitch with some generative color palettes and a riff on Tim Holman‘s Vera Molnar homage <a href=\"https://vera-memphis.glitch.me\">vera-memphis.glitch.me</a></p>\n\n<p><img src=\"uploads/2019/af166cd079.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"uploads/2019/c656393baa.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/a4198a67d7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/41f2d9743e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Messing around on Glitch with some generative color palettes and a riff on Tim Holman‘s Vera Molnar homage [vera-memphis.glitch.me](https://vera-memphis.glitch.me)\n\n<img src=\"uploads/2019/af166cd079.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"uploads/2019/c656393baa.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/a4198a67d7.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2019/41f2d9743e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-27T02:28:55-05:00",
 				"url": "https://micro.brianjon.es/2019/01/27/messing-around-on.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/01/24/sunrise-in-the.html",
 				
-				"content_html": "<p>Sunrise in the begijnhof</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/81d340f2ad.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sunrise in the begijnhof\n\n<img src=\"http://micro.brianjon.es/uploads/2019/81d340f2ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sunrise in the begijnhof</p>\n\n<p><img src=\"uploads/2019/81d340f2ad.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sunrise in the begijnhof\n\n<img src=\"uploads/2019/81d340f2ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-24T02:56:18-05:00",
 				"url": "https://micro.brianjon.es/2019/01/24/sunrise-in-the.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/01/22/vrijdagmarkt-in-the.html",
 				
-				"content_html": "<p>Vrijdagmarkt in the snow</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/77df66cede.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Vrijdagmarkt in the snow\n\n<img src=\"http://micro.brianjon.es/uploads/2019/77df66cede.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Vrijdagmarkt in the snow</p>\n\n<p><img src=\"uploads/2019/77df66cede.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Vrijdagmarkt in the snow\n\n<img src=\"uploads/2019/77df66cede.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-22T05:29:25-05:00",
 				"url": "https://micro.brianjon.es/2019/01/22/vrijdagmarkt-in-the.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2019/01/22/this-could-be.html",
 				
-				"content_html": "<p>This could be our only snow day of the winter, but it will be nice while it lasts.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/82c2cef48c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This could be our only snow day of the winter, but it will be nice while it lasts.\n\n<img src=\"http://micro.brianjon.es/uploads/2019/82c2cef48c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This could be our only snow day of the winter, but it will be nice while it lasts.</p>\n\n<p><img src=\"uploads/2019/82c2cef48c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This could be our only snow day of the winter, but it will be nice while it lasts.\n\n<img src=\"uploads/2019/82c2cef48c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-22T04:00:01-05:00",
 				"url": "https://micro.brianjon.es/2019/01/22/this-could-be.html"
 			},
@@ -1127,8 +1135,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2019/01/10/yacht-harbor-sculpture.html",
 				
-				"content_html": "<p>Yacht harbor sculpture on a lunchtime walk</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2019/27e099e7f6.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/e3ab5a12c7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Yacht harbor sculpture on a lunchtime walk\n\n<img src=\"http://micro.brianjon.es/uploads/2019/27e099e7f6.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"http://micro.brianjon.es/uploads/2019/e3ab5a12c7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Yacht harbor sculpture on a lunchtime walk</p>\n\n<p><img src=\"uploads/2019/27e099e7f6.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/e3ab5a12c7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Yacht harbor sculpture on a lunchtime walk\n\n<img src=\"uploads/2019/27e099e7f6.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/e3ab5a12c7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-10T06:32:04-05:00",
 				"url": "https://micro.brianjon.es/2019/01/10/yacht-harbor-sculpture.html"
 			},
@@ -1143,24 +1151,24 @@
 			{
 				"id": "http://jonesbp.micro.blog/2018/12/26/morning-frost-on.html",
 				
-				"content_html": "<p>Morning frost on the fields</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/4d292ff945.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Morning frost on the fields\n\n<img src=\"http://micro.brianjon.es/uploads/2018/4d292ff945.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Morning frost on the fields</p>\n\n<p><img src=\"uploads/2018/4d292ff945.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Morning frost on the fields\n\n<img src=\"uploads/2018/4d292ff945.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-26T03:19:51-05:00",
 				"url": "https://micro.brianjon.es/2018/12/26/morning-frost-on.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2018/12/25/christmas-afternoon-walk.html",
 				
-				"content_html": "<p>Christmas afternoon walk in the Kempen</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/b5eede55a7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Christmas afternoon walk in the Kempen\n\n<img src=\"http://micro.brianjon.es/uploads/2018/b5eede55a7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Christmas afternoon walk in the Kempen</p>\n\n<p><img src=\"uploads/2018/b5eede55a7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Christmas afternoon walk in the Kempen\n\n<img src=\"uploads/2018/b5eede55a7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-25T10:21:23-05:00",
 				"url": "https://micro.brianjon.es/2018/12/25/christmas-afternoon-walk.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2018/12/21/listening-to-the.html",
 				
-				"content_html": "<p>Listening to the <a href=\"https://open.spotify.com/album/0ybUMi0SERu1UqtTivSSFb?si=3zAvt4CqRSWuhq63bj9QgA\">John Denver Christmas album with The Muppets</a>. The best.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/a0f5cf5ead.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Listening to the [John Denver Christmas album with The Muppets](https://open.spotify.com/album/0ybUMi0SERu1UqtTivSSFb?si=3zAvt4CqRSWuhq63bj9QgA). The best.\n\n\n\n<img src=\"http://micro.brianjon.es/uploads/2018/a0f5cf5ead.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Listening to the <a href=\"https://open.spotify.com/album/0ybUMi0SERu1UqtTivSSFb?si=3zAvt4CqRSWuhq63bj9QgA\">John Denver Christmas album with The Muppets</a>. The best.</p>\n\n<p><img src=\"uploads/2018/a0f5cf5ead.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Listening to the [John Denver Christmas album with The Muppets](https://open.spotify.com/album/0ybUMi0SERu1UqtTivSSFb?si=3zAvt4CqRSWuhq63bj9QgA). The best.\n\n\n\n<img src=\"uploads/2018/a0f5cf5ead.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-21T12:17:04-05:00",
 				"url": "https://micro.brianjon.es/2018/12/21/listening-to-the.html"
 			},
@@ -1207,8 +1215,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2018/12/05/i-would-love.html",
 				
-				"content_html": "<p>I would love to try to recreate how <a href=\"http://www.shiringallery.com/exhibitions/scenery-play\">Hiva Alizadeh</a> layers these threads in ways that work both sculpturally and as images.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/9822610508.jpg\" alt=\"899fd317ab47258a3327a311aab6cf42\" title=\"899fd317ab47258a3327a311aab6cf42.jpeg\" border=\"0\" width=\"480\" height=\"640\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/f67f45796d.jpg\" alt=\"28e0393788116c4eb924dd7e6503e221\" title=\"28e0393788116c4eb924dd7e6503e221.jpeg\" border=\"0\" width=\"640\" height=\"572\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/41e44480d3.jpg\" alt=\"C7ba7af563f0da11cd76f2a436879aad\" title=\"c7ba7af563f0da11cd76f2a436879aad.jpeg\" border=\"0\" width=\"225\" height=\"300\" /></p>\n",
-				"content_text": "I would love to try to recreate how [Hiva Alizadeh](http://www.shiringallery.com/exhibitions/scenery-play) layers these threads in ways that work both sculpturally and as images.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/9822610508.jpg\" alt=\"899fd317ab47258a3327a311aab6cf42\" title=\"899fd317ab47258a3327a311aab6cf42.jpeg\" border=\"0\" width=\"480\" height=\"640\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/f67f45796d.jpg\" alt=\"28e0393788116c4eb924dd7e6503e221\" title=\"28e0393788116c4eb924dd7e6503e221.jpeg\" border=\"0\" width=\"640\" height=\"572\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/41e44480d3.jpg\" alt=\"C7ba7af563f0da11cd76f2a436879aad\" title=\"c7ba7af563f0da11cd76f2a436879aad.jpeg\" border=\"0\" width=\"225\" height=\"300\" />\n",
+				"content_html": "<p>I would love to try to recreate how <a href=\"http://www.shiringallery.com/exhibitions/scenery-play\">Hiva Alizadeh</a> layers these threads in ways that work both sculpturally and as images.</p>\n\n<p><img src=\"uploads/2018/9822610508.jpg\" alt=\"899fd317ab47258a3327a311aab6cf42\" title=\"899fd317ab47258a3327a311aab6cf42.jpeg\" border=\"0\" width=\"480\" height=\"640\" /></p>\n\n<p><img src=\"uploads/2018/f67f45796d.jpg\" alt=\"28e0393788116c4eb924dd7e6503e221\" title=\"28e0393788116c4eb924dd7e6503e221.jpeg\" border=\"0\" width=\"640\" height=\"572\" /></p>\n\n<p><img src=\"uploads/2018/41e44480d3.jpg\" alt=\"C7ba7af563f0da11cd76f2a436879aad\" title=\"c7ba7af563f0da11cd76f2a436879aad.jpeg\" border=\"0\" width=\"225\" height=\"300\" /></p>\n",
+				"content_text": "I would love to try to recreate how [Hiva Alizadeh](http://www.shiringallery.com/exhibitions/scenery-play) layers these threads in ways that work both sculpturally and as images.\n\n<img src=\"uploads/2018/9822610508.jpg\" alt=\"899fd317ab47258a3327a311aab6cf42\" title=\"899fd317ab47258a3327a311aab6cf42.jpeg\" border=\"0\" width=\"480\" height=\"640\" />\n\n<img src=\"uploads/2018/f67f45796d.jpg\" alt=\"28e0393788116c4eb924dd7e6503e221\" title=\"28e0393788116c4eb924dd7e6503e221.jpeg\" border=\"0\" width=\"640\" height=\"572\" />\n\n<img src=\"uploads/2018/41e44480d3.jpg\" alt=\"C7ba7af563f0da11cd76f2a436879aad\" title=\"c7ba7af563f0da11cd76f2a436879aad.jpeg\" border=\"0\" width=\"225\" height=\"300\" />\n",
 				"date_published": "2018-12-05T10:46:59-05:00",
 				"url": "https://micro.brianjon.es/2018/12/05/i-would-love.html"
 			},
@@ -1223,24 +1231,24 @@
 			{
 				"id": "http://jonesbp.micro.blog/2018/12/03/these-handkerchiefs-from.html",
 				
-				"content_html": "<p>These handkerchiefs from the new Dries Van Noten line featuring <a href=\"https://www.robertbeattyart.com/Dries-Van-Noten-Men-A-W-2018-2019\">art from Robert Beatty</a>…</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/abead72247.jpg\" alt=\"RB DriesVanNoten 02 8 1600 c\" title=\"RB_DriesVanNoten_02_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/0810ddbbf0.jpg\" alt=\"RB DriesVanNoten 01 8 1600 c\" title=\"RB_DriesVanNoten_01_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" /></p>\n",
-				"content_text": "These handkerchiefs from the new Dries Van Noten line featuring [art from Robert Beatty](https://www.robertbeattyart.com/Dries-Van-Noten-Men-A-W-2018-2019)…\n\n<img src=\"http://micro.brianjon.es/uploads/2018/abead72247.jpg\" alt=\"RB DriesVanNoten 02 8 1600 c\" title=\"RB_DriesVanNoten_02_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/0810ddbbf0.jpg\" alt=\"RB DriesVanNoten 01 8 1600 c\" title=\"RB_DriesVanNoten_01_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" />\n",
+				"content_html": "<p>These handkerchiefs from the new Dries Van Noten line featuring <a href=\"https://www.robertbeattyart.com/Dries-Van-Noten-Men-A-W-2018-2019\">art from Robert Beatty</a>…</p>\n\n<p><img src=\"uploads/2018/abead72247.jpg\" alt=\"RB DriesVanNoten 02 8 1600 c\" title=\"RB_DriesVanNoten_02_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" /></p>\n\n<p><img src=\"uploads/2018/0810ddbbf0.jpg\" alt=\"RB DriesVanNoten 01 8 1600 c\" title=\"RB_DriesVanNoten_01_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" /></p>\n",
+				"content_text": "These handkerchiefs from the new Dries Van Noten line featuring [art from Robert Beatty](https://www.robertbeattyart.com/Dries-Van-Noten-Men-A-W-2018-2019)…\n\n<img src=\"uploads/2018/abead72247.jpg\" alt=\"RB DriesVanNoten 02 8 1600 c\" title=\"RB_DriesVanNoten_02_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" />\n\n<img src=\"uploads/2018/0810ddbbf0.jpg\" alt=\"RB DriesVanNoten 01 8 1600 c\" title=\"RB_DriesVanNoten_01_8_1600_c.jpg\" border=\"0\" width=\"800\" height=\"800\" />\n",
 				"date_published": "2018-12-03T12:21:05-05:00",
 				"url": "https://micro.brianjon.es/2018/12/03/these-handkerchiefs-from.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2018/12/02/i-love-all.html",
 				
-				"content_html": "<p>I love all the work the negative space does in these <a href=\"http://www.christophniemann.com/portfolio/sketchbook-los-angeles/\">ink drawings of L.A. scenes by Christoph Niemann</a></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/347eac411c.jpg\" alt=\"Griffith Park I 498x660\" title=\"Griffith-Park-I-498x660.jpg\" border=\"0\" width=\"498\" height=\"660\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/c533451896.jpg\" alt=\"Highway II 498x658\" title=\"Highway-II-498x658.jpg\" border=\"0\" width=\"498\" height=\"658\" /></p>\n",
-				"content_text": "I love all the work the negative space does in these [ink drawings of L.A. scenes by Christoph Niemann](http://www.christophniemann.com/portfolio/sketchbook-los-angeles/)\n\n<img src=\"http://micro.brianjon.es/uploads/2018/347eac411c.jpg\" alt=\"Griffith Park I 498x660\" title=\"Griffith-Park-I-498x660.jpg\" border=\"0\" width=\"498\" height=\"660\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/c533451896.jpg\" alt=\"Highway II 498x658\" title=\"Highway-II-498x658.jpg\" border=\"0\" width=\"498\" height=\"658\" />\n",
+				"content_html": "<p>I love all the work the negative space does in these <a href=\"http://www.christophniemann.com/portfolio/sketchbook-los-angeles/\">ink drawings of L.A. scenes by Christoph Niemann</a></p>\n\n<p><img src=\"uploads/2018/347eac411c.jpg\" alt=\"Griffith Park I 498x660\" title=\"Griffith-Park-I-498x660.jpg\" border=\"0\" width=\"498\" height=\"660\" /></p>\n\n<p><img src=\"uploads/2018/c533451896.jpg\" alt=\"Highway II 498x658\" title=\"Highway-II-498x658.jpg\" border=\"0\" width=\"498\" height=\"658\" /></p>\n",
+				"content_text": "I love all the work the negative space does in these [ink drawings of L.A. scenes by Christoph Niemann](http://www.christophniemann.com/portfolio/sketchbook-los-angeles/)\n\n<img src=\"uploads/2018/347eac411c.jpg\" alt=\"Griffith Park I 498x660\" title=\"Griffith-Park-I-498x660.jpg\" border=\"0\" width=\"498\" height=\"660\" />\n\n<img src=\"uploads/2018/c533451896.jpg\" alt=\"Highway II 498x658\" title=\"Highway-II-498x658.jpg\" border=\"0\" width=\"498\" height=\"658\" />\n",
 				"date_published": "2018-12-02T11:03:11-05:00",
 				"url": "https://micro.brianjon.es/2018/12/02/i-love-all.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2018/12/02/grim-grains-is.html",
 				
-				"content_html": "<p><a href=\"http://grimgrains.com\">Grim Grains</a> is an online collection of vegan recipes by Rekka Bellum. I love the specificity and intentionality of every element.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/b3e80af6bf.jpg\" alt=\"Ingredients\" title=\"grimgrains1.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/c622387211.jpg\" alt=\"A Single Ingredient Page\" title=\"grimgrains2.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/9a56a404c6.jpg\" alt=\"Recipes Listing\" title=\"grimgrains3.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/644950e44b.jpg\" alt=\"Recipe\" title=\"grimgrains4.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n",
-				"content_text": "[Grim Grains](http://grimgrains.com) is an online collection of vegan recipes by Rekka Bellum. I love the specificity and intentionality of every element.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/b3e80af6bf.jpg\" alt=\"Ingredients\" title=\"grimgrains1.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/c622387211.jpg\" alt=\"A Single Ingredient Page\" title=\"grimgrains2.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/9a56a404c6.jpg\" alt=\"Recipes Listing\" title=\"grimgrains3.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n\n<img src=\"http://micro.brianjon.es/uploads/2018/644950e44b.jpg\" alt=\"Recipe\" title=\"grimgrains4.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n",
+				"content_html": "<p><a href=\"http://grimgrains.com\">Grim Grains</a> is an online collection of vegan recipes by Rekka Bellum. I love the specificity and intentionality of every element.</p>\n\n<p><img src=\"uploads/2018/b3e80af6bf.jpg\" alt=\"Ingredients\" title=\"grimgrains1.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n\n<p><img src=\"uploads/2018/c622387211.jpg\" alt=\"A Single Ingredient Page\" title=\"grimgrains2.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n\n<p><img src=\"uploads/2018/9a56a404c6.jpg\" alt=\"Recipes Listing\" title=\"grimgrains3.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n\n<p><img src=\"uploads/2018/644950e44b.jpg\" alt=\"Recipe\" title=\"grimgrains4.jpg\" border=\"0\" width=\"671\" height=\"671\" /></p>\n",
+				"content_text": "[Grim Grains](http://grimgrains.com) is an online collection of vegan recipes by Rekka Bellum. I love the specificity and intentionality of every element.\n\n<img src=\"uploads/2018/b3e80af6bf.jpg\" alt=\"Ingredients\" title=\"grimgrains1.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n\n<img src=\"uploads/2018/c622387211.jpg\" alt=\"A Single Ingredient Page\" title=\"grimgrains2.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n\n<img src=\"uploads/2018/9a56a404c6.jpg\" alt=\"Recipes Listing\" title=\"grimgrains3.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n\n<img src=\"uploads/2018/644950e44b.jpg\" alt=\"Recipe\" title=\"grimgrains4.jpg\" border=\"0\" width=\"671\" height=\"671\" />\n",
 				"date_published": "2018-12-02T08:40:09-05:00",
 				"url": "https://micro.brianjon.es/2018/12/02/grim-grains-is.html"
 			},
@@ -1271,24 +1279,24 @@
 			{
 				"id": "http://jonesbp.micro.blog/2018/11/29/these-orange-banded.html",
 				
-				"content_html": "<p>These orange banded quarter-cylinder tiles make for one of my favorite doorways on the morning commute.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/8ed09ea389.jpg\" alt=\"IMG 3402\" title=\"IMG_3402.jpeg\" border=\"0\" width=\"300\" height=\"300\" /></p>\n",
-				"content_text": "These orange banded quarter-cylinder tiles make for one of my favorite doorways on the morning commute.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/8ed09ea389.jpg\" alt=\"IMG 3402\" title=\"IMG_3402.jpeg\" border=\"0\" width=\"300\" height=\"300\" />\n",
+				"content_html": "<p>These orange banded quarter-cylinder tiles make for one of my favorite doorways on the morning commute.</p>\n\n<p><img src=\"uploads/2018/8ed09ea389.jpg\" alt=\"IMG 3402\" title=\"IMG_3402.jpeg\" border=\"0\" width=\"300\" height=\"300\" /></p>\n",
+				"content_text": "These orange banded quarter-cylinder tiles make for one of my favorite doorways on the morning commute.\n\n<img src=\"uploads/2018/8ed09ea389.jpg\" alt=\"IMG 3402\" title=\"IMG_3402.jpeg\" border=\"0\" width=\"300\" height=\"300\" />\n",
 				"date_published": "2018-11-29T10:28:01-05:00",
 				"url": "https://micro.brianjon.es/2018/11/29/these-orange-banded.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2018/11/29/love-this-peekaboo.html",
 				
-				"content_html": "<p>Love this peekaboo window over the water in the little café by our house.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/30affe574c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "Love this peekaboo window over the water in the little café by our house.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/30affe574c.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>Love this peekaboo window over the water in the little café by our house.</p>\n\n<p><img src=\"uploads/2018/30affe574c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Love this peekaboo window over the water in the little café by our house.\n\n<img src=\"uploads/2018/30affe574c.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-11-29T04:28:33-05:00",
 				"url": "https://micro.brianjon.es/2018/11/29/love-this-peekaboo.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2018/11/28/rainy-afternoon-bike.html",
 				
-				"content_html": "<p>Rainy afternoon bike ride</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/27c204a318.jpg\" width=\"600\" height=\"599\" /></p>\n",
-				"content_text": "Rainy afternoon bike ride\n\n<img src=\"http://micro.brianjon.es/uploads/2018/27c204a318.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_html": "<p>Rainy afternoon bike ride</p>\n\n<p><img src=\"uploads/2018/27c204a318.jpg\" width=\"600\" height=\"599\" /></p>\n",
+				"content_text": "Rainy afternoon bike ride\n\n<img src=\"uploads/2018/27c204a318.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-11-28T09:19:26-05:00",
 				"url": "https://micro.brianjon.es/2018/11/28/rainy-afternoon-bike.html"
 			},
@@ -1303,8 +1311,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2018/11/28/there-are-some.html",
 				
-				"content_html": "<p>There are some great looking 5.25&rdquo; floppy sleeves <a href=\"http://disksleeves.com\">archived here</a>, but I’m partial to this cornball exclamation point made from the hole in the diskette.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/c0850d43a4.jpg\" alt=\"Software excitement\" title=\"software-excitement.jpg\" border=\"0\" width=\"399\" height=\"337\" /></p>\n",
-				"content_text": "There are some great looking 5.25\" floppy sleeves [archived here](http://disksleeves.com), but I’m partial to this cornball exclamation point made from the hole in the diskette.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/c0850d43a4.jpg\" alt=\"Software excitement\" title=\"software-excitement.jpg\" border=\"0\" width=\"399\" height=\"337\" />\n",
+				"content_html": "<p>There are some great looking 5.25&rdquo; floppy sleeves <a href=\"http://disksleeves.com\">archived here</a>, but I’m partial to this cornball exclamation point made from the hole in the diskette.</p>\n\n<p><img src=\"uploads/2018/c0850d43a4.jpg\" alt=\"Software excitement\" title=\"software-excitement.jpg\" border=\"0\" width=\"399\" height=\"337\" /></p>\n",
+				"content_text": "There are some great looking 5.25\" floppy sleeves [archived here](http://disksleeves.com), but I’m partial to this cornball exclamation point made from the hole in the diskette.\n\n<img src=\"uploads/2018/c0850d43a4.jpg\" alt=\"Software excitement\" title=\"software-excitement.jpg\" border=\"0\" width=\"399\" height=\"337\" />\n",
 				"date_published": "2018-11-27T23:52:29-05:00",
 				"url": "https://micro.brianjon.es/2018/11/28/there-are-some.html"
 			},
@@ -1327,16 +1335,16 @@
 			{
 				"id": "http://jonesbp.micro.blog/2018/11/22/taking-time-away.html",
 				
-				"content_html": "<p>Taking time away from client work to do some personal organizing at a cafe by the Zuivelbrug.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/c453f9ff44.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "Taking time away from client work to do some personal organizing at a cafe by the Zuivelbrug.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/c453f9ff44.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>Taking time away from client work to do some personal organizing at a cafe by the Zuivelbrug.</p>\n\n<p><img src=\"uploads/2018/c453f9ff44.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Taking time away from client work to do some personal organizing at a cafe by the Zuivelbrug.\n\n<img src=\"uploads/2018/c453f9ff44.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-11-22T03:16:51-05:00",
 				"url": "https://micro.brianjon.es/2018/11/22/taking-time-away.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2018/11/20/playing-with-some.html",
 				
-				"content_html": "<p>Playing with some procedural distortions of landscape photos from the Farm Security Administration collection at Library of Congress</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/f1581439ee.jpg\" width=\"600\" height=\"404\" /></p>\n",
-				"content_text": "Playing with some procedural distortions of landscape photos from the Farm Security Administration collection at Library of Congress\n\n<img src=\"http://micro.brianjon.es/uploads/2018/f1581439ee.jpg\" width=\"600\" height=\"404\" />\n",
+				"content_html": "<p>Playing with some procedural distortions of landscape photos from the Farm Security Administration collection at Library of Congress</p>\n\n<p><img src=\"uploads/2018/f1581439ee.jpg\" width=\"600\" height=\"404\" /></p>\n",
+				"content_text": "Playing with some procedural distortions of landscape photos from the Farm Security Administration collection at Library of Congress\n\n<img src=\"uploads/2018/f1581439ee.jpg\" width=\"600\" height=\"404\" />\n",
 				"date_published": "2018-11-20T09:12:34-05:00",
 				"url": "https://micro.brianjon.es/2018/11/20/playing-with-some.html"
 			},
@@ -1359,24 +1367,24 @@
 			{
 				"id": "http://jonesbp.micro.blog/2018/11/19/todays-gentarea-library.html",
 				
-				"content_html": "<p>Today’s Gent-area library workspace is at the café at De Krook</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/b3ba92d3a1.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "Today’s Gent-area library workspace is at the café at De Krook\n\n<img src=\"http://micro.brianjon.es/uploads/2018/b3ba92d3a1.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>Today’s Gent-area library workspace is at the café at De Krook</p>\n\n<p><img src=\"uploads/2018/b3ba92d3a1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Today’s Gent-area library workspace is at the café at De Krook\n\n<img src=\"uploads/2018/b3ba92d3a1.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-11-19T05:34:34-05:00",
 				"url": "https://micro.brianjon.es/2018/11/19/todays-gentarea-library.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2018/11/18/a-leffe-and.html",
 				
-				"content_html": "<p>A Leffe and a bucket of spaghetti after the race</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/b6ab734ee5.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "A Leffe and a bucket of spaghetti after the race\n\n<img src=\"http://micro.brianjon.es/uploads/2018/b6ab734ee5.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>A Leffe and a bucket of spaghetti after the race</p>\n\n<p><img src=\"uploads/2018/b6ab734ee5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "A Leffe and a bucket of spaghetti after the race\n\n<img src=\"uploads/2018/b6ab734ee5.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-11-18T08:35:41-05:00",
 				"url": "https://micro.brianjon.es/2018/11/18/a-leffe-and.html"
 			},
 			{
 				"id": "http://jonesbp.micro.blog/2018/11/18/kasterlee-marathon-starting.html",
 				
-				"content_html": "<p>Kasterlee Marathon starting line</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/2e6ad4433a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "Kasterlee Marathon starting line\n\n<img src=\"http://micro.brianjon.es/uploads/2018/2e6ad4433a.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>Kasterlee Marathon starting line</p>\n\n<p><img src=\"uploads/2018/2e6ad4433a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Kasterlee Marathon starting line\n\n<img src=\"uploads/2018/2e6ad4433a.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-11-18T03:52:10-05:00",
 				"url": "https://micro.brianjon.es/2018/11/18/kasterlee-marathon-starting.html"
 			},
@@ -1415,8 +1423,8 @@
 			{
 				"id": "http://jonesbp.micro.blog/2018/11/10/todays-ghentarea-library.html",
 				
-				"content_html": "<p>Today’s Ghent-area library workspace is at De Krook.</p>\n\n<p><img src=\"http://micro.brianjon.es/uploads/2018/dfe9c45341.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "Today’s Ghent-area library workspace is at De Krook.\n\n<img src=\"http://micro.brianjon.es/uploads/2018/dfe9c45341.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>Today’s Ghent-area library workspace is at De Krook.</p>\n\n<p><img src=\"uploads/2018/dfe9c45341.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Today’s Ghent-area library workspace is at De Krook.\n\n<img src=\"uploads/2018/dfe9c45341.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-11-10T07:34:42-05:00",
 				"url": "https://micro.brianjon.es/2018/11/10/todays-ghentarea-library.html"
 			},
