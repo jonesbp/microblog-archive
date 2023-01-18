@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jonesbp.micro.blog/2023/01/18/events-of-the.html",
+				
+				"content_html": "<p>Events of the last few days have spurred me to finally write a little script to go through and resolve all of the t.co links in our PDR social media archive to their real target URLs for future-proofing.</p>\n",
+				"content_text": "Events of the last few days have spurred me to finally write a little script to go through and resolve all of the t.co links in our PDR social media archive to their real target URLs for future-proofing.\n",
+				"date_published": "2023-01-18T18:34:45-05:00",
+				"url": "https://micro.brianjon.es/2023/01/18/events-of-the.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2023/01/17/a-few-good.html",
+				
+				"content_html": "<p>A few good short runs in a row these last couple weeks, but I think I should release myself from the pressure of the spring marathon season and hope for an easy, full recovery before starting to prep for the fall.</p>\n",
+				"content_text": "A few good short runs in a row these last couple weeks, but I think I should release myself from the pressure of the spring marathon season and hope for an easy, full recovery before starting to prep for the fall.\n",
+				"date_published": "2023-01-17T10:00:44-05:00",
+				"url": "https://micro.brianjon.es/2023/01/17/a-few-good.html"
+			},
+			{
 				"id": "http://jonesbp.micro.blog/2023/01/13/i-pause-for.html",
 				
 				"content_html": "<p>I pause for a moment while setting up annual Todoist billing in January for fear that future me will be disappointed that this was related to some lame New Year’s Resolution. I swear to him it’s not.</p>\n",
