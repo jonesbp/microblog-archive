@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jonesbp.micro.blog/2023/02/02/very-stoked-on.html",
+				
+				"content_html": "<p>Very stoked on the new <a href=\"https://docs.astro.build/en/guides/content-collections/\">Content Collections API</a>, but I have some incredibly long and deeply nested JSON files that I’m not thrilled about having to redefine in YAML.</p>\n",
+				"content_text": "Very stoked on the new [Content Collections API](https://docs.astro.build/en/guides/content-collections/), but I have some incredibly long and deeply nested JSON files that I’m not thrilled about having to redefine in YAML.\n",
+				"date_published": "2023-02-02T10:06:31-05:00",
+				"url": "https://micro.brianjon.es/2023/02/02/very-stoked-on.html"
+			},
+			{
+				"id": "http://jonesbp.micro.blog/2023/01/31/enjoying-recent-stretching.html",
+				
+				"content_html": "<p>Enjoying recent ‘<a href=\"https://reversedeath.bandcamp.com/album/stretching-to-infinity\">Stretching to Infinity</a>’ from Seattle’s Reverse Death. Psychedelic folk and drones from sleepy pianos and flute over fingerpicked guitars.</p>\n",
+				"content_text": "Enjoying recent ‘[Stretching to Infinity](https://reversedeath.bandcamp.com/album/stretching-to-infinity)’ from Seattle’s Reverse Death. Psychedelic folk and drones from sleepy pianos and flute over fingerpicked guitars.\n",
+				"date_published": "2023-01-31T14:03:47-05:00",
+				"url": "https://micro.brianjon.es/2023/01/31/enjoying-recent-stretching.html"
+			},
+			{
 				"id": "http://jonesbp.micro.blog/2023/01/27/my-newest-innovation.html",
 				
 				"content_html": "<p>My newest innovation in posting avoidance is adding content to my unpublished personal website revamp which may never see the light of day.</p>\n",
