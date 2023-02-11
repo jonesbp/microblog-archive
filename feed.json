@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jonesbp.micro.blog/2023/02/11/listening-to-core.html",
+				
+				"content_html": "<p>Listening to Core Intuition and excited to hear Manton seem to brighten up when webhooks come up as a solution to the Twitter debacle, mentioning the users (including me) who have who have already asked for support for custom webhooks in the crossposting on Micro.blog. Will make my life so much easier on some of my personal site updates I’m working on.</p>\n",
+				"content_text": "Listening to Core Intuition and excited to hear Manton seem to brighten up when webhooks come up as a solution to the Twitter debacle, mentioning the users (including me) who have who have already asked for support for custom webhooks in the crossposting on Micro.blog. Will make my life so much easier on some of my personal site updates I’m working on.\n",
+				"date_published": "2023-02-11T07:41:57-05:00",
+				"url": "https://micro.brianjon.es/2023/02/11/listening-to-core.html"
+			},
+			{
 				"id": "http://jonesbp.micro.blog/2023/02/02/very-stoked-on.html",
 				
 				"content_html": "<p>Very stoked on the new <a href=\"https://docs.astro.build/en/guides/content-collections/\">Content Collections API</a>, but I have some incredibly long and deeply nested JSON files that I’m not thrilled about having to redefine in YAML.</p>\n",
