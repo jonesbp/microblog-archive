@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jonesbp.micro.blog/2023/02/19/drove-into-asheville.html",
+				
+				"content_html": "<p>Drove into Asheville today to meet Alse at Burial later in the afternoon. Doing some tourism beforehand centered around a trip to Harvest Records. Walking up and down Haywood Rd. I found the <a href=\"https://firestorm.coop/\">Firestorm co-op bookstore</a> which is absolutely wonderful.</p>\n\n<p><img src=\"uploads/2023/32eed71f69.jpg\" width=\"600\" height=\"450\" alt=\"Firestorm storefront viewed from across the street with mural of woodland creatures above the windows\"></p>\n",
+				"content_text": "Drove into Asheville today to meet Alse at Burial later in the afternoon. Doing some tourism beforehand centered around a trip to Harvest Records. Walking up and down Haywood Rd. I found the [Firestorm co-op bookstore](https://firestorm.coop/) which is absolutely wonderful.\n\n<img src=\"uploads/2023/32eed71f69.jpg\" width=\"600\" height=\"450\" alt=\"Firestorm storefront viewed from across the street with mural of woodland creatures above the windows\">\n",
+				"date_published": "2023-02-19T13:54:08-05:00",
+				"url": "https://micro.brianjon.es/2023/02/19/drove-into-asheville.html"
+			},
+			{
 				"id": "http://jonesbp.micro.blog/2023/02/11/listening-to-core.html",
 				
 				"content_html": "<p>Listening to Core Intuition and excited to hear Manton seem to brighten up when webhooks come up as a solution to the Twitter debacle, mentioning the users (including me) who have who have already asked for support for custom webhooks in the crossposting on Micro.blog. Will make my life so much easier on some of my personal site updates I’m working on.</p>\n",
